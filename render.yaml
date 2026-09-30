@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: bhusync-backend
+    runtime: docker
+    dockerfilePath: backend/Dockerfile
+    dockerContext: backend
+    plan: free
+    region: oregon
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: CORS_ORIGINS
+        value: "*"
+    healthCheckPath: /api/health
