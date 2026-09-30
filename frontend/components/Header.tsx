@@ -2,8 +2,9 @@
 
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { Database, UserCheck, ShieldCheck } from "lucide-react";
+import { Database, UserCheck, Menu } from "lucide-react";
 import { fetchDatasets } from "@/lib/api";
+import { useNav } from "@/components/NavContext";
 
 const PAGE_TITLES: Record<string, { title: string; subtitle?: string }> = {
   "/dashboard": { title: "Dashboard", subtitle: "Urban Land Data Overview" },
@@ -19,6 +20,7 @@ const PAGE_TITLES: Record<string, { title: string; subtitle?: string }> = {
 
 export default function Header() {
   const pathname = usePathname();
+  const { toggleMobile } = useNav();
   const [datasetCount, setDatasetCount] = useState<number | null>(null);
 
   useEffect(() => {
@@ -33,47 +35,57 @@ export default function Header() {
   const pageMeta = currentRoute ? PAGE_TITLES[currentRoute] : { title: "GIS Portal" };
 
   return (
-    <header className="h-16 bg-white border-b border-[#E2E8F0] px-6 flex items-center justify-between flex-shrink-0 sticky top-0 z-30 shadow-[0_1px_2px_rgba(0,0,0,0.03)]">
+    <header className="h-14 sm:h-16 bg-white border-b border-[#E2E8F0] px-3 sm:px-6 flex items-center justify-between flex-shrink-0 sticky top-0 z-30 shadow-[0_1px_2px_rgba(0,0,0,0.03)]">
       
-      {/* Current Page Title */}
-      <div className="flex items-baseline space-x-3">
-        <h1 className="text-lg font-bold text-[#1E293B] tracking-tight">
-          {pageMeta.title}
-        </h1>
-        {pageMeta.subtitle && (
-          <span className="hidden md:inline text-xs text-[#64748B]">
-            — {pageMeta.subtitle}
-          </span>
-        )}
+      {/* Mobile Hamburger + Page Title */}
+      <div className="flex items-center space-x-2 sm:space-x-3 min-w-0">
+        <button
+          onClick={toggleMobile}
+          className="md:hidden p-1.5 -ml-1 text-[#475569] hover:text-[#0F766E] hover:bg-[#F1F5F9] rounded-md transition-colors"
+          aria-label="Toggle navigation menu"
+        >
+          <Menu className="w-5 h-5" />
+        </button>
+
+        <div className="flex items-baseline space-x-2 truncate">
+          <h1 className="text-base sm:text-lg font-bold text-[#1E293B] tracking-tight truncate">
+            {pageMeta.title}
+          </h1>
+          {pageMeta.subtitle && (
+            <span className="hidden lg:inline text-xs text-[#64748B]">
+              — {pageMeta.subtitle}
+            </span>
+          )}
+        </div>
       </div>
 
       {/* Right Status Information */}
-      <div className="flex items-center space-x-4 text-xs">
+      <div className="flex items-center space-x-2 sm:space-x-4 text-xs flex-shrink-0">
         
-        {/* Connected Datasets */}
-        <div className="hidden sm:flex items-center space-x-1.5 px-2.5 py-1 bg-[#F8FAFC] border border-[#E2E8F0] rounded text-[#64748B] font-medium">
+        {/* Connected Datasets (Hidden on small mobile) */}
+        <div className="hidden md:flex items-center space-x-1.5 px-2.5 py-1 bg-[#F8FAFC] border border-[#E2E8F0] rounded text-[#64748B] font-medium">
           <Database className="w-3.5 h-3.5 text-[#0F766E]" />
           <span>
-            {datasetCount !== null ? `${datasetCount} datasets connected` : "Connecting..."}
+            {datasetCount !== null ? `${datasetCount} datasets` : "Connecting..."}
           </span>
         </div>
 
-        {/* Operational Status */}
+        {/* Operational Status (Small dot only on mobile) */}
         <div className="flex items-center space-x-1.5 text-xs font-medium text-[#15803D]">
-          <span className="w-2 h-2 rounded-full bg-[#15803D] inline-block" />
-          <span className="hidden md:inline">System operational</span>
+          <span className="w-2 h-2 rounded-full bg-[#15803D] inline-block animate-pulse" />
+          <span className="hidden sm:inline">Operational</span>
         </div>
 
-        <span className="text-[#CBD5E1]">|</span>
+        <span className="hidden sm:inline text-[#CBD5E1]">|</span>
 
         {/* User / GIS Officer */}
-        <div className="flex items-center space-x-2">
+        <div className="flex items-center space-x-1.5 sm:space-x-2">
           <div className="w-7 h-7 rounded bg-[#F0FDFA] border border-[#CCFBF1] flex items-center justify-center text-[#0F766E]">
             <UserCheck className="w-3.5 h-3.5" />
           </div>
-          <div className="text-left leading-none">
+          <div className="text-left leading-none hidden sm:block">
             <span className="block text-xs font-semibold text-[#1E293B]">Off. S. Patil</span>
-            <span className="text-[10px] text-[#64748B]">GIS Officer (Ward 23, VVMC)</span>
+            <span className="text-[10px] text-[#64748B] hidden lg:block">Ward 23, VVMC</span>
           </div>
         </div>
 

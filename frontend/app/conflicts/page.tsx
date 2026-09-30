@@ -95,11 +95,11 @@ export default function ConflictsPage() {
         </div>
 
         {/* Filter Bar */}
-        <div className="flex flex-wrap items-center gap-2">
+        <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-2 w-full sm:w-auto">
           <select
             value={statusFilter}
             onChange={(e) => setStatusFilter(e.target.value)}
-            className="bg-white border border-[#E2E8F0] text-xs rounded-md px-3 py-1.5 text-[#1E293B] focus:outline-none focus:border-[#0F766E]"
+            className="bg-white border border-[#E2E8F0] text-xs rounded-md px-3 py-1.5 text-[#1E293B] focus:outline-none focus:border-[#0F766E] w-full sm:w-auto"
           >
             <option value="">All Statuses</option>
             <option value="OPEN">Open Conflicts</option>
@@ -109,7 +109,7 @@ export default function ConflictsPage() {
           <select
             value={severityFilter}
             onChange={(e) => setSeverityFilter(e.target.value)}
-            className="bg-white border border-[#E2E8F0] text-xs rounded-md px-3 py-1.5 text-[#1E293B] focus:outline-none focus:border-[#0F766E]"
+            className="bg-white border border-[#E2E8F0] text-xs rounded-md px-3 py-1.5 text-[#1E293B] focus:outline-none focus:border-[#0F766E] w-full sm:w-auto"
           >
             <option value="">All Severities</option>
             <option value="CRITICAL">Critical</option>
@@ -121,7 +121,7 @@ export default function ConflictsPage() {
           <select
             value={typeFilter}
             onChange={(e) => setTypeFilter(e.target.value)}
-            className="bg-white border border-[#E2E8F0] text-xs rounded-md px-3 py-1.5 text-[#1E293B] focus:outline-none focus:border-[#0F766E]"
+            className="bg-white border border-[#E2E8F0] text-xs rounded-md px-3 py-1.5 text-[#1E293B] focus:outline-none focus:border-[#0F766E] w-full sm:w-auto"
           >
             <option value="">All Types</option>
             <option value="AREA_MISMATCH">Area Mismatch</option>

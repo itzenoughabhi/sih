@@ -67,15 +67,15 @@ export default function ParcelsListPage() {
         </div>
 
         {/* Filter & Search Bar */}
-        <div className="flex flex-wrap items-center gap-2">
-          <form onSubmit={handleSearchSubmit} className="relative">
+        <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-2 w-full sm:w-auto">
+          <form onSubmit={handleSearchSubmit} className="relative flex-1 sm:w-56">
             <Search className="w-3.5 h-3.5 text-[#94A3B8] absolute left-3 top-1/2 -translate-y-1/2" />
             <input
               type="text"
               placeholder="Search ID, Owner, Survey..."
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="bg-white border border-[#E2E8F0] text-xs rounded-md pl-8 pr-3 py-1.5 text-[#1E293B] placeholder-[#94A3B8] focus:outline-none focus:border-[#0F766E] w-56"
+              className="bg-white border border-[#E2E8F0] text-xs rounded-md pl-8 pr-3 py-1.5 text-[#1E293B] placeholder-[#94A3B8] focus:outline-none focus:border-[#0F766E] w-full"
             />
           </form>
 
@@ -85,7 +85,7 @@ export default function ParcelsListPage() {
               setStatusFilter(e.target.value);
               setPage(1);
             }}
-            className="bg-white border border-[#E2E8F0] text-xs rounded-md px-3 py-1.5 text-[#1E293B] focus:outline-none focus:border-[#0F766E]"
+            className="bg-white border border-[#E2E8F0] text-xs rounded-md px-3 py-1.5 text-[#1E293B] focus:outline-none focus:border-[#0F766E] w-full sm:w-auto"
           >
             <option value="">All Statuses</option>
             <option value="HIGH_CONFIDENCE">High Confidence (≥90%)</option>

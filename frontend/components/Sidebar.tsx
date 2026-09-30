@@ -12,10 +12,12 @@ import {
   History,
   Layers,
   Sparkles,
-  Loader2
+  Loader2,
+  X
 } from "lucide-react";
 import { useState } from "react";
 import { generateDemoDatasets } from "@/lib/api";
+import { useNav } from "@/components/NavContext";
 
 const NAV_ITEMS = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
@@ -29,6 +31,7 @@ const NAV_ITEMS = [
 
 export default function Sidebar() {
   const pathname = usePathname();
+  const { isMobileOpen, setIsMobileOpen } = useNav();
   const [seeding, setSeeding] = useState(false);
 
   const handleSeed = async () => {
@@ -44,12 +47,15 @@ export default function Sidebar() {
     }
   };
 
-  return (
-    <aside className="w-60 bg-[#115E59] text-white flex flex-col flex-shrink-0 h-screen sticky top-0 border-r border-[#0D4E4A] z-40 select-none">
-      
+  const closeMobile = () => {
+    setIsMobileOpen(false);
+  };
+
+  const navContent = (
+    <div className="flex flex-col h-full">
       {/* Brand Header */}
-      <div className="h-16 flex items-center px-5 border-b border-[#0D4E4A]/80">
-        <Link href="/dashboard" className="flex items-center space-x-2.5">
+      <div className="h-16 flex items-center justify-between px-5 border-b border-[#0D4E4A]/80">
+        <Link href="/dashboard" onClick={closeMobile} className="flex items-center space-x-2.5">
           <div className="w-8 h-8 rounded bg-white/10 flex items-center justify-center border border-white/20">
             <Layers className="w-4 h-4 text-teal-200" />
           </div>
@@ -62,6 +68,14 @@ export default function Sidebar() {
             </div>
           </div>
         </Link>
+        {/* Mobile close button */}
+        <button
+          onClick={closeMobile}
+          className="md:hidden p-1.5 text-teal-200 hover:text-white hover:bg-white/10 rounded-md"
+          aria-label="Close menu"
+        >
+          <X className="w-5 h-5" />
+        </button>
       </div>
 
       {/* Navigation Links */}
@@ -76,6 +90,7 @@ export default function Sidebar() {
             <Link
               key={item.href}
               href={item.href}
+              onClick={closeMobile}
               className={`flex items-center space-x-2.5 px-3 py-2 rounded-md text-[13px] font-medium transition-colors relative ${
                 isActive
                   ? "bg-white text-[#0F766E] shadow-sm font-semibold"
@@ -120,7 +135,31 @@ export default function Sidebar() {
         </div>
         <span className="text-[10px] font-mono text-teal-300/80 bg-black/20 px-1.5 py-0.5 rounded">v1.0</span>
       </div>
+    </div>
+  );
 
-    </aside>
+  return (
+    <>
+      {/* Desktop Sticky Sidebar (Hidden on mobile) */}
+      <aside className="hidden md:flex w-60 bg-[#115E59] text-white flex-col flex-shrink-0 h-screen sticky top-0 border-r border-[#0D4E4A] z-40 select-none">
+        {navContent}
+      </aside>
+
+      {/* Mobile Slide-over Drawer & Backdrop */}
+      {isMobileOpen && (
+        <div className="fixed inset-0 z-50 md:hidden flex">
+          {/* Backdrop Blur Overlay */}
+          <div
+            className="fixed inset-0 bg-black/60 backdrop-blur-xs transition-opacity animate-in fade-in duration-200"
+            onClick={closeMobile}
+          />
+
+          {/* Drawer Sidebar */}
+          <aside className="relative w-64 max-w-[85vw] bg-[#115E59] text-white flex flex-col h-full z-10 shadow-2xl animate-in slide-in-from-left duration-200 select-none">
+            {navContent}
+          </aside>
+        </div>
+      )}
+    </>
   );
 }

@@ -455,7 +455,7 @@ export default function MapPage() {
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-4">
         
         {/* Left / Dominant Element: GIS Map (75% on desktop) */}
-        <div className="lg:col-span-3 relative h-[680px] rounded-lg overflow-hidden border border-[#E2E8F0] bg-[#F1F5F9]">
+        <div className="lg:col-span-3 relative h-[420px] sm:h-[540px] lg:h-[680px] rounded-lg overflow-hidden border border-[#E2E8F0] bg-[#F1F5F9]">
           
           {loading && (
             <div className="absolute inset-0 z-30 bg-white/80 backdrop-blur-xs flex flex-col items-center justify-center space-y-2 text-xs text-[#64748B]">
@@ -468,16 +468,16 @@ export default function MapPage() {
           <div ref={mapContainerRef} className="w-full h-full" />
 
           {/* Practical Map Controls (Section 16: compact white boxes with subtle borders) */}
-          <div className="absolute top-3 left-3 z-20 flex flex-col space-y-2">
+          <div className="absolute top-2.5 left-2.5 sm:top-3 sm:left-3 z-20 flex flex-col space-y-2 max-w-[calc(100%-20px)]">
             
             {/* Search Parcel Input */}
-            <form onSubmit={handleSearch} className="flex items-center bg-white border border-[#E2E8F0] rounded-md shadow-xs overflow-hidden">
+            <form onSubmit={handleSearch} className="flex items-center bg-white border border-[#E2E8F0] rounded-md shadow-xs overflow-hidden w-fit max-w-full">
               <input
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Search Parcel ID / Survey No..."
-                className="px-3 py-1.5 text-xs text-[#1E293B] placeholder-[#94A3B8] focus:outline-none w-56"
+                placeholder="Search Parcel / Survey No..."
+                className="px-2.5 sm:px-3 py-1.5 text-xs text-[#1E293B] placeholder-[#94A3B8] focus:outline-none w-40 sm:w-56"
               />
               <button type="submit" className="p-1.5 text-[#64748B] hover:text-[#0F766E] border-l border-[#E2E8F0]">
                 <Search className="w-3.5 h-3.5" />
