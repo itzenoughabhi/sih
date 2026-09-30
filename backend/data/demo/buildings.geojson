@@ -1,0 +1,6382 @@
+{
+  "type": "FeatureCollection",
+  "name": "SIMULATED DEMONSTRATION DATA \u2014 NOT AN OFFICIAL LAND RECORD",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00142",
+        "parcel_id": "VVR-23-00142",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 186.42,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8231752039378,
+              19.417823710321773
+            ],
+            [
+              72.82328942370346,
+              19.41782507974486
+            ],
+            [
+              72.82328755519146,
+              19.417965371957358
+            ],
+            [
+              72.82317333532794,
+              19.417964002523604
+            ],
+            [
+              72.8231752039378,
+              19.417823710321773
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00002",
+        "parcel_id": "VVR-23-00217",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 275.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82213494032466,
+              19.41801897447681
+            ],
+            [
+              72.82224916014746,
+              19.418020344567243
+            ],
+            [
+              72.82224639721967,
+              19.418227689715735
+            ],
+            [
+              72.82213217725223,
+              19.41822631960953
+            ],
+            [
+              72.82213494032466,
+              19.41801897447681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00003",
+        "parcel_id": "VVR-23-00004",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 170.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262989295992,
+              19.418024911017298
+            ],
+            [
+              72.8227441128246,
+              19.41802628079689
+            ],
+            [
+              72.82274240804628,
+              19.41815424602931
+            ],
+            [
+              72.82262818809234,
+              19.41815287623998
+            ],
+            [
+              72.82262989295992,
+              19.418024911017298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00004",
+        "parcel_id": "VVR-23-00005",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82287736934558,
+              19.41802787878243
+            ],
+            [
+              72.82299158923117,
+              19.418029248406615
+            ],
+            [
+              72.82298978961255,
+              19.41816434792613
+            ],
+            [
+              72.8228755696327,
+              19.41816297829167
+            ],
+            [
+              72.82287736934558,
+              19.41802787878243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00005",
+        "parcel_id": "VVR-23-00006",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82188409408765,
+              19.418268865577055
+            ],
+            [
+              72.8219983140659,
+              19.41827023584214
+            ],
+            [
+              72.82199651360243,
+              19.41840533526854
+            ],
+            [
+              72.82188229352994,
+              19.418403964993182
+            ],
+            [
+              72.82188409408765,
+              19.418268865577055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00006",
+        "parcel_id": "VVR-23-00007",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 198.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82213157071939,
+              19.41827183439407
+            ],
+            [
+              72.82224579071857,
+              19.41827320450374
+            ],
+            [
+              72.82224380513763,
+              19.418422211248473
+            ],
+            [
+              72.82212958503452,
+              19.418420841127475
+            ],
+            [
+              72.82213157071939,
+              19.41827183439407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00007",
+        "parcel_id": "VVR-23-00008",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 186.36,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237904739651,
+              19.41827480287435
+            ],
+            [
+              72.82249326741662,
+              19.418276172828598
+            ],
+            [
+              72.82249139877624,
+              19.418416419806068
+            ],
+            [
+              72.82237717865829,
+              19.41841504984116
+            ],
+            [
+              72.82237904739651,
+              19.41827480287435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00008",
+        "parcel_id": "VVR-23-00009",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262652411897,
+              19.418277771017895
+            ],
+            [
+              72.82274074416001,
+              19.418279140816722
+            ],
+            [
+              72.82273894430911,
+              19.418414240309914
+            ],
+            [
+              72.82262472417382,
+              19.41841287050082
+            ],
+            [
+              72.82262652411897,
+              19.418277771017895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00009",
+        "parcel_id": "VVR-23-00011",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 189.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8218807240476,
+              19.418521725445043
+            ],
+            [
+              72.82199494420223,
+              19.418523095729366
+            ],
+            [
+              72.82199304863082,
+              19.41866532941259
+            ],
+            [
+              72.82187882837697,
+              19.418663959117453
+            ],
+            [
+              72.8218807240476,
+              19.418521725445043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00010",
+        "parcel_id": "VVR-23-00012",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 186.36,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212820106152,
+              19.41852469430374
+            ],
+            [
+              72.82224242123709,
+              19.41852606443264
+            ],
+            [
+              72.82224055235557,
+              19.418666311382786
+            ],
+            [
+              72.82212633208216,
+              19.418664941243218
+            ],
+            [
+              72.82212820106152,
+              19.41852469430374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00011",
+        "parcel_id": "VVR-23-00013",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 188.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237567812079,
+              19.418527662825696
+            ],
+            [
+              72.8224898983173,
+              19.418529032799174
+            ],
+            [
+              72.82248801280197,
+              19.418670544072246
+            ],
+            [
+              72.82237379250675,
+              19.418669174088006
+            ],
+            [
+              72.82237567812079,
+              19.418527662825696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00012",
+        "parcel_id": "VVR-23-00014",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 189.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262315522541,
+              19.418530631010903
+            ],
+            [
+              72.82273737544286,
+              19.41853200082896
+            ],
+            [
+              72.82273548051634,
+              19.41867423458251
+            ],
+            [
+              72.8226212601997,
+              19.41867286475363
+            ],
+            [
+              72.82262315522541,
+              19.418530631010903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00013",
+        "parcel_id": "VVR-23-00015",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 186.36,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82287063237541,
+              19.418533598859362
+            ],
+            [
+              72.82298485261379,
+              19.418534968522003
+            ],
+            [
+              72.82298298436815,
+              19.418675215541477
+            ],
+            [
+              72.82286876403195,
+              19.418673845868177
+            ],
+            [
+              72.82287063237541,
+              19.418533598859362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00014",
+        "parcel_id": "VVR-23-00016",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 170.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187735395495,
+              19.418774585305442
+            ],
+            [
+              72.82199157428597,
+              19.418775955608996
+            ],
+            [
+              72.82198986884758,
+              19.418903920766613
+            ],
+            [
+              72.8218756484273,
+              19.41890255045332
+            ],
+            [
+              72.82187735395495,
+              19.418774585305442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00015",
+        "parcel_id": "VVR-23-00017",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212483135105,
+              19.41877755420581
+            ],
+            [
+              72.822239051703,
+              19.418778924353948
+            ],
+            [
+              72.82223725138749,
+              19.4189140237945
+            ],
+            [
+              72.8221230309413,
+              19.418912653636095
+            ],
+            [
+              72.82212483135105,
+              19.41877755420581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00016",
+        "parcel_id": "VVR-23-00018",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 189.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237230879248,
+              19.41878052276944
+            ],
+            [
+              72.82248652916537,
+              19.418781892762148
+            ],
+            [
+              72.8224846339943,
+              19.41892412648799
+            ],
+            [
+              72.8223704135222,
+              19.41892275648446
+            ],
+            [
+              72.82237230879248,
+              19.41878052276944
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00017",
+        "parcel_id": "VVR-23-00019",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 170.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261978627929,
+              19.41878349099631
+            ],
+            [
+              72.8227340066731,
+              19.418784860833597
+            ],
+            [
+              72.82273230181495,
+              19.41891282605448
+            ],
+            [
+              72.82261808133185,
+              19.41891145620746
+            ],
+            [
+              72.82261978627929,
+              19.41878349099631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00018",
+        "parcel_id": "VVR-23-00021",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187398380968,
+              19.41902744515824
+            ],
+            [
+              72.8219882043171,
+              19.41902881548103
+            ],
+            [
+              72.8219864037693,
+              19.419163914895265
+            ],
+            [
+              72.82187218316764,
+              19.419162544562194
+            ],
+            [
+              72.82187398380968,
+              19.41902744515824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00019",
+        "parcel_id": "VVR-23-00022",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 198.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212146158795,
+              19.419030414100284
+            ],
+            [
+              72.8222356821163,
+              19.419031784267656
+            ],
+            [
+              72.82223369644235,
+              19.41918079099897
+            ],
+            [
+              72.82211947581006,
+              19.419179420820267
+            ],
+            [
+              72.82212146158795,
+              19.419030414100284
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00020",
+        "parcel_id": "VVR-23-00023",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 186.36,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82236893941158,
+              19.41903338270558
+            ],
+            [
+              72.82248315996085,
+              19.419034752717526
+            ],
+            [
+              72.82248129123295,
+              19.41917499968236
+            ],
+            [
+              72.82236707058583,
+              19.419173629659753
+            ],
+            [
+              72.82236893941158,
+              19.41903338270558
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00021",
+        "parcel_id": "VVR-23-00024",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261641728056,
+              19.419036350974125
+            ],
+            [
+              72.82273063785075,
+              19.419037720830644
+            ],
+            [
+              72.82272883791555,
+              19.419172820311662
+            ],
+            [
+              72.82261461725109,
+              19.41917145044488
+            ],
+            [
+              72.82261641728056,
+              19.419036350974125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00022",
+        "parcel_id": "VVR-23-00025",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 198.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82286389519489,
+              19.419039318905913
+            ],
+            [
+              72.82297811578603,
+              19.419040688607
+            ],
+            [
+              72.82297613078772,
+              19.419189695411973
+            ],
+            [
+              72.82286191009263,
+              19.419188325699555
+            ],
+            [
+              72.82286389519489,
+              19.419039318905913
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00023",
+        "parcel_id": "VVR-23-00026",
+        "building_type": "Commercial",
+        "floors": 2,
+        "footprint_area_sqm": 170.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82336280392607,
+              19.41803369918982
+            ],
+            [
+              72.82347702385272,
+              19.418035068509145
+            ],
+            [
+              72.82347531964716,
+              19.41816303380399
+            ],
+            [
+              72.82336109963126,
+              19.418161664474937
+            ],
+            [
+              72.82336280392607,
+              19.41803369918982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00024",
+        "parcel_id": "VVR-23-00027",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.823610280446,
+              19.4180366659577
+            ],
+            [
+              72.82372450039357,
+              19.418038035121608
+            ],
+            [
+              72.82372270137964,
+              19.41817313470703
+            ],
+            [
+              72.82360848133783,
+              19.41817176553285
+            ],
+            [
+              72.823610280446,
+              19.4180366659577
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00025",
+        "parcel_id": "VVR-23-00028",
+        "building_type": "Mixed-Use",
+        "floors": 3,
+        "footprint_area_sqm": 189.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82385775701125,
+              19.418039632388844
+            ],
+            [
+              72.82397197697975,
+              19.418041001397338
+            ],
+            [
+              72.82397008317896,
+              19.418183235275663
+            ],
+            [
+              72.82385586311126,
+              19.41818186625636
+            ],
+            [
+              72.82385775701125,
+              19.418039632388844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00026",
+        "parcel_id": "VVR-23-00029",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 170.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82410523362185,
+              19.418042598483257
+            ],
+            [
+              72.82421945361125,
+              19.41804396733633
+            ],
+            [
+              72.82421774998589,
+              19.418171932694396
+            ],
+            [
+              72.82410352990723,
+              19.41817056383159
+            ],
+            [
+              72.82410523362185,
+              19.418042598483257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00027",
+        "parcel_id": "VVR-23-00031",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233594362169,
+              19.41828655931379
+            ],
+            [
+              72.82347365631993,
+              19.41828792865234
+            ],
+            [
+              72.82347185707373,
+              19.41842302821145
+            ],
+            [
+              72.82335763687645,
+              19.41842165886263
+            ],
+            [
+              72.8233594362169,
+              19.41828655931379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00028",
+        "parcel_id": "VVR-23-00032",
+        "building_type": "Commercial",
+        "floors": 3,
+        "footprint_area_sqm": 198.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.823606913119,
+              19.41828952612332
+            ],
+            [
+              72.82372113324294,
+              19.41829089530645
+            ],
+            [
+              72.82371914900456,
+              19.41843990219753
+            ],
+            [
+              72.82360492877667,
+              19.41843853300307
+            ],
+            [
+              72.823606913119,
+              19.41828952612332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00029",
+        "parcel_id": "VVR-23-00033",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 186.36,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82385439006642,
+              19.41829249259611
+            ],
+            [
+              72.82396861021128,
+              19.418293861623816
+            ],
+            [
+              72.82396674283454,
+              19.418434108739014
+            ],
+            [
+              72.82385252259184,
+              19.418432739700645
+            ],
+            [
+              72.82385439006642,
+              19.41829249259611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00030",
+        "parcel_id": "VVR-23-00034",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82410186705916,
+              19.418295458732157
+            ],
+            [
+              72.82421608722495,
+              19.418296827604447
+            ],
+            [
+              72.8242142885913,
+              19.418431927230298
+            ],
+            [
+              72.82410006833126,
+              19.41843055834774
+            ],
+            [
+              72.82410186705916,
+              19.418295458732157
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00031",
+        "parcel_id": "VVR-23-00035",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434934409723,
+              19.41829842453146
+            ],
+            [
+              72.82446356428393,
+              19.41829979324833
+            ],
+            [
+              72.82446176585447,
+              19.41843489289643
+            ],
+            [
+              72.82434754557352,
+              19.41843352416929
+            ],
+            [
+              72.82434934409723,
+              19.41829842453146
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00032",
+        "parcel_id": "VVR-23-00036",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 189.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335606845515,
+              19.418539419430164
+            ],
+            [
+              72.82347028873457,
+              19.41854078878794
+            ],
+            [
+              72.82346839444469,
+              19.418683022610875
+            ],
+            [
+              72.82335417406607,
+              19.41868165324229
+            ],
+            [
+              72.82335606845515,
+              19.418539419430164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00033",
+        "parcel_id": "VVR-23-00037",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 186.36,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360354573942,
+              19.418542386281345
+            ],
+            [
+              72.82371776603975,
+              19.418543755483693
+            ],
+            [
+              72.82371589842188,
+              19.41868400257158
+            ],
+            [
+              72.82360167802372,
+              19.41868263335857
+            ],
+            [
+              72.82360354573942,
+              19.418542386281345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00034",
+        "parcel_id": "VVR-23-00038",
+        "building_type": "Commercial",
+        "floors": 3,
+        "footprint_area_sqm": 188.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82385102306901,
+              19.41854535279577
+            ],
+            [
+              72.82396524339026,
+              19.418546721842706
+            ],
+            [
+              72.82396335914997,
+              19.418688233254745
+            ],
+            [
+              72.82384913873001,
+              19.418686864197056
+            ],
+            [
+              72.82385102306901,
+              19.41854535279577
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00035",
+        "parcel_id": "VVR-23-00039",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 189.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409850044391,
+              19.418548318973464
+            ],
+            [
+              72.8242127207861,
+              19.41854968786497
+            ],
+            [
+              72.82421082714114,
+              19.41869192175818
+            ],
+            [
+              72.82409660669975,
+              19.418690552855857
+            ],
+            [
+              72.82409850044391,
+              19.418548318973464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00036",
+        "parcel_id": "VVR-23-00040",
+        "building_type": "Mixed-Use",
+        "floors": 3,
+        "footprint_area_sqm": 186.36,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434597786416,
+              19.418551284814395
+            ],
+            [
+              72.82446019822723,
+              19.41855265355049
+            ],
+            [
+              72.82445833124528,
+              19.418692900707654
+            ],
+            [
+              72.82434411078437,
+              19.418691531960913
+            ],
+            [
+              72.82434597786416,
+              19.418551284814395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00037",
+        "parcel_id": "VVR-23-00041",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 170.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335270064084,
+              19.418792279538945
+            ],
+            [
+              72.82346692109662,
+              19.418793648915944
+            ],
+            [
+              72.82346521681124,
+              19.418921614199252
+            ],
+            [
+              72.82335099626619,
+              19.418920244812533
+            ],
+            [
+              72.82335270064084,
+              19.418792279538945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00038",
+        "parcel_id": "VVR-23-00042",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 179.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360017830726,
+              19.418795246431774
+            ],
+            [
+              72.82371439878398,
+              19.418796615653342
+            ],
+            [
+              72.82371259968578,
+              19.418931715226588
+            ],
+            [
+              72.82359837911481,
+              19.418930345994745
+            ],
+            [
+              72.82360017830726,
+              19.418795246431774
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00039",
+        "parcel_id": "VVR-23-00043",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 189.0,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82384765601903,
+              19.41879821298785
+            ],
+            [
+              72.82396187651666,
+              19.418799582053992
+            ],
+            [
+              72.82395998262717,
+              19.418941815919514
+            ],
+            [
+              72.82384576203032,
+              19.41894044684255
+            ],
+            [
+              72.82384765601903,
+              19.41879821298785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00040",
+        "parcel_id": "VVR-23-00044",
+        "building_type": "Commercial",
+        "floors": 2,
+        "footprint_area_sqm": 170.04,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409513377611,
+              19.418801179207172
+            ],
+            [
+              72.82420935429467,
+              19.4188025481179
+            ],
+            [
+              72.82420765058953,
+              19.418930513464428
+            ],
+            [
+              72.8240934299817,
+              19.41892914454398
+            ],
+            [
+              72.82409513377611,
+              19.418801179207172
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00041",
+        "parcel_id": "VVR-23-00045",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8243256949058,
+              19.418787684467265
+            ],
+            [
+              72.82439803457157,
+              19.418788551359977
+            ],
+            [
+              72.82439715093615,
+              19.418854927183574
+            ],
+            [
+              72.82432481124104,
+              19.418854060287657
+            ],
+            [
+              72.8243256949058,
+              19.418787684467265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00042",
+        "parcel_id": "VVR-23-00045",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82432434235623,
+              19.418889280110502
+            ],
+            [
+              72.8243966820669,
+              19.41889014700811
+            ],
+            [
+              72.82439579842594,
+              19.418956522830896
+            ],
+            [
+              72.82432345868595,
+              19.418955655930098
+            ],
+            [
+              72.82432345868595,
+              19.418955655930098
+            ],
+            [
+              72.82432434235623,
+              19.418889280110502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00043",
+        "parcel_id": "VVR-23-00046",
+        "building_type": "Mixed-Use",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82333241618895,
+              19.419028678932715
+            ],
+            [
+              72.82340475591344,
+              19.419029546231346
+            ],
+            [
+              72.82340387186294,
+              19.419095922009216
+            ],
+            [
+              72.82333153210912,
+              19.419095054707384
+            ],
+            [
+              72.82333241618895,
+              19.419028678932715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00044",
+        "parcel_id": "VVR-23-00046",
+        "building_type": "Mixed-Use",
+        "floors": 4,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82333106300406,
+              19.419130274505974
+            ],
+            [
+              72.82340340277344,
+              19.419131141809498
+            ],
+            [
+              72.82340251871739,
+              19.41919751758657
+            ],
+            [
+              72.82333017891868,
+              19.41919665027985
+            ],
+            [
+              72.82333017891868,
+              19.41919665027985
+            ],
+            [
+              72.82333106300406,
+              19.419130274505974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00045",
+        "parcel_id": "VVR-23-00047",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82357989420984,
+              19.419031645887824
+            ],
+            [
+              72.82365604130233,
+              19.41903255872934
+            ],
+            [
+              72.82365511526079,
+              19.41910209527015
+            ],
+            [
+              72.82357896813599,
+              19.419101182425113
+            ],
+            [
+              72.82357989420984,
+              19.419031645887824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00046",
+        "parcel_id": "VVR-23-00047",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82357846300312,
+              19.41913911144521
+            ],
+            [
+              72.82365461014557,
+              19.419140024292165
+            ],
+            [
+              72.8236536840979,
+              19.419209560832094
+            ],
+            [
+              72.82357753692311,
+              19.419208647981613
+            ],
+            [
+              72.82357753692311,
+              19.419208647981613
+            ],
+            [
+              72.82357846300312,
+              19.41913911144521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00047",
+        "parcel_id": "VVR-23-00048",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82382737227609,
+              19.41903461250618
+            ],
+            [
+              72.82389590467167,
+              19.41903543397172
+            ],
+            [
+              72.82389493664375,
+              19.41910813127598
+            ],
+            [
+              72.82382640421774,
+              19.419107309807124
+            ],
+            [
+              72.82382737227609,
+              19.41903461250618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00048",
+        "parcel_id": "VVR-23-00048",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82382586306521,
+              19.41914794804961
+            ],
+            [
+              72.82389439550823,
+              19.419148769520323
+            ],
+            [
+              72.82389342747355,
+              19.419221466823604
+            ],
+            [
+              72.82382489500009,
+              19.419220645349572
+            ],
+            [
+              72.82382489500009,
+              19.419220645349572
+            ],
+            [
+              72.82382586306521,
+              19.41914794804961
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00049",
+        "parcel_id": "VVR-23-00049",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82407485038765,
+              19.419037578787776
+            ],
+            [
+              72.82414719015189,
+              19.4190384457911
+            ],
+            [
+              72.82414630640235,
+              19.419104821601763
+            ],
+            [
+              72.82407396660878,
+              19.419103954595244
+            ],
+            [
+              72.82407485038765,
+              19.419037578787776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00050",
+        "parcel_id": "VVR-23-00049",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82407349766342,
+              19.419139174411235
+            ],
+            [
+              72.82414583747256,
+              19.419140041419446
+            ],
+            [
+              72.82414495371748,
+              19.41920641722931
+            ],
+            [
+              72.82407261387903,
+              19.419205550217907
+            ],
+            [
+              72.82407261387903,
+              19.419205550217907
+            ],
+            [
+              72.82407349766342,
+              19.419139174411235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00051",
+        "parcel_id": "VVR-21-00051",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8218907667057,
+              19.41648238548199
+            ],
+            [
+              72.82195929794307,
+              19.416483207574576
+            ],
+            [
+              72.82195841343103,
+              19.41654958330701
+            ],
+            [
+              72.8218898821659,
+              19.416548761211402
+            ],
+            [
+              72.8218907667057,
+              19.41648238548199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00052",
+        "parcel_id": "VVR-21-00051",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82188941281679,
+              19.416583980985973
+            ],
+            [
+              72.82195794409665,
+              19.416584803083193
+            ],
+            [
+              72.82195705957908,
+              19.416651178814828
+            ],
+            [
+              72.82188852827144,
+              19.416650356714584
+            ],
+            [
+              72.82188852827144,
+              19.416650356714584
+            ],
+            [
+              72.82188941281679,
+              19.416583980985973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00053",
+        "parcel_id": "VVR-21-00052",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82213824063477,
+              19.416485354027916
+            ],
+            [
+              72.82221057917644,
+              19.416486221693127
+            ],
+            [
+              72.82220969476627,
+              19.416552597436674
+            ],
+            [
+              72.82213735619527,
+              19.416551729768265
+            ],
+            [
+              72.82213824063477,
+              19.416485354027916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00054",
+        "parcel_id": "VVR-21-00052",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82213688689937,
+              19.416586949548638
+            ],
+            [
+              72.82220922548593,
+              19.416587817218744
+            ],
+            [
+              72.82220834107022,
+              19.41665419296149
+            ],
+            [
+              72.82213600245434,
+              19.416653325288188
+            ],
+            [
+              72.82213600245434,
+              19.416653325288188
+            ],
+            [
+              72.82213688689937,
+              19.416586949548638
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00055",
+        "parcel_id": "VVR-21-00053",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8223857146092,
+              19.416488322237132
+            ],
+            [
+              72.82246186045658,
+              19.41648923546453
+            ],
+            [
+              72.82246097614826,
+              19.416555611219184
+            ],
+            [
+              72.82238483027,
+              19.416554697988417
+            ],
+            [
+              72.8223857146092,
+              19.416488322237132
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00056",
+        "parcel_id": "VVR-21-00053",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82238436102733,
+              19.416589917774598
+            ],
+            [
+              72.82246050692197,
+              19.41659083100715
+            ],
+            [
+              72.82245962260811,
+              19.416657206761005
+            ],
+            [
+              72.8223834766826,
+              19.41665629352508
+            ],
+            [
+              72.8223834766826,
+              19.41665629352508
+            ],
+            [
+              72.82238436102733,
+              19.416589917774598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00057",
+        "parcel_id": "VVR-21-00054",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82263318862896,
+              19.41649129010964
+            ],
+            [
+              72.82270171990399,
+              19.416492111922494
+            ],
+            [
+              72.82270083569288,
+              19.41655848768775
+            ],
+            [
+              72.82263230439007,
+              19.416557665871863
+            ],
+            [
+              72.82263318862896,
+              19.41649129010964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00058",
+        "parcel_id": "VVR-21-00054",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82263183520062,
+              19.416592885663846
+            ],
+            [
+              72.82270036651818,
+              19.416593707481336
+            ],
+            [
+              72.82269948230153,
+              19.416660083245795
+            ],
+            [
+              72.8226309509562,
+              19.416659261425266
+            ],
+            [
+              72.8226309509562,
+              19.416659261425266
+            ],
+            [
+              72.82263183520062,
+              19.416592885663846
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00059",
+        "parcel_id": "VVR-21-00055",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82288066269408,
+              19.416494257645443
+            ],
+            [
+              72.82295300127552,
+              19.41649512501538
+            ],
+            [
+              72.82295211716627,
+              19.416561500791744
+            ],
+            [
+              72.8228797785555,
+              19.4165606334186
+            ],
+            [
+              72.82288066269408,
+              19.416494257645443
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00060",
+        "parcel_id": "VVR-21-00055",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82287930941928,
+              19.416595853216393
+            ],
+            [
+              72.8229516480456,
+              19.41659672059123
+            ],
+            [
+              72.8229507639308,
+              19.41666309636678
+            ],
+            [
+              72.82287842527516,
+              19.416662228988752
+            ],
+            [
+              72.82287842527516,
+              19.416662228988752
+            ],
+            [
+              72.82287930941928,
+              19.416595853216393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00061",
+        "parcel_id": "VVR-21-00056",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82188739701088,
+              19.416735245400755
+            ],
+            [
+              72.82195973565099,
+              19.41673611317657
+            ],
+            [
+              72.82195885112671,
+              19.41680248890718
+            ],
+            [
+              72.82188651245727,
+              19.41680162112816
+            ],
+            [
+              72.82188739701088,
+              19.416735245400755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00062",
+        "parcel_id": "VVR-21-00056",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82188604310082,
+              19.416836840901674
+            ],
+            [
+              72.82195838178582,
+              19.416837708682387
+            ],
+            [
+              72.82195749725598,
+              19.416904084412202
+            ],
+            [
+              72.82188515854166,
+              19.416903216628295
+            ],
+            [
+              72.82188515854166,
+              19.416903216628295
+            ],
+            [
+              72.82188604310082,
+              19.416836840901674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00063",
+        "parcel_id": "VVR-21-00057",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82213487132206,
+              19.416738213988346
+            ],
+            [
+              72.8222110172731,
+              19.416739127332175
+            ],
+            [
+              72.82221009073521,
+              19.416808663823492
+            ],
+            [
+              72.82213394475184,
+              19.41680775047614
+            ],
+            [
+              72.82213487132206,
+              19.416738213988346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00064",
+        "parcel_id": "VVR-21-00057",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82213343934824,
+              19.416845679469226
+            ],
+            [
+              72.82220958534924,
+              19.4168465928185
+            ],
+            [
+              72.8222086588052,
+              19.41691612930893
+            ],
+            [
+              72.82213251277187,
+              19.416915215956127
+            ],
+            [
+              72.82213251277187,
+              19.416915215956127
+            ],
+            [
+              72.82213343934824,
+              19.416845679469226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00065",
+        "parcel_id": "VVR-21-00058",
+        "building_type": "Mixed-Use",
+        "floors": 2,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8223823456786,
+              19.41674118223923
+            ],
+            [
+              72.8224508770469,
+              19.416742004156866
+            ],
+            [
+              72.82244990850003,
+              19.416814701409383
+            ],
+            [
+              72.82238137710134,
+              19.41681387948843
+            ],
+            [
+              72.8223823456786,
+              19.41674118223923
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00066",
+        "parcel_id": "VVR-21-00058",
+        "building_type": "Mixed-Use",
+        "floors": 2,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82238083565872,
+              19.41685451770199
+            ],
+            [
+              72.82244936707444,
+              19.416855339624803
+            ],
+            [
+              72.82244839852082,
+              19.416928036876342
+            ],
+            [
+              72.82237986707467,
+              19.416927214950213
+            ],
+            [
+              72.82237986707467,
+              19.416927214950213
+            ],
+            [
+              72.82238083565872,
+              19.41685451770199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00067",
+        "parcel_id": "VVR-21-00059",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262982008051,
+              19.41674415015341
+            ],
+            [
+              72.82270215876039,
+              19.416745017633954
+            ],
+            [
+              72.82270127453702,
+              19.416811393397378
+            ],
+            [
+              72.82262893582782,
+              19.416810525913636
+            ],
+            [
+              72.82262982008051,
+              19.41674415015341
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00068",
+        "parcel_id": "VVR-21-00059",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262846663104,
+              19.416845745704563
+            ],
+            [
+              72.82270080535581,
+              19.41684661319
+            ],
+            [
+              72.8226999211269,
+              19.41691298895263
+            ],
+            [
+              72.82262758237282,
+              19.416912121463998
+            ],
+            [
+              72.82262758237282,
+              19.416912121463998
+            ],
+            [
+              72.82262846663104,
+              19.416845745704563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00069",
+        "parcel_id": "VVR-21-00060",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82287729452774,
+              19.41674711773087
+            ],
+            [
+              72.82295344052064,
+              19.41674803076389
+            ],
+            [
+              72.822952514298,
+              19.41681756728958
+            ],
+            [
+              72.82287636827279,
+              19.416816654253033
+            ],
+            [
+              72.82287729452774,
+              19.41674711773087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00070",
+        "parcel_id": "VVR-21-00060",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82287586304113,
+              19.416854583264875
+            ],
+            [
+              72.82295200908399,
+              19.41685549630334
+            ],
+            [
+              72.82295108285523,
+              19.41692503282814
+            ],
+            [
+              72.82287493678002,
+              19.416924119786152
+            ],
+            [
+              72.82287493678002,
+              19.416924119786152
+            ],
+            [
+              72.82287586304113,
+              19.416854583264875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00071",
+        "parcel_id": "VVR-21-00061",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82188402726344,
+              19.416988105311912
+            ],
+            [
+              72.82196017331809,
+              19.416989018772163
+            ],
+            [
+              72.82195928878154,
+              19.417055394500952
+            ],
+            [
+              72.82188314269602,
+              19.41705448103733
+            ],
+            [
+              72.82188402726344,
+              19.416988105311912
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00072",
+        "parcel_id": "VVR-21-00061",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82188267333225,
+              19.417089700809782
+            ],
+            [
+              72.82195881943414,
+              19.417090614275196
+            ],
+            [
+              72.82195793489203,
+              19.417156990003186
+            ],
+            [
+              72.82188178875927,
+              19.41715607653441
+            ],
+            [
+              72.82188178875927,
+              19.41715607653441
+            ],
+            [
+              72.82188267333225,
+              19.417089700809782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00073",
+        "parcel_id": "VVR-21-00062",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82213150195676,
+              19.416991073941183
+            ],
+            [
+              72.82220003341831,
+              19.416991895963605
+            ],
+            [
+              72.82219906474647,
+              19.417064593201957
+            ],
+            [
+              72.8221305332545,
+              19.41706377117622
+            ],
+            [
+              72.82213150195676,
+              19.416991073941183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00074",
+        "parcel_id": "VVR-21-00062",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212999174202,
+              19.417104409381867
+            ],
+            [
+              72.822198523251,
+              19.417105231409458
+            ],
+            [
+              72.82219755457237,
+              19.41717792864683
+            ],
+            [
+              72.82212902303297,
+              19.41717710661592
+            ],
+            [
+              72.82212902303297,
+              19.41717710661592
+            ],
+            [
+              72.82212999174202,
+              19.417104409381867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00075",
+        "parcel_id": "VVR-21-00063",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 58.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237897669543,
+              19.416994042233746
+            ],
+            [
+              72.82245131547376,
+              19.41699490982489
+            ],
+            [
+              72.82245038902488,
+              19.4170644463254
+            ],
+            [
+              72.82237805021583,
+              19.417063578730904
+            ],
+            [
+              72.82237897669543,
+              19.416994042233746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00076",
+        "parcel_id": "VVR-21-00063",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 58.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237754486165,
+              19.4171015077291
+            ],
+            [
+              72.82244988368745,
+              19.417102375325424
+            ],
+            [
+              72.82244895723242,
+              19.41717191182505
+            ],
+            [
+              72.8223766183759,
+              19.417171044225377
+            ],
+            [
+              72.8223766183759,
+              19.417171044225377
+            ],
+            [
+              72.82237754486165,
+              19.4171015077291
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00077",
+        "parcel_id": "VVR-21-00064",
+        "building_type": "Mixed-Use",
+        "floors": 2,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262645147945,
+              19.416997010189583
+            ],
+            [
+              72.82270259757597,
+              19.41699792333903
+            ],
+            [
+              72.82270171334034,
+              19.41706429910063
+            ],
+            [
+              72.82262556721295,
+              19.41706338594782
+            ],
+            [
+              72.82262645147945,
+              19.416997010189583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00078",
+        "parcel_id": "VVR-21-00064",
+        "building_type": "Mixed-Use",
+        "floors": 3,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262509800886,
+              19.41709860573769
+            ],
+            [
+              72.82270124415261,
+              19.41709951889228
+            ],
+            [
+              72.82270035991144,
+              19.41716589465308
+            ],
+            [
+              72.82262421373682,
+              19.417164981495127
+            ],
+            [
+              72.82262421373682,
+              19.417164981495127
+            ],
+            [
+              72.82262509800886,
+              19.41709860573769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00079",
+        "parcel_id": "VVR-21-00065",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82287392630883,
+              19.416999977808707
+            ],
+            [
+              72.82294245780805,
+              19.417000799551392
+            ],
+            [
+              72.8229414894658,
+              19.417073496825683
+            ],
+            [
+              72.82287295793614,
+              19.41707267507968
+            ],
+            [
+              72.82287392630883,
+              19.416999977808707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00080",
+        "parcel_id": "VVR-21-00065",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82287241660791,
+              19.417113313305418
+            ],
+            [
+              72.82294094815458,
+              19.41711413505327
+            ],
+            [
+              72.82293997980555,
+              19.417186832326582
+            ],
+            [
+              72.82287144822847,
+              19.417186010575406
+            ],
+            [
+              72.82287144822847,
+              19.417186010575406
+            ],
+            [
+              72.82287241660791,
+              19.417113313305418
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00081",
+        "parcel_id": "VVR-21-00066",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8218806574634,
+              19.417240965215484
+            ],
+            [
+              72.82194918901821,
+              19.417241787342686
+            ],
+            [
+              72.82194830446475,
+              19.417308163069144
+            ],
+            [
+              72.82187977288217,
+              19.41730734093891
+            ],
+            [
+              72.8218806574634,
+              19.417240965215484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00082",
+        "parcel_id": "VVR-21-00066",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187930351105,
+              19.417342560710303
+            ],
+            [
+              72.8219478351084,
+              19.417343382842148
+            ],
+            [
+              72.82194695054939,
+              19.417409758567807
+            ],
+            [
+              72.82187841892427,
+              19.41740893643293
+            ],
+            [
+              72.82187841892427,
+              19.41740893643293
+            ],
+            [
+              72.82187930351105,
+              19.417342560710303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00083",
+        "parcel_id": "VVR-21-00067",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212813253885,
+              19.417243933886432
+            ],
+            [
+              72.82220047141561,
+              19.417244801588183
+            ],
+            [
+              72.82219958696402,
+              19.417311177325754
+            ],
+            [
+              72.82212724805792,
+              19.4173103096208
+            ],
+            [
+              72.82212813253885,
+              19.417243933886432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00084",
+        "parcel_id": "VVR-21-00067",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212677874004,
+              19.417345529398002
+            ],
+            [
+              72.8221991176617,
+              19.417346397104644
+            ],
+            [
+              72.82219823320456,
+              19.417412772841413
+            ],
+            [
+              72.82212589425357,
+              19.417411905131566
+            ],
+            [
+              72.82212589425357,
+              19.417411905131566
+            ],
+            [
+              72.82212677874004,
+              19.417345529398002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00085",
+        "parcel_id": "VVR-21-00068",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237560765964,
+              19.417246902220658
+            ],
+            [
+              72.82245175385978,
+              19.417247815486522
+            ],
+            [
+              72.82245086951005,
+              19.417314191235196
+            ],
+            [
+              72.82237472327904,
+              19.417313277965963
+            ],
+            [
+              72.82237560765964,
+              19.417246902220658
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00086",
+        "parcel_id": "VVR-21-00068",
+        "building_type": "Commercial",
+        "floors": 3,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237425401439,
+              19.417348497748968
+            ],
+            [
+              72.82245040026177,
+              19.417349411019988
+            ],
+            [
+              72.82244951590648,
+              19.417415786767855
+            ],
+            [
+              72.82237336962824,
+              19.417414873493474
+            ],
+            [
+              72.82237336962824,
+              19.417414873493474
+            ],
+            [
+              72.82237425401439,
+              19.417348497748968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00087",
+        "parcel_id": "VVR-21-00069",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8226230828258,
+              19.417249870218168
+            ],
+            [
+              72.8226916144183,
+              19.417250692065636
+            ],
+            [
+              72.82269073016577,
+              19.41731706782491
+            ],
+            [
+              72.82262219854552,
+              19.417316245974405
+            ],
+            [
+              72.8226230828258,
+              19.417249870218168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00088",
+        "parcel_id": "VVR-21-00069",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262172933409,
+              19.417351465763222
+            ],
+            [
+              72.8226902609691,
+              19.417352287615326
+            ],
+            [
+              72.82268937671103,
+              19.417418663373795
+            ],
+            [
+              72.82262084504825,
+              19.417417841518663
+            ],
+            [
+              72.82262084504825,
+              19.417417841518663
+            ],
+            [
+              72.82262172933409,
+              19.417351465763222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00089",
+        "parcel_id": "VVR-21-00070",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82287055803731,
+              19.417252837878955
+            ],
+            [
+              72.82294289695385,
+              19.417253705285436
+            ],
+            [
+              72.82294201280318,
+              19.41732008105581
+            ],
+            [
+              72.82286967385733,
+              19.417319213646135
+            ],
+            [
+              72.82287055803731,
+              19.417252837878955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00090",
+        "parcel_id": "VVR-21-00070",
+        "building_type": "Mixed-Use",
+        "floors": 3,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82286920469913,
+              19.417354433440746
+            ],
+            [
+              72.82294154366056,
+              19.41735530085212
+            ],
+            [
+              72.82294065950434,
+              19.417421676621686
+            ],
+            [
+              72.82286832051359,
+              19.417420809207126
+            ],
+            [
+              72.82286832051359,
+              19.417420809207126
+            ],
+            [
+              72.82286920469913,
+              19.417354433440746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00091",
+        "parcel_id": "VVR-21-00071",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187728761073,
+              19.417493825111453
+            ],
+            [
+              72.82194962658595,
+              19.417494692923817
+            ],
+            [
+              72.82194874202023,
+              19.41756106864845
+            ],
+            [
+              72.8218764030157,
+              19.417560200832884
+            ],
+            [
+              72.82187728761073,
+              19.417493825111453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00092",
+        "parcel_id": "VVR-21-00071",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187593363726,
+              19.417595420603227
+            ],
+            [
+              72.82194827265735,
+              19.41759628842049
+            ],
+            [
+              72.82194738808609,
+              19.41766266414432
+            ],
+            [
+              72.82187504903666,
+              19.41766179632386
+            ],
+            [
+              72.82187504903666,
+              19.41766179632386
+            ],
+            [
+              72.82187593363726,
+              19.417595420603227
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00093",
+        "parcel_id": "VVR-21-00072",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212476306833,
+              19.417496793824075
+            ],
+            [
+              72.82220090937209,
+              19.417497707206373
+            ],
+            [
+              72.8221999827908,
+              19.417567243691426
+            ],
+            [
+              72.82212383645471,
+              19.417566330305604
+            ],
+            [
+              72.82212476306833,
+              19.417496793824075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00094",
+        "parcel_id": "VVR-21-00072",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212333102743,
+              19.41760425929527
+            ],
+            [
+              72.82219947738116,
+              19.417605172683018
+            ],
+            [
+              72.82219855079373,
+              19.417674709167184
+            ],
+            [
+              72.82212240440765,
+              19.4176737957759
+            ],
+            [
+              72.82212240440765,
+              19.4176737957759
+            ],
+            [
+              72.82212333102743,
+              19.41760425929527
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00095",
+        "parcel_id": "VVR-21-00073",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237223857126,
+              19.417499762199977
+            ],
+            [
+              72.82244077025702,
+              19.41750058415223
+            ],
+            [
+              72.8224398016648,
+              19.41757328139819
+            ],
+            [
+              72.82237126994862,
+              19.417572459442628
+            ],
+            [
+              72.82237223857126,
+              19.417499762199977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00096",
+        "parcel_id": "VVR-21-00073",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237072848065,
+              19.417613097652524
+            ],
+            [
+              72.82243926021384,
+              19.417613919609952
+            ],
+            [
+              72.82243829161484,
+              19.417686616854937
+            ],
+            [
+              72.82236975985123,
+              19.41768579489419
+            ],
+            [
+              72.82236975985123,
+              19.41768579489419
+            ],
+            [
+              72.82237072848065,
+              19.417613097652524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00097",
+        "parcel_id": "VVR-21-00074",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261971411955,
+              19.417502730239153
+            ],
+            [
+              72.82269205313456,
+              19.41750359775623
+            ],
+            [
+              72.82269116886977,
+              19.417569973513686
+            ],
+            [
+              72.82261882982546,
+              19.417569105993405
+            ],
+            [
+              72.82261971411955,
+              19.417502730239153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00098",
+        "parcel_id": "VVR-21-00074",
+        "building_type": "Commercial",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261836060671,
+              19.41760432578116
+            ],
+            [
+              72.82269069966658,
+              19.417605193303135
+            ],
+            [
+              72.82268981539626,
+              19.417671569059777
+            ],
+            [
+              72.82261747630706,
+              19.417670701534604
+            ],
+            [
+              72.82261747630706,
+              19.417670701534604
+            ],
+            [
+              72.82261836060671,
+              19.41760432578116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00099",
+        "parcel_id": "VVR-21-00075",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82286718971322,
+              19.4175056979416
+            ],
+            [
+              72.82294333605884,
+              19.41750661101307
+            ],
+            [
+              72.82294240979283,
+              19.417576147532497
+            ],
+            [
+              72.82286626341487,
+              19.4175752344575
+            ],
+            [
+              72.82286718971322,
+              19.4175056979416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00100",
+        "parcel_id": "VVR-21-00075",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82286575815955,
+              19.417613163465916
+            ],
+            [
+              72.82294190455515,
+              19.41761407654284
+            ],
+            [
+              72.822940978283,
+              19.417683613061374
+            ],
+            [
+              72.82286483185506,
+              19.417682699980933
+            ],
+            [
+              72.82286483185506,
+              19.417682699980933
+            ],
+            [
+              72.82286575815955,
+              19.417613163465916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00101",
+        "parcel_id": "VVR-12-00076",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82336609272274,
+              19.416500077603054
+            ],
+            [
+              72.82343462403496,
+              19.41650089913977
+            ],
+            [
+              72.82343374012092,
+              19.416567274937407
+            ],
+            [
+              72.82336520878093,
+              19.416566453397667
+            ],
+            [
+              72.82336609272274,
+              19.416500077603054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00102",
+        "parcel_id": "VVR-12-00076",
+        "building_type": "Mixed-Use",
+        "floors": 3,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233647397491,
+              19.41660167320683
+            ],
+            [
+              72.82343327110384,
+              19.416602494748176
+            ],
+            [
+              72.82343238718424,
+              19.416668870545017
+            ],
+            [
+              72.82336385580174,
+              19.41666804900064
+            ],
+            [
+              72.82336385580174,
+              19.41666804900064
+            ],
+            [
+              72.8233647397491,
+              19.41660167320683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00103",
+        "parcel_id": "VVR-12-00077",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82361356692213,
+              19.41650304414169
+            ],
+            [
+              72.82368590554283,
+              19.416503911220154
+            ],
+            [
+              72.82368502173064,
+              19.41657028702889
+            ],
+            [
+              72.82361268308063,
+              19.416569419947226
+            ],
+            [
+              72.82361356692213,
+              19.41650304414169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00104",
+        "parcel_id": "VVR-12-00077",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82361221410203,
+              19.4166046397622
+            ],
+            [
+              72.82368455276759,
+              19.416605506845553
+            ],
+            [
+              72.82368366894987,
+              19.416671882653485
+            ],
+            [
+              72.82361133025498,
+              19.416671015566937
+            ],
+            [
+              72.82361133025498,
+              19.416671015566937
+            ],
+            [
+              72.82361221410203,
+              19.4166046397622
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00105",
+        "parcel_id": "VVR-12-00078",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82386104116685,
+              19.416506010343607
+            ],
+            [
+              72.82393718709743,
+              19.41650692295338
+            ],
+            [
+              72.82393630338709,
+              19.41657329877322
+            ],
+            [
+              72.82386015742564,
+              19.41657238616008
+            ],
+            [
+              72.82386104116685,
+              19.416506010343607
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00106",
+        "parcel_id": "VVR-12-00078",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82385968850028,
+              19.416607605980847
+            ],
+            [
+              72.82393583447809,
+              19.416608518595773
+            ],
+            [
+              72.82393495076221,
+              19.41667489441481
+            ],
+            [
+              72.82385880475353,
+              19.41667398179652
+            ],
+            [
+              72.82385880475353,
+              19.41667398179652
+            ],
+            [
+              72.82385968850028,
+              19.416607605980847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00107",
+        "parcel_id": "VVR-12-00079",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8241085154569,
+              19.416508976208817
+            ],
+            [
+              72.82417704680677,
+              19.41650979746581
+            ],
+            [
+              72.82417616319364,
+              19.416576173296246
+            ],
+            [
+              72.82410763181599,
+              19.416575352036226
+            ],
+            [
+              72.8241085154569,
+              19.416508976208817
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00108",
+        "parcel_id": "VVR-12-00079",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82410716294386,
+              19.416610571862794
+            ],
+            [
+              72.82417569433623,
+              19.416611393124416
+            ],
+            [
+              72.82417481071758,
+              19.416677768954045
+            ],
+            [
+              72.82410627929741,
+              19.416676947689396
+            ],
+            [
+              72.82410627929741,
+              19.416676947689396
+            ],
+            [
+              72.82410716294386,
+              19.416610571862794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00109",
+        "parcel_id": "VVR-12-00080",
+        "building_type": "Commercial",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82435598979225,
+              19.41651194173733
+            ],
+            [
+              72.8244283284527,
+              19.41651280852052
+            ],
+            [
+              72.82442744494142,
+              19.416579184362057
+            ],
+            [
+              72.82435510625166,
+              19.416578317575663
+            ],
+            [
+              72.82435598979225,
+              19.41651194173733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00110",
+        "parcel_id": "VVR-12-00080",
+        "building_type": "Commercial",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82435463743273,
+              19.416613537408026
+            ],
+            [
+              72.82442697613806,
+              19.416614404196114
+            ],
+            [
+              72.82442609262125,
+              19.416680780036838
+            ],
+            [
+              72.82435375388661,
+              19.416679913245556
+            ],
+            [
+              72.82435375388661,
+              19.416679913245556
+            ],
+            [
+              72.82435463743273,
+              19.416613537408026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00111",
+        "parcel_id": "VVR-12-00081",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82336272530597,
+              19.41675293777019
+            ],
+            [
+              72.82343506402509,
+              19.416753804959253
+            ],
+            [
+              72.8234341800988,
+              19.416820180755064
+            ],
+            [
+              72.82336184135035,
+              19.416819313562808
+            ],
+            [
+              72.82336272530597,
+              19.41675293777019
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00112",
+        "parcel_id": "VVR-12-00081",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233613723112,
+              19.416854533370916
+            ],
+            [
+              72.82343371107521,
+              19.416855400564867
+            ],
+            [
+              72.82343282714338,
+              19.41692177635988
+            ],
+            [
+              72.82336048835003,
+              19.416920909162734
+            ],
+            [
+              72.82336048835003,
+              19.416920909162734
+            ],
+            [
+              72.8233613723112,
+              19.416854533370916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00113",
+        "parcel_id": "VVR-12-00082",
+        "building_type": "Mixed-Use",
+        "floors": 2,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82361019988748,
+              19.416755904350474
+            ],
+            [
+              72.82368634592167,
+              19.416756817076664
+            ],
+            [
+              72.82368542001026,
+              19.41682635363627
+            ],
+            [
+              72.82360927394373,
+              19.416825440906557
+            ],
+            [
+              72.82361019988748,
+              19.416755904350474
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00114",
+        "parcel_id": "VVR-12-00082",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360876888183,
+              19.416863369936898
+            ],
+            [
+              72.82368491496601,
+              19.416864282668534
+            ],
+            [
+              72.82368398904845,
+              19.416933819227264
+            ],
+            [
+              72.82360784293193,
+              19.416932906492097
+            ],
+            [
+              72.82360784293193,
+              19.416932906492097
+            ],
+            [
+              72.82360876888183,
+              19.416863369936898
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00115",
+        "parcel_id": "VVR-12-00083",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82385767451433,
+              19.416758870594037
+            ],
+            [
+              72.82392620595746,
+              19.416759691955797
+            ],
+            [
+              72.82392523806554,
+              19.41683238927971
+            ],
+            [
+              72.82385670659198,
+              19.41683156791463
+            ],
+            [
+              72.82385767451433,
+              19.416758870594037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00116",
+        "parcel_id": "VVR-12-00083",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8238561655155,
+              19.416872206168104
+            ],
+            [
+              72.82392469700608,
+              19.416873027535033
+            ],
+            [
+              72.82392372910738,
+              19.41694572485796
+            ],
+            [
+              72.82385519758638,
+              19.416944903487718
+            ],
+            [
+              72.82385519758638,
+              19.416944903487718
+            ],
+            [
+              72.8238561655155,
+              19.416872206168104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00117",
+        "parcel_id": "VVR-12-00084",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82410514918648,
+              19.41676183650089
+            ],
+            [
+              72.82417748794538,
+              19.416762703394678
+            ],
+            [
+              72.82417660432,
+              19.416829079223284
+            ],
+            [
+              72.8241042655318,
+              19.416828212326298
+            ],
+            [
+              72.82410514918648,
+              19.41676183650089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00118",
+        "parcel_id": "VVR-12-00084",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82410379665232,
+              19.416863432151807
+            ],
+            [
+              72.82417613545609,
+              19.416864299050488
+            ],
+            [
+              72.82417525182517,
+              19.416930674878294
+            ],
+            [
+              72.82410291299209,
+              19.416929807976416
+            ],
+            [
+              72.82410291299209,
+              19.416929807976416
+            ],
+            [
+              72.82410379665232,
+              19.416863432151807
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00119",
+        "parcel_id": "VVR-12-00085",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82435262390398,
+              19.416764802071025
+            ],
+            [
+              72.82442876998,
+              19.416765714486406
+            ],
+            [
+              72.82442784438385,
+              19.416835251080364
+            ],
+            [
+              72.82435169827548,
+              19.416834338661463
+            ],
+            [
+              72.82435262390398,
+              19.416764802071025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00120",
+        "parcel_id": "VVR-12-00085",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82435119338554,
+              19.416872267710545
+            ],
+            [
+              72.82442733951154,
+              19.41687318013137
+            ],
+            [
+              72.82442641390924,
+              19.416942716724442
+            ],
+            [
+              72.8243502677509,
+              19.41694180430009
+            ],
+            [
+              72.8243502677509,
+              19.41694180430009
+            ],
+            [
+              72.82435119338554,
+              19.416872267710545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00121",
+        "parcel_id": "VVR-12-00086",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233593578366,
+              19.417005797929736
+            ],
+            [
+              72.82343550397442,
+              19.41700671077235
+            ],
+            [
+              72.82343462003588,
+              19.417073086566333
+            ],
+            [
+              72.82335847386719,
+              19.41707217372036
+            ],
+            [
+              72.8233593578366,
+              19.417005797929736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00122",
+        "parcel_id": "VVR-12-00086",
+        "building_type": "Commercial",
+        "floors": 3,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233580048207,
+              19.41710739352741
+            ],
+            [
+              72.8234341510058,
+              19.41710830637517
+            ],
+            [
+              72.82343326706169,
+              19.41717468216836
+            ],
+            [
+              72.82335712084576,
+              19.417173769317234
+            ],
+            [
+              72.82335712084576,
+              19.417173769317234
+            ],
+            [
+              72.8233580048207,
+              19.41710739352741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00123",
+        "parcel_id": "VVR-12-00087",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360683280025,
+              19.417008764551667
+            ],
+            [
+              72.82367536433665,
+              19.417009586018203
+            ],
+            [
+              72.82367439631977,
+              19.417082283327954
+            ],
+            [
+              72.82360586475293,
+              19.4170814618581
+            ],
+            [
+              72.82360683280025,
+              19.417008764551667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00124",
+        "parcel_id": "VVR-12-00087",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360532360659,
+              19.41712210010366
+            ],
+            [
+              72.82367385519042,
+              19.41712292157537
+            ],
+            [
+              72.82367288716677,
+              19.417195618884143
+            ],
+            [
+              72.8236043555525,
+              19.417194797409117
+            ],
+            [
+              72.8236043555525,
+              19.417194797409117
+            ],
+            [
+              72.82360532360659,
+              19.41712210010366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00125",
+        "parcel_id": "VVR-12-00088",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 58.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82385430780921,
+              19.41701173083687
+            ],
+            [
+              72.82392664666656,
+              19.41701259784126
+            ],
+            [
+              72.82392572084416,
+              19.41708213441006
+            ],
+            [
+              72.8238533819561,
+              19.41708126740232
+            ],
+            [
+              72.82385430780921,
+              19.41701173083687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00126",
+        "parcel_id": "VVR-12-00088",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 58.52,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82385287694363,
+              19.417119196437767
+            ],
+            [
+              72.82392521584845,
+              19.417120063447328
+            ],
+            [
+              72.8239242900199,
+              19.417189600015238
+            ],
+            [
+              72.82385195108438,
+              19.417188733002337
+            ],
+            [
+              72.82385195108438,
+              19.417188733002337
+            ],
+            [
+              72.82385287694363,
+              19.417119196437767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00127",
+        "parcel_id": "VVR-12-00089",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82410178286352,
+              19.417014696785362
+            ],
+            [
+              72.82417792904319,
+              19.417015609317154
+            ],
+            [
+              72.82417704540556,
+              19.417081985143934
+            ],
+            [
+              72.82410089919503,
+              19.417081072608777
+            ],
+            [
+              72.82410178286352,
+              19.417014696785362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00128",
+        "parcel_id": "VVR-12-00089",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82410043030823,
+              19.417116292433228
+            ],
+            [
+              72.82417657653515,
+              19.417117204970165
+            ],
+            [
+              72.82417569289198,
+              19.417183580796152
+            ],
+            [
+              72.82409954663422,
+              19.417182668255847
+            ],
+            [
+              72.82409954663422,
+              19.417182668255847
+            ],
+            [
+              72.82410043030823,
+              19.417116292433228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00129",
+        "parcel_id": "VVR-12-00090",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434925796314,
+              19.417017662397136
+            ],
+            [
+              72.8244177895372,
+              19.417018483583938
+            ],
+            [
+              72.82441682184991,
+              19.4170911809296
+            ],
+            [
+              72.82434829024541,
+              19.417090359739483
+            ],
+            [
+              72.82434925796314,
+              19.417017662397136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00130",
+        "parcel_id": "VVR-12-00090",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434774928332,
+              19.41713099800512
+            ],
+            [
+              72.8244162809048,
+              19.417131819197092
+            ],
+            [
+              72.82441531321074,
+              19.417204516541776
+            ],
+            [
+              72.82434678155882,
+              19.41720369534649
+            ],
+            [
+              72.82434678155882,
+              19.41720369534649
+            ],
+            [
+              72.82434774928332,
+              19.41713099800512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00131",
+        "parcel_id": "VVR-12-00091",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335599031467,
+              19.417258658081693
+            ],
+            [
+              72.82342452194435,
+              19.417259479653005
+            ],
+            [
+              72.8234236379889,
+              19.417325855444663
+            ],
+            [
+              72.82335510633145,
+              19.41732503387032
+            ],
+            [
+              72.82335599031467,
+              19.417258658081693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00132",
+        "parcel_id": "VVR-12-00091",
+        "building_type": "Residential",
+        "floors": 4,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335463727766,
+              19.417360253676314
+            ],
+            [
+              72.82342316894986,
+              19.417361075252263
+            ],
+            [
+              72.82342228498887,
+              19.417427451043118
+            ],
+            [
+              72.82335375328888,
+              19.417426629464142
+            ],
+            [
+              72.82335375328888,
+              19.417426629464142
+            ],
+            [
+              72.82335463727766,
+              19.417360253676314
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00133",
+        "parcel_id": "VVR-12-00092",
+        "building_type": "Commercial",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360346566045,
+              19.41726162474526
+            ],
+            [
+              72.82367580461624,
+              19.41726249186025
+            ],
+            [
+              72.82367492076266,
+              19.417328867663002
+            ],
+            [
+              72.82360258177754,
+              19.417328000544824
+            ],
+            [
+              72.82360346566045,
+              19.41726162474526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00134",
+        "parcel_id": "VVR-12-00092",
+        "building_type": "Commercial",
+        "floors": 4,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360211277698,
+              19.41736322035662
+            ],
+            [
+              72.82367445177763,
+              19.417364087476496
+            ],
+            [
+              72.82367356791852,
+              19.417430463278446
+            ],
+            [
+              72.82360122888852,
+              19.417429596155372
+            ],
+            [
+              72.82360122888852,
+              19.417429596155372
+            ],
+            [
+              72.82360211277698,
+              19.41736322035662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00135",
+        "parcel_id": "VVR-12-00093",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82385094105156,
+              19.417264591072115
+            ],
+            [
+              72.82392708733487,
+              19.41726550372033
+            ],
+            [
+              72.82392620358313,
+              19.41733187953418
+            ],
+            [
+              72.82385005726896,
+              19.417330966882606
+            ],
+            [
+              72.82385094105156,
+              19.417264591072115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00136",
+        "parcel_id": "VVR-12-00093",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 58.8,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82384958832164,
+              19.4173661867002
+            ],
+            [
+              72.82392573465218,
+              19.41736709935356
+            ],
+            [
+              72.8239248508949,
+              19.41743347516661
+            ],
+            [
+              72.82384870453349,
+              19.417432562509887
+            ],
+            [
+              72.82384870453349,
+              19.417432562509887
+            ],
+            [
+              72.82384958832164,
+              19.4173661867002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00137",
+        "parcel_id": "VVR-12-00094",
+        "building_type": "Mixed-Use",
+        "floors": 2,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.824098416488,
+              19.417267557062242
+            ],
+            [
+              72.82416694815534,
+              19.41726837835382
+            ],
+            [
+              72.82416606450082,
+              19.41733475417827
+            ],
+            [
+              72.82409753280571,
+              19.41733393288367
+            ],
+            [
+              72.824098416488,
+              19.417267557062242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00138",
+        "parcel_id": "VVR-12-00094",
+        "building_type": "Mixed-Use",
+        "floors": 3,
+        "footprint_area_sqm": 52.92,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8240970639116,
+              19.41736915270706
+            ],
+            [
+              72.82416559562145,
+              19.41736997400327
+            ],
+            [
+              72.8241647119614,
+              19.417436349826914
+            ],
+            [
+              72.82409618022376,
+              19.417435528527673
+            ],
+            [
+              72.82409618022376,
+              19.417435528527673
+            ],
+            [
+              72.8240970639116,
+              19.41736915270706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00139",
+        "parcel_id": "VVR-12-00095",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434589196974,
+              19.417270522715647
+            ],
+            [
+              72.82441823096528,
+              19.41727138953535
+            ],
+            [
+              72.82441734741263,
+              19.4173377653709
+            ],
+            [
+              72.82434500838778,
+              19.417336898548
+            ],
+            [
+              72.82434589196974,
+              19.417270522715647
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00140",
+        "parcel_id": "VVR-12-00095",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434453954689,
+              19.41737211837719
+            ],
+            [
+              72.8244168785873,
+              19.417372985201787
+            ],
+            [
+              72.8244159950291,
+              19.417439361036536
+            ],
+            [
+              72.82434365595938,
+              19.417438494208742
+            ],
+            [
+              72.82434365595938,
+              19.417438494208742
+            ],
+            [
+              72.82434453954689,
+              19.41737211837719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00141",
+        "parcel_id": "VVR-12-00096",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335262274015,
+              19.417511518226043
+            ],
+            [
+              72.82342496179439,
+              19.41751238545163
+            ],
+            [
+              72.8234240778267,
+              19.417578761241465
+            ],
+            [
+              72.82335173874313,
+              19.417577894012688
+            ],
+            [
+              72.82335262274015,
+              19.417511518226043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00142",
+        "parcel_id": "VVR-12-00096",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335126968201,
+              19.41761311381762
+            ],
+            [
+              72.82342360878114,
+              19.417613981048092
+            ],
+            [
+              72.8234227248079,
+              19.417680356837124
+            ],
+            [
+              72.82335038567945,
+              19.41767948960345
+            ],
+            [
+              72.82335038567945,
+              19.41767948960345
+            ],
+            [
+              72.82335126968201,
+              19.41761311381762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00143",
+        "parcel_id": "VVR-12-00097",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360009846808,
+              19.417514484931264
+            ],
+            [
+              72.82367624485502,
+              19.417515397695894
+            ],
+            [
+              72.82367531890024,
+              19.417584934249245
+            ],
+            [
+              72.82359917248095,
+              19.41758402148109
+            ],
+            [
+              72.82360009846808,
+              19.417514484931264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00144",
+        "parcel_id": "VVR-12-00097",
+        "building_type": "Residential",
+        "floors": 3,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8235986673954,
+              19.41762195050801
+            ],
+            [
+              72.82367481383231,
+              19.41762286327809
+            ],
+            [
+              72.8236738878714,
+              19.417692399830546
+            ],
+            [
+              72.82359774140214,
+              19.417691487056942
+            ],
+            [
+              72.82359774140214,
+              19.417691487056942
+            ],
+            [
+              72.8235986673954,
+              19.41762195050801
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00145",
+        "parcel_id": "VVR-12-00098",
+        "building_type": "Commercial",
+        "floors": 2,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82384757424133,
+              19.41751745129976
+            ],
+            [
+              72.82391610600193,
+              19.417518272696118
+            ],
+            [
+              72.82391513806469,
+              19.41759097001347
+            ],
+            [
+              72.82384660627366,
+              19.4175901486138
+            ],
+            [
+              72.82384757424133,
+              19.41751745129976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00146",
+        "parcel_id": "VVR-12-00098",
+        "building_type": "Commercial",
+        "floors": 2,
+        "footprint_area_sqm": 57.96,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82384606517184,
+              19.417630786863615
+            ],
+            [
+              72.82391459697986,
+              19.417631608265136
+            ],
+            [
+              72.82391362903586,
+              19.417704305581516
+            ],
+            [
+              72.82384509719738,
+              19.417703484176673
+            ],
+            [
+              72.82384509719738,
+              19.417703484176673
+            ],
+            [
+              72.82384606517184,
+              19.417630786863615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00147",
+        "parcel_id": "VVR-12-00099",
+        "building_type": "Residential",
+        "floors": 1,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409505005991,
+              19.417520417331524
+            ],
+            [
+              72.8241673891539,
+              19.417521284261827
+            ],
+            [
+              72.82416650548714,
+              19.417587660084454
+            ],
+            [
+              72.82409416636382,
+              19.41758679315096
+            ],
+            [
+              72.82409505005991,
+              19.417520417331524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00148",
+        "parcel_id": "VVR-12-00099",
+        "building_type": "Residential",
+        "floors": 2,
+        "footprint_area_sqm": 55.86,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8240936974624,
+              19.417622012973293
+            ],
+            [
+              72.82416603660126,
+              19.417622879908485
+            ],
+            [
+              72.82416515292896,
+              19.41768925573031
+            ],
+            [
+              72.82409281376076,
+              19.417688388791923
+            ],
+            [
+              72.82409281376076,
+              19.417688388791923
+            ],
+            [
+              72.8240936974624,
+              19.417622012973293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00149",
+        "parcel_id": "VVR-12-00100",
+        "building_type": "Mixed-Use",
+        "floors": 1,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434252592381,
+              19.417523383026563
+            ],
+            [
+              72.82441867235258,
+              19.417524295480373
+            ],
+            [
+              72.82441774671307,
+              19.41759383206807
+            ],
+            [
+              72.82434160025196,
+              19.41759291961074
+            ],
+            [
+              72.82434252592381,
+              19.417523383026563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "BLD-VVR-00150",
+        "parcel_id": "VVR-12-00100",
+        "building_type": "Mixed-Use",
+        "floors": 2,
+        "footprint_area_sqm": 61.6,
+        "source_dataset": "synthetic_drone_2026",
+        "source_type": "DRONE_FOOTPRINT",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434109533837,
+              19.4176308486564
+            ],
+            [
+              72.82441724181712,
+              19.41763176111565
+            ],
+            [
+              72.82441631617147,
+              19.41770129770246
+            ],
+            [
+              72.82434016966037,
+              19.417700385239687
+            ],
+            [
+              72.82434016966037,
+              19.417700385239687
+            ],
+            [
+              72.82434109533837,
+              19.4176308486564
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

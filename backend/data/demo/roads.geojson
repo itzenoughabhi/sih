@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "name": "SIMULATED DEMONSTRATION DATA \u2014 NOT AN OFFICIAL LAND RECORD",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-001",
+        "road_name": "Station Road",
+        "road_type": "Major Arterial",
+        "width_m": 24.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82176625356664,
+            19.417824876291473
+          ],
+          [
+            72.8246217479424,
+            19.417859112500704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-002",
+        "road_name": "Vasai Link Road",
+        "road_type": "Major Arterial",
+        "width_m": 24.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82321444704382,
+            19.416306777796233
+          ],
+          [
+            72.82317475395288,
+            19.419286914759592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-003",
+        "road_name": "East-West Connector",
+        "road_type": "Major Arterial",
+        "width_m": 20.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82175782812037,
+            19.418457025928344
+          ],
+          [
+            72.82461333352,
+            19.418491263339117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-004",
+        "road_name": "Tulinj Bypass Road",
+        "road_type": "Major Arterial",
+        "width_m": 20.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82177467868405,
+            19.41719272660714
+          ],
+          [
+            72.82463016203641,
+            19.417226961614837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-005",
+        "road_name": "Market Road",
+        "road_type": "Collector",
+        "width_m": 18.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82388072298278,
+            19.416314764343888
+          ],
+          [
+            72.8238410420178,
+            19.419294902628735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-006",
+        "road_name": "Ganesh Nagar Road",
+        "road_type": "Collector",
+        "width_m": 16.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82254817143348,
+            19.41629878880797
+          ],
+          [
+            72.82250846621659,
+            19.419278924449436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-007",
+        "road_name": "Shivaji Marg",
+        "road_type": "Collector",
+        "width_m": 16.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82174819863626,
+            19.419179482598068
+          ],
+          [
+            72.8246037166351,
+            19.419213721382047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-008",
+        "road_name": "Dr. Ambedkar Road",
+        "road_type": "Collector",
+        "width_m": 16.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82178551049468,
+            19.41637996265754
+          ],
+          [
+            72.8246409796747,
+            19.416414196120417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-009",
+        "road_name": "North Perimeter Road",
+        "road_type": "Collector",
+        "width_m": 16.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82165120915211,
+            19.419313801143193
+          ],
+          [
+            72.8246970975374,
+            19.419350322787416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-010",
+        "road_name": "Nalasopara Creek View Road",
+        "road_type": "Collector",
+        "width_m": 15.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82464218160099,
+            19.416323888838416
+          ],
+          [
+            72.82460251449432,
+            19.41930402863305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-011",
+        "road_name": "Evershine Boulevard",
+        "road_type": "Collector",
+        "width_m": 18.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82178671399564,
+            19.416289655547182
+          ],
+          [
+            72.82174699492055,
+            19.419269789677415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-012",
+        "road_name": "Municipal Ward 23 Main Street",
+        "road_type": "Collector",
+        "width_m": 16.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8233346097735,
+            19.418006264692707
+          ],
+          [
+            72.82457199259554,
+            19.41802109533671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-013",
+        "road_name": "Achole Link Road",
+        "road_type": "Local Road",
+        "width_m": 12.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82186360301091,
+            19.417663465438988
+          ],
+          [
+            72.82314857354802,
+            19.417678876469466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-014",
+        "road_name": "Navghar Access Road",
+        "road_type": "Local Road",
+        "width_m": 12.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82333893965749,
+            19.417681158813007
+          ],
+          [
+            72.82457632002281,
+            19.417695989189337
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-015",
+        "road_name": "Sector 1 Internal Lane",
+        "road_type": "Internal Street",
+        "width_m": 8.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82185590017191,
+            19.41824143087093
+          ],
+          [
+            72.82314087524449,
+            19.418256842395905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-016",
+        "road_name": "Sector 2 Ring Street",
+        "road_type": "Internal Street",
+        "width_m": 10.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82333124202587,
+            19.418259124812682
+          ],
+          [
+            72.82456862675872,
+            19.418273955664883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-017",
+        "road_name": "Bolinj Cross Road",
+        "road_type": "Local Road",
+        "width_m": 12.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8218491599623,
+            19.418747150591322
+          ],
+          [
+            72.82313413900353,
+            19.418762562549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-018",
+        "road_name": "Hanuman Mandir Lane",
+        "road_type": "Internal Street",
+        "width_m": 7.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82332450637288,
+            19.418764845029852
+          ],
+          [
+            72.82456189492741,
+            19.418779676298445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-019",
+        "road_name": "Sai Baba Nagar Road",
+        "road_type": "Local Road",
+        "width_m": 10.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82187371256994,
+            19.41690488574935
+          ],
+          [
+            72.8231586771545,
+            19.416920296130794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "RD-VVR-020",
+        "road_name": "Taluka Office Approach Road",
+        "road_type": "Local Road",
+        "width_m": 12.0,
+        "source_dataset": "synthetic_roads_2026",
+        "source_type": "ROADS",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8233490423821,
+            19.416922578378216
+          ],
+          [
+            72.82458641701533,
+            19.416937408129964
+          ]
+        ]
+      }
+    }
+  ]
+}

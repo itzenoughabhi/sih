@@ -1,0 +1,4312 @@
+{
+  "type": "FeatureCollection",
+  "name": "SIMULATED DEMONSTRATION DATA \u2014 NOT AN OFFICIAL LAND RECORD",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00142",
+        "survey_number": "118/3A",
+        "owner_name": "Rajesh Prakash Patil",
+        "plot_area_sqm": 428.6,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82314700985233,
+              19.417796275801486
+            ],
+            [
+              72.82332309862892,
+              19.41779838698993
+            ],
+            [
+              72.82332031213157,
+              19.418007606776317
+            ],
+            [
+              72.82314422313002,
+              19.41800549556335
+            ],
+            [
+              72.82314700985233,
+              19.417796275801486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00217",
+        "survey_number": "124/2B",
+        "owner_name": "Vijay Dattatray Shinde",
+        "plot_area_sqm": 612.4,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8221067464012,
+              19.417991539809062
+            ],
+            [
+              72.822316149378,
+              19.417994051615832
+            ],
+            [
+              72.82231279974862,
+              19.41824543381144
+            ],
+            [
+              72.82210339645036,
+              19.41824292196962
+            ],
+            [
+              72.8221067464012,
+              19.417991539809062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00003",
+        "survey_number": "110/3A",
+        "owner_name": "Mahesh Manohar Joshi",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82235422264998,
+              19.417994508282067
+            ],
+            [
+              72.82254458902607,
+              19.417996791493692
+            ],
+            [
+              72.82254206230529,
+              19.418186436484653
+            ],
+            [
+              72.82235169570873,
+              19.41818415324898
+            ],
+            [
+              72.82235422264998,
+              19.417994508282067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00004",
+        "survey_number": "110/4B",
+        "owner_name": "Kishor Ramesh Bhoir",
+        "plot_area_sqm": 378.0,
+        "land_use": "Mixed-Use",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82260169894411,
+              19.417997476418325
+            ],
+            [
+              72.82277302871277,
+              19.41799953108464
+            ],
+            [
+              72.82277050225656,
+              19.418189176104438
+            ],
+            [
+              72.82259917228949,
+              19.418187121416498
+            ],
+            [
+              72.82260169894411,
+              19.417997476418325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00005",
+        "survey_number": "110/5A",
+        "owner_name": "Vijay Shantaram Kadam",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8228491752836,
+              19.41800044421786
+            ],
+            [
+              72.8230300234065,
+              19.41800261278149
+            ],
+            [
+              72.82302749724795,
+              19.418192257833734
+            ],
+            [
+              72.82284664891559,
+              19.418190089247275
+            ],
+            [
+              72.8228491752836,
+              19.41800044421786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00006",
+        "survey_number": "111/1B",
+        "owner_name": "Deepak Narayan Tare",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82185590017191,
+              19.41824143087093
+            ],
+            [
+              72.82203674844152,
+              19.418243600449312
+            ],
+            [
+              72.82203422109704,
+              19.418433245370863
+            ],
+            [
+              72.82185337261797,
+              19.418431075769636
+            ],
+            [
+              72.82185590017191,
+              19.41824143087093
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00007",
+        "survey_number": "111/2A",
+        "owner_name": "Aniket Sunil More",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82210337675748,
+              19.418244399722337
+            ],
+            [
+              72.82229374339263,
+              19.41824668322505
+            ],
+            [
+              72.8222910960095,
+              19.41844535889104
+            ],
+            [
+              72.82210072914336,
+              19.418443075363147
+            ],
+            [
+              72.82210337675748,
+              19.418244399722337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00008",
+        "survey_number": "111/3B",
+        "owner_name": "Ganesh Vasant Deshmukh",
+        "plot_area_sqm": 414.0,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82235085338843,
+              19.418247368237008
+            ],
+            [
+              72.82252218339025,
+              19.418249423165285
+            ],
+            [
+              72.82251941596051,
+              19.418457129574858
+            ],
+            [
+              72.82234808574135,
+              19.41845507462288
+            ],
+            [
+              72.82235085338843,
+              19.418247368237008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00009",
+        "survey_number": "111/4A",
+        "owner_name": "Amit Vinayak Chavan",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82259833006471,
+              19.41825033641494
+            ],
+            [
+              72.82277917843375,
+              19.41825250525509
+            ],
+            [
+              72.82277665194913,
+              19.418442150270394
+            ],
+            [
+              72.82259580337063,
+              19.41843998140741
+            ],
+            [
+              72.82259833006471,
+              19.41825033641494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00010",
+        "survey_number": "111/5B",
+        "owner_name": "Ramesh Mahesh Thakur",
+        "plot_area_sqm": 440.0,
+        "land_use": "Mixed-Use",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82284580678635,
+              19.418253304256133
+            ],
+            [
+              72.82303617352615,
+              19.418255586981754
+            ],
+            [
+              72.82303352704382,
+              19.418454262745954
+            ],
+            [
+              72.82284316007303,
+              19.418451979995154
+            ],
+            [
+              72.82284580678635,
+              19.418253304256133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00011",
+        "survey_number": "112/1A",
+        "owner_name": "Nilesh Suresh Raut",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82185253009341,
+              19.418494290734923
+            ],
+            [
+              72.82204289698765,
+              19.418496574528724
+            ],
+            [
+              72.82204036961473,
+              19.41868621944578
+            ],
+            [
+              72.82185000250001,
+              19.418683935627932
+            ],
+            [
+              72.82185253009341,
+              19.418494290734923
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00012",
+        "survey_number": "112/2B",
+        "owner_name": "Prakash Bhaskar Gaikwad",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82210000706114,
+              19.41849725962801
+            ],
+            [
+              72.82227133729616,
+              19.41849931481827
+            ],
+            [
+              72.82226856950929,
+              19.418707021187373
+            ],
+            [
+              72.82209723905694,
+              19.41870496597341
+            ],
+            [
+              72.82210000706114,
+              19.41849725962801
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00013",
+        "survey_number": "112/3A",
+        "owner_name": "Sanjay Ashok Keni",
+        "plot_area_sqm": 418.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82234748407424,
+              19.418500228184353
+            ],
+            [
+              72.82252833268943,
+              19.418502397301033
+            ],
+            [
+              72.82252568555367,
+              19.418701072992544
+            ],
+            [
+              72.82234483671907,
+              19.418698903851936
+            ],
+            [
+              72.82234748407424,
+              19.418500228184353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00014",
+        "survey_number": "112/4B",
+        "owner_name": "Sachin Anil Kulkarni",
+        "plot_area_sqm": 420.0,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8225949611327,
+              19.418503196403947
+            ],
+            [
+              72.8227853281316,
+              19.418505479420652
+            ],
+            [
+              72.82278280161856,
+              19.41869512443146
+            ],
+            [
+              72.82259243439917,
+              19.418692841390726
+            ],
+            [
+              72.8225949611327,
+              19.418503196403947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00015",
+        "survey_number": "112/5A",
+        "owner_name": "Sneha Prabhakar Shinde",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82284243823649,
+              19.418506164286804
+            ],
+            [
+              72.8230137685657,
+              19.41850821877767
+            ],
+            [
+              72.8230110017206,
+              19.418715925249447
+            ],
+            [
+              72.82283967117408,
+              19.41871387073489
+            ],
+            [
+              72.82284243823649,
+              19.418506164286804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00016",
+        "survey_number": "113/1B",
+        "owner_name": "Rahul Prakash Sawant",
+        "plot_area_sqm": 378.0,
+        "land_use": "Mixed-Use",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8218491599623,
+              19.418747150591322
+            ],
+            [
+              72.82202049043049,
+              19.418749206043557
+            ],
+            [
+              72.82201796299606,
+              19.41893885095252
+            ],
+            [
+              72.82184663232944,
+              19.41893679547864
+            ],
+            [
+              72.8218491599623,
+              19.418747150591322
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00017",
+        "survey_number": "113/2A",
+        "owner_name": "Shweta Dattatray Mhatre",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82209663731221,
+              19.41875011952608
+            ],
+            [
+              72.82227748617352,
+              19.4187522889193
+            ],
+            [
+              72.82227495903675,
+              19.418941933860715
+            ],
+            [
+              72.82209410996599,
+              19.418939764444662
+            ],
+            [
+              72.82209663731221,
+              19.41875011952608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00018",
+        "survey_number": "113/3B",
+        "owner_name": "Pooja Gajanan Naik",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82234411470748,
+              19.4187530881241
+            ],
+            [
+              72.82253448196546,
+              19.41875537143189
+            ],
+            [
+              72.82253195512635,
+              19.418945016405754
+            ],
+            [
+              72.82234158764788,
+              19.41894273307393
+            ],
+            [
+              72.82234411470748,
+              19.4187530881241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00019",
+        "survey_number": "113/4A",
+        "owner_name": "Manoj Manohar Vartak",
+        "plot_area_sqm": 378.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82259159214809,
+              19.418756056385362
+            ],
+            [
+              72.82276292271048,
+              19.418758111138203
+            ],
+            [
+              72.82276039613595,
+              19.41894775614092
+            ],
+            [
+              72.82258906537513,
+              19.418945701366447
+            ],
+            [
+              72.82259159214809,
+              19.418756056385362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00020",
+        "survey_number": "113/5B",
+        "owner_name": "Kavita Ramesh Patil",
+        "plot_area_sqm": 399.0,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82283906963407,
+              19.41875902430988
+            ],
+            [
+              72.82301991859481,
+              19.418761192964837
+            ],
+            [
+              72.82301739231794,
+              19.418950837999994
+            ],
+            [
+              72.82283654314773,
+              19.418948669322212
+            ],
+            [
+              72.82283906963407,
+              19.41875902430988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00021",
+        "survey_number": "114/1A",
+        "owner_name": "Manisha Shantaram Jadhav",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82184578977858,
+              19.419000010440126
+            ],
+            [
+              72.82202663888602,
+              19.419002180109885
+            ],
+            [
+              72.82202411142316,
+              19.419191825014348
+            ],
+            [
+              72.82184326210626,
+              19.419189655321752
+            ],
+            [
+              72.82184578977858,
+              19.419000010440126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00022",
+        "survey_number": "114/2B",
+        "owner_name": "Neha Narayan Pawar",
+        "plot_area_sqm": 440.0,
+        "land_use": "Mixed-Use",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82209326751065,
+              19.419002979416568
+            ],
+            [
+              72.82228363502773,
+              19.419005263015446
+            ],
+            [
+              72.82228098752061,
+              19.419203938663546
+            ],
+            [
+              72.82209061977254,
+              19.41920165503948
+            ],
+            [
+              72.82209326751065,
+              19.419002979416568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00023",
+        "survey_number": "114/3A",
+        "owner_name": "Sunita Sunil Joshi",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8223407452881,
+              19.419005948056252
+            ],
+            [
+              72.82251207608367,
+              19.419008003071074
+            ],
+            [
+              72.8225093085243,
+              19.419215709461934
+            ],
+            [
+              72.8223379775114,
+              19.41921365442342
+            ],
+            [
+              72.8223407452881,
+              19.419005948056252
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00024",
+        "survey_number": "114/4B",
+        "owner_name": "Sujata Vasant Bhoir",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8225882231109,
+              19.41900891635919
+            ],
+            [
+              72.82276907231778,
+              19.41901108529068
+            ],
+            [
+              72.82276654571483,
+              19.419200730288896
+            ],
+            [
+              72.82258569629849,
+              19.41919856133457
+            ],
+            [
+              72.8225882231109,
+              19.41900891635919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00025",
+        "survey_number": "114/5A",
+        "owner_name": "Swati Vinayak Kadam",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82283570097906,
+              19.419011884325368
+            ],
+            [
+              72.8230260686008,
+              19.41901416714712
+            ],
+            [
+              72.8230234219945,
+              19.41921284289343
+            ],
+            [
+              72.82283305414177,
+              19.419210560046494
+            ],
+            [
+              72.82283570097906,
+              19.419011884325368
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00026",
+        "survey_number": "115/1A",
+        "owner_name": "Priya Mahesh Tare",
+        "plot_area_sqm": 378.0,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233346097735,
+              19.418006264692707
+            ],
+            [
+              72.82350593963513,
+              19.418008318668605
+            ],
+            [
+              72.82350341402775,
+              19.418197963780926
+            ],
+            [
+              72.82333208396771,
+              19.418195909783396
+            ],
+            [
+              72.8233346097735,
+              19.418006264692707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00027",
+        "survey_number": "115/2B",
+        "owner_name": "Sunil Suresh More",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82358208624726,
+              19.41800923149498
+            ],
+            [
+              72.82376293446829,
+              19.418011399329846
+            ],
+            [
+              72.82376040915857,
+              19.418201044474596
+            ],
+            [
+              72.82357956072809,
+              19.41819887661691
+            ],
+            [
+              72.82358208624726,
+              19.41800923149498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00028",
+        "survey_number": "115/3A",
+        "owner_name": "Sandeep Bhaskar Deshmukh",
+        "plot_area_sqm": 420.0,
+        "land_use": "Mixed-Use",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82382956276635,
+              19.41801219796051
+            ],
+            [
+              72.82401992935033,
+              19.418014479627942
+            ],
+            [
+              72.82401740433826,
+              19.41820412480513
+            ],
+            [
+              72.82382703753379,
+              19.41820184311368
+            ],
+            [
+              72.82382956276635,
+              19.41801219796051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00029",
+        "survey_number": "115/4B",
+        "owner_name": "Vandana Ashok Chavan",
+        "plot_area_sqm": 378.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82407703933076,
+              19.418015164089315
+            ],
+            [
+              72.82424836928651,
+              19.418017217365843
+            ],
+            [
+              72.824245844539,
+              19.418206862571857
+            ],
+            [
+              72.82407451438482,
+              19.41820480927371
+            ],
+            [
+              72.82407703933076,
+              19.418015164089315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00030",
+        "survey_number": "115/5A",
+        "owner_name": "Rajesh Anil Thakur",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82432451594049,
+              19.41801812988138
+            ],
+            [
+              72.82450536426087,
+              19.418020296978014
+            ],
+            [
+              72.82450283981102,
+              19.418209942216453
+            ],
+            [
+              72.82432199128117,
+              19.418207775097
+            ],
+            [
+              72.82432451594049,
+              19.41801812988138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00031",
+        "survey_number": "116/1B",
+        "owner_name": "Nitin Prabhakar Raut",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82333124202587,
+              19.418259124812682
+            ],
+            [
+              72.82351209049304,
+              19.41826129292406
+            ],
+            [
+              72.82350956485728,
+              19.41845093803189
+            ],
+            [
+              72.82332871618065,
+              19.418448769897683
+            ],
+            [
+              72.82333124202587,
+              19.418259124812682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00032",
+        "survey_number": "116/2A",
+        "owner_name": "Archana Prakash Gaikwad",
+        "plot_area_sqm": 440.0,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82357871888179,
+              19.418262091656604
+            ],
+            [
+              72.82376908572489,
+              19.418264373615095
+            ],
+            [
+              72.82376644013183,
+              19.418463049476212
+            ],
+            [
+              72.82357607305775,
+              19.418460767492558
+            ],
+            [
+              72.82357871888179,
+              19.418262091656604
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00033",
+        "survey_number": "116/3B",
+        "owner_name": "Mahesh Dattatray Keni",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82382619578304,
+              19.418265058163787
+            ],
+            [
+              72.82399752597199,
+              19.418267111702264
+            ],
+            [
+              72.82399476041371,
+              19.4184748183158
+            ],
+            [
+              72.82382343000742,
+              19.41847276475365
+            ],
+            [
+              72.82382619578304,
+              19.418265058163787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00034",
+        "survey_number": "116/4A",
+        "owner_name": "Kishor Gajanan Kulkarni",
+        "plot_area_sqm": 399.0,
+        "land_use": "Mixed-Use",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82407367272961,
+              19.41826802433423
+            ],
+            [
+              72.82425452129614,
+              19.418270191707364
+            ],
+            [
+              72.82425199652025,
+              19.41845983690888
+            ],
+            [
+              72.82407114774426,
+              19.418457669512925
+            ],
+            [
+              72.82407367272961,
+              19.41826802433423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00035",
+        "survey_number": "116/5B",
+        "owner_name": "Vijay Manohar Shinde",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82407367272961,
+              19.41826802433423
+            ],
+            [
+              72.82425452129614,
+              19.418270191707364
+            ],
+            [
+              72.82425199652025,
+              19.41845983690888
+            ],
+            [
+              72.82407114774426,
+              19.418457669512925
+            ],
+            [
+              72.82407367272961,
+              19.41826802433423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00036",
+        "survey_number": "117/1A",
+        "owner_name": "Deepak Ramesh Sawant",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82332787422567,
+              19.418511984925072
+            ],
+            [
+              72.82351824132786,
+              19.41851426717463
+            ],
+            [
+              72.82351571566369,
+              19.41870391227796
+            ],
+            [
+              72.823325348341,
+              19.41870163000437
+            ],
+            [
+              72.82332787422567,
+              19.418511984925072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00037",
+        "survey_number": "117/2B",
+        "owner_name": "Aniket Shantaram Mhatre",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82357535146375,
+              19.41851495181064
+            ],
+            [
+              72.82374668188591,
+              19.418517005611072
+            ],
+            [
+              72.82374391597051,
+              19.418724712184176
+            ],
+            [
+              72.82357258533104,
+              19.418722658360053
+            ],
+            [
+              72.82357535146375,
+              19.41851495181064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00038",
+        "survey_number": "117/3A",
+        "owner_name": null,
+        "plot_area_sqm": 418.0,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82382282874715,
+              19.418517918359463
+            ],
+            [
+              72.82400367755986,
+              19.41852008600911
+            ],
+            [
+              72.82400103221423,
+              19.41871876189572
+            ],
+            [
+              72.8238201831821,
+              19.418716594222165
+            ],
+            [
+              72.82382282874715,
+              19.418517918359463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00039",
+        "survey_number": "117/4B",
+        "owner_name": "Amit Sunil Vartak",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8240703060759,
+              19.418520884571542
+            ],
+            [
+              72.8242606732827,
+              19.418523166043993
+            ],
+            [
+              72.82425814847839,
+              19.418712811241015
+            ],
+            [
+              72.82406778105113,
+              19.418710529744544
+            ],
+            [
+              72.8240703060759,
+              19.418520884571542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00040",
+        "survey_number": "117/5A",
+        "owner_name": "Ramesh Vasant Patil",
+        "plot_area_sqm": 414.0,
+        "land_use": "Mixed-Use",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82431778344996,
+              19.418523850446874
+            ],
+            [
+              72.82448911396624,
+              19.418525903547916
+            ],
+            [
+              72.82448634899264,
+              19.41873361022362
+            ],
+            [
+              72.82431501825901,
+              19.418731557098905
+            ],
+            [
+              72.82431778344996,
+              19.418523850446874
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00041",
+        "survey_number": "118/1B",
+        "owner_name": "Nilesh Vinayak Jadhav",
+        "plot_area_sqm": 378.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82332450637288,
+              19.418764845029852
+            ],
+            [
+              72.82349583702823,
+              19.418766899092255
+            ],
+            [
+              72.82349331130257,
+              19.418956544187495
+            ],
+            [
+              72.82332198044878,
+              19.418954490103467
+            ],
+            [
+              72.82332450637288,
+              19.418764845029852
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00042",
+        "survey_number": "118/2A",
+        "owner_name": "Prakash Mahesh Pawar",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82357198399313,
+              19.41876781195707
+            ],
+            [
+              72.82375283305198,
+              19.418769979883233
+            ],
+            [
+              72.823750307624,
+              19.41895962501091
+            ],
+            [
+              72.82356945835566,
+              19.41895745706192
+            ],
+            [
+              72.82357198399313,
+              19.41876781195707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00043",
+        "survey_number": "118/3B",
+        "owner_name": "Sanjay Suresh Joshi",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82381946165872,
+              19.41877077854754
+            ],
+            [
+              72.82400982912462,
+              19.418773060311064
+            ],
+            [
+              72.82400730399429,
+              19.418962705471166
+            ],
+            [
+              72.82381693630789,
+              19.418960423683625
+            ],
+            [
+              72.82381946165872,
+              19.41877077854754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00044",
+        "survey_number": "118/4A",
+        "owner_name": "Sachin Bhaskar Bhoir",
+        "plot_area_sqm": 378.0,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82406693936963,
+              19.41877374480126
+            ],
+            [
+              72.82423827011911,
+              19.418775798164262
+            ],
+            [
+              72.82423574525336,
+              19.418965443353187
+            ],
+            [
+              72.82406441430543,
+              19.41896338996857
+            ],
+            [
+              72.82406693936963,
+              19.41877374480126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00045",
+        "survey_number": "118/5B",
+        "owner_name": "Sneha Ashok Kadam",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82431441712586,
+              19.41877671071823
+            ],
+            [
+              72.82449526628407,
+              19.41877887790613
+            ],
+            [
+              72.82449274171597,
+              19.418968523127486
+            ],
+            [
+              72.8243118923483,
+              19.418966355916766
+            ],
+            [
+              72.82431441712586,
+              19.41877671071823
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00046",
+        "survey_number": "119/1A",
+        "owner_name": "Rahul Anil Tare",
+        "plot_area_sqm": 399.0,
+        "land_use": "Mixed-Use",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233211384675,
+              19.41901770512705
+            ],
+            [
+              72.82350198777253,
+              19.419019873329738
+            ],
+            [
+              72.82349946201846,
+              19.41920951842048
+            ],
+            [
+              72.82331861250398,
+              19.419207350194966
+            ],
+            [
+              72.8233211384675,
+              19.41901770512705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00047",
+        "survey_number": "119/2B",
+        "owner_name": "Shweta Prabhakar More",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82356861646994,
+              19.419020672095915
+            ],
+            [
+              72.82375898419498,
+              19.419022954150513
+            ],
+            [
+              72.823756338478,
+              19.419221629993732
+            ],
+            [
+              72.82356597052198,
+              19.419219347913973
+            ],
+            [
+              72.82356861646994,
+              19.419020672095915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00048",
+        "survey_number": "119/3A",
+        "owner_name": "Pooja Prakash Deshmukh",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82381609451771,
+              19.41902363872803
+            ],
+            [
+              72.8239874255004,
+              19.41902569235299
+            ],
+            [
+              72.82398465981258,
+              19.419233398947824
+            ],
+            [
+              72.82381332861256,
+              19.41923134529918
+            ],
+            [
+              72.82381609451771,
+              19.41902363872803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00049",
+        "survey_number": "119/4B",
+        "owner_name": "Manoj Dattatray Chavan",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8240635726108,
+              19.41902660502339
+            ],
+            [
+              72.82424442201518,
+              19.4190287724878
+            ],
+            [
+              72.82424189712101,
+              19.419218417672234
+            ],
+            [
+              72.82406104750719,
+              19.419216250185002
+            ],
+            [
+              72.8240635726108,
+              19.41902660502339
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-23-00050",
+        "survey_number": "119/5A",
+        "owner_name": "Kavita Gajanan Thakur",
+        "plot_area_sqm": 440.0,
+        "land_use": "Commercial",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8243110507492,
+              19.41902957098199
+            ],
+            [
+              72.82450141857882,
+              19.419031852259454
+            ],
+            [
+              72.82449877376273,
+              19.41923052820082
+            ],
+            [
+              72.82430840570211,
+              19.419228246898193
+            ],
+            [
+              72.8243110507492,
+              19.41902957098199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00051",
+        "survey_number": "120/1A",
+        "owner_name": "Manisha Manohar Raut",
+        "plot_area_sqm": 546.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187948924823,
+              19.4164714116103
+            ],
+            [
+              72.82212696315882,
+              19.416474380169976
+            ],
+            [
+              72.82212443616768,
+              19.416664025139813
+            ],
+            [
+              72.8218769619705,
+              19.41666105654888
+            ],
+            [
+              72.82187948924823,
+              19.4164714116103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00052",
+        "survey_number": "120/2B",
+        "owner_name": "Neha Ramesh Gaikwad",
+        "plot_area_sqm": 399.0,
+        "land_use": "Mixed-Use",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212696315882,
+              19.416474380169976
+            ],
+            [
+              72.82230780950678,
+              19.416476549289115
+            ],
+            [
+              72.82230528272508,
+              19.416666194281795
+            ],
+            [
+              72.82212443616768,
+              19.416664025139813
+            ],
+            [
+              72.82212696315882,
+              19.416474380169976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00053",
+        "survey_number": "120/3A",
+        "owner_name": "Sunita Shantaram Keni",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237443711476,
+              19.416477348392945
+            ],
+            [
+              72.82256480172713,
+              19.416479631412265
+            ],
+            [
+              72.82256227524304,
+              19.416669276437393
+            ],
+            [
+              72.82237191041023,
+              19.41666699339404
+            ],
+            [
+              72.82237443711476,
+              19.416477348392945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00054",
+        "survey_number": "120/4B",
+        "owner_name": "Sujata Narayan Kulkarni",
+        "plot_area_sqm": 378.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262191111606,
+              19.41648031627921
+            ],
+            [
+              72.82279323929738,
+              19.416482370772457
+            ],
+            [
+              72.82279071307784,
+              19.416672015826432
+            ],
+            [
+              72.82261938469811,
+              19.416669961311552
+            ],
+            [
+              72.82262191111606,
+              19.41648031627921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00055",
+        "survey_number": "120/5A",
+        "owner_name": "Swati Sunil Shinde",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82286938516272,
+              19.41648328382876
+            ],
+            [
+              72.8230502316101,
+              19.416485452209738
+            ],
+            [
+              72.82304770568818,
+              19.41667509729616
+            ],
+            [
+              72.82286685903136,
+              19.416672928892357
+            ],
+            [
+              72.82286938516272,
+              19.41648328382876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00056",
+        "survey_number": "121/1B",
+        "owner_name": "Priya Vasant Sawant",
+        "plot_area_sqm": 399.0,
+        "land_use": "Commercial",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187611953802,
+              19.41672427152746
+            ],
+            [
+              72.82205696613207,
+              19.416726440923107
+            ],
+            [
+              72.82205443902433,
+              19.416916085878835
+            ],
+            [
+              72.82187359222084,
+              19.416913916460345
+            ],
+            [
+              72.82187611953802,
+              19.41672427152746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00057",
+        "survey_number": "121/2A",
+        "owner_name": "Sunil Vinayak Mhatre",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212359383072,
+              19.41672724012881
+            ],
+            [
+              72.82231395870214,
+              19.416729523439187
+            ],
+            [
+              72.82231131156699,
+              19.41692819914099
+            ],
+            [
+              72.82212094646461,
+              19.41692591580543
+            ],
+            [
+              72.82212359383072,
+              19.41672724012881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00058",
+        "survey_number": "121/3B",
+        "owner_name": "Sandeep Mahesh Naik",
+        "plot_area_sqm": 414.0,
+        "land_use": "Mixed-Use",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8223710681688,
+              19.41673020839345
+            ],
+            [
+              72.82254239658326,
+              19.41673226314865
+            ],
+            [
+              72.82253962941276,
+              19.416939969595653
+            ],
+            [
+              72.82236830078098,
+              19.416937914816756
+            ],
+            [
+              72.8223710681688,
+              19.41673020839345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00059",
+        "survey_number": "121/4A",
+        "owner_name": "Vandana Suresh Vartak",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261854255223,
+              19.416733176321383
+            ],
+            [
+              72.82279938924572,
+              19.416735344978854
+            ],
+            [
+              72.82279686299776,
+              19.416924990028342
+            ],
+            [
+              72.82261601609483,
+              19.416922821348027
+            ],
+            [
+              72.82261854255223,
+              19.416733176321383
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00060",
+        "survey_number": "121/5B",
+        "owner_name": "Rajesh Bhaskar Patil",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82286601698101,
+              19.4167361439126
+            ],
+            [
+              72.82305638195707,
+              19.41673842644595
+            ],
+            [
+              72.82305373572264,
+              19.416937102245956
+            ],
+            [
+              72.82286337051562,
+              19.41693481968743
+            ],
+            [
+              72.82286601698101,
+              19.4167361439126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00061",
+        "survey_number": "122/1A",
+        "owner_name": "Nitin Ashok Jadhav",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187274977521,
+              19.416977131437026
+            ],
+            [
+              72.82206311490567,
+              19.416979415038472
+            ],
+            [
+              72.82206058776949,
+              19.4171690599897
+            ],
+            [
+              72.82187022241855,
+              19.41716677636421
+            ],
+            [
+              72.82187274977521,
+              19.416977131437026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00062",
+        "survey_number": "122/2B",
+        "owner_name": "Archana Anil Pawar",
+        "plot_area_sqm": 414.0,
+        "land_use": "Commercial",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212022445003,
+              19.416980100080053
+            ],
+            [
+              72.82229155309766,
+              19.41698215509721
+            ],
+            [
+              72.82228878557005,
+              19.41718986150374
+            ],
+            [
+              72.82211745670512,
+              19.417187806462888
+            ],
+            [
+              72.82212022445003,
+              19.416980100080053
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00063",
+        "survey_number": "122/3A",
+        "owner_name": "Mahesh Prabhakar Joshi",
+        "plot_area_sqm": 594.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82236769917024,
+              19.41698306838637
+            ],
+            [
+              72.82262469219691,
+              19.416986150501916
+            ],
+            [
+              72.82262204540152,
+              19.4171848262393
+            ],
+            [
+              72.82236505206305,
+              19.41718174408975
+            ],
+            [
+              72.82236769917024,
+              19.41698306838637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00064",
+        "survey_number": "122/4B",
+        "owner_name": "Kishor Prakash Bhoir",
+        "plot_area_sqm": 420.0,
+        "land_use": "Mixed-Use",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261517393579,
+              19.41698603635596
+            ],
+            [
+              72.82280553917091,
+              19.41698831918037
+            ],
+            [
+              72.82280301289454,
+              19.417177964225356
+            ],
+            [
+              72.82261264743894,
+              19.417175681376904
+            ],
+            [
+              72.82261517393579,
+              19.41698603635596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00065",
+        "survey_number": "122/5A",
+        "owner_name": "Vijay Dattatray Kadam",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8228626487467,
+              19.416989003988846
+            ],
+            [
+              72.8230339774885,
+              19.416991058306664
+            ],
+            [
+              72.82303121090258,
+              19.41719876481587
+            ],
+            [
+              72.82285988194346,
+              19.417196710474354
+            ],
+            [
+              72.8228626487467,
+              19.416989003988846
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00066",
+        "survey_number": "123/1B",
+        "owner_name": "Deepak Gajanan Tare",
+        "plot_area_sqm": 378.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82186937995978,
+              19.417229991338996
+            ],
+            [
+              72.82204070884055,
+              19.41723204661811
+            ],
+            [
+              72.82203818164285,
+              19.41742169156124
+            ],
+            [
+              72.82186685256367,
+              19.417419636260483
+            ],
+            [
+              72.82186937995978,
+              19.417229991338996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00067",
+        "survey_number": "123/2A",
+        "owner_name": "Aniket Manohar More",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82211685501674,
+              19.4172329600237
+            ],
+            [
+              72.82229770220245,
+              19.417235129234196
+            ],
+            [
+              72.8222951753024,
+              19.417424774209785
+            ],
+            [
+              72.82211432790724,
+              19.417422604976448
+            ],
+            [
+              72.82211685501674,
+              19.4172329600237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00068",
+        "survey_number": "123/3B",
+        "owner_name": "Ganesh Ramesh Deshmukh",
+        "plot_area_sqm": 420.0,
+        "land_use": "Commercial",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82236433011909,
+              19.41723592837168
+            ],
+            [
+              72.82255469561328,
+              19.417238211487152
+            ],
+            [
+              72.82255216901085,
+              19.4174278564952
+            ],
+            [
+              72.82236180329619,
+              19.417425573355683
+            ],
+            [
+              72.82236433011909,
+              19.41723592837168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00069",
+        "survey_number": "123/4A",
+        "owner_name": "Amit Shantaram Chavan",
+        "plot_area_sqm": 378.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261180526677,
+              19.417238896382948
+            ],
+            [
+              72.82278313424173,
+              19.41724095096272
+            ],
+            [
+              72.82278060790387,
+              19.41743059599961
+            ],
+            [
+              72.82260927873048,
+              19.417428541398195
+            ],
+            [
+              72.82261180526677,
+              19.417238896382948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00070",
+        "survey_number": null,
+        "owner_name": "Ramesh Narayan Thakur",
+        "plot_area_sqm": 399.0,
+        "land_use": "Mixed-Use",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82285928045981,
+              19.41724186405749
+            ],
+            [
+              72.82304012774493,
+              19.417244032529787
+            ],
+            [
+              72.82303760170468,
+              19.417433677599117
+            ],
+            [
+              72.82285675421012,
+              19.417431509103984
+            ],
+            [
+              72.82285928045981,
+              19.41724186405749
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00071",
+        "survey_number": "124/1A",
+        "owner_name": "Nilesh Sunil Raut",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82186601009172,
+              19.41748285123337
+            ],
+            [
+              72.82204685752355,
+              19.417485020720388
+            ],
+            [
+              72.82204433029743,
+              19.417674665659025
+            ],
+            [
+              72.82186348265617,
+              19.41767249614917
+            ],
+            [
+              72.82186601009172,
+              19.41748285123337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00072",
+        "survey_number": "124/2B",
+        "owner_name": "Prakash Vasant Gaikwad",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82211348553083,
+              19.41748581995975
+            ],
+            [
+              72.8223038512841,
+              19.417488103366296
+            ],
+            [
+              72.82230120402495,
+              19.417686779050193
+            ],
+            [
+              72.82211083804073,
+              19.417684495618463
+            ],
+            [
+              72.82211348553083,
+              19.41748581995975
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00073",
+        "survey_number": "124/3A",
+        "owner_name": "Sanjay Vinayak Keni",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82236096101532,
+              19.417488788349406
+            ],
+            [
+              72.82253229022344,
+              19.417490843191143
+            ],
+            [
+              72.82252952292332,
+              19.41769854961943
+            ],
+            [
+              72.82235819349788,
+              19.417696494753997
+            ],
+            [
+              72.82236096101532,
+              19.417488788349406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00074",
+        "survey_number": "124/4B",
+        "owner_name": "Sachin Mahesh Kulkarni",
+        "plot_area_sqm": 399.0,
+        "land_use": "Commercial",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82260843654514,
+              19.417491756402335
+            ],
+            [
+              72.82278928407639,
+              19.41749392515115
+            ],
+            [
+              72.8227867577101,
+              19.417683570183538
+            ],
+            [
+              72.82260590996941,
+              19.41768140141189
+            ],
+            [
+              72.82260843654514,
+              19.417491756402335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-21-00075",
+        "survey_number": "124/5A",
+        "owner_name": "Sneha Suresh Shinde",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82285591212033,
+              19.417494724118544
+            ],
+            [
+              72.82304627797824,
+              19.41749700674803
+            ],
+            [
+              72.82304363161987,
+              19.417695682530134
+            ],
+            [
+              72.82285326553098,
+              19.41769339987547
+            ],
+            [
+              72.82285591212033,
+              19.417494724118544
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00076",
+        "survey_number": "125/1A",
+        "owner_name": "Rahul Bhaskar Sawant",
+        "plot_area_sqm": 378.0,
+        "land_use": "Mixed-Use",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335481515516,
+              19.416489103813362
+            ],
+            [
+              72.82352614342943,
+              19.41649115761626
+            ],
+            [
+              72.82352361805864,
+              19.416680802762755
+            ],
+            [
+              72.82335228958597,
+              19.416678748938235
+            ],
+            [
+              72.82335481515516,
+              19.416489103813362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00077",
+        "survey_number": "125/2B",
+        "owner_name": "Shweta Ashok Mhatre",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360228933607,
+              19.416492070365745
+            ],
+            [
+              72.82378313588157,
+              19.41649423801802
+            ],
+            [
+              72.8237806108084,
+              19.41668388319695
+            ],
+            [
+              72.82359976405347,
+              19.416681715521854
+            ],
+            [
+              72.82360228933607,
+              19.416492070365745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00078",
+        "survey_number": "125/3A",
+        "owner_name": "Pooja Anil Naik",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360228933607,
+              19.416492070365745
+            ],
+            [
+              72.82378313588157,
+              19.41649423801802
+            ],
+            [
+              72.8237806108084,
+              19.41668388319695
+            ],
+            [
+              72.82359976405347,
+              19.416681715521854
+            ],
+            [
+              72.82360228933607,
+              19.416492070365745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00079",
+        "survey_number": "125/4B",
+        "owner_name": "Manoj Prabhakar Vartak",
+        "plot_area_sqm": 378.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409723783391,
+              19.416498002460393
+            ],
+            [
+              72.8242685662023,
+              19.416500055563976
+            ],
+            [
+              72.82426604169129,
+              19.416689700804163
+            ],
+            [
+              72.82409471312448,
+              19.416687647678962
+            ],
+            [
+              72.82409723783391,
+              19.416498002460393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00080",
+        "survey_number": "125/5A",
+        "owner_name": "Kavita Prakash Patil",
+        "plot_area_sqm": 399.0,
+        "land_use": "Commercial",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434471215079,
+              19.416500968002655
+            ],
+            [
+              72.82452555879564,
+              19.416503134916763
+            ],
+            [
+              72.82452303458224,
+              19.41669278018937
+            ],
+            [
+              72.82434218772796,
+              19.41669061325245
+            ],
+            [
+              72.82434471215079,
+              19.416500968002655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00081",
+        "survey_number": "126/1B",
+        "owner_name": "Manisha Dattatray Jadhav",
+        "plot_area_sqm": 567.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335144772298,
+              19.416741963978904
+            ],
+            [
+              72.82360844053936,
+              19.416745044665987
+            ],
+            [
+              72.82360591522836,
+              19.416934689817598
+            ],
+            [
+              72.82334892211436,
+              19.41693160909808
+            ],
+            [
+              72.82335144772298,
+              19.416741963978904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00082",
+        "survey_number": "126/2A",
+        "owner_name": "Neha Gajanan Pawar",
+        "plot_area_sqm": 440.0,
+        "land_use": "Mixed-Use",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82359892228602,
+              19.41674493057294
+            ],
+            [
+              72.82378928736537,
+              19.41674721233922
+            ],
+            [
+              72.82378664202014,
+              19.416945888236146
+            ],
+            [
+              72.82359627670984,
+              19.41694360644469
+            ],
+            [
+              72.82359892228602,
+              19.41674493057294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00083",
+        "survey_number": "126/3B",
+        "owner_name": "Sunita Manohar Joshi",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82384639689441,
+              19.41674789683026
+            ],
+            [
+              72.82401772549599,
+              19.41674995019577
+            ],
+            [
+              72.82401496019675,
+              19.41695765684674
+            ],
+            [
+              72.82384363137787,
+              19.41695560345755
+            ],
+            [
+              72.82384639689441,
+              19.41674789683026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00084",
+        "survey_number": "126/4A",
+        "owner_name": "Sujata Ramesh Bhoir",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409387154811,
+              19.416750862750867
+            ],
+            [
+              72.82427471843909,
+              19.416753029941447
+            ],
+            [
+              72.82427219389969,
+              19.41694267517714
+            ],
+            [
+              72.82409134679926,
+              19.41694050796374
+            ],
+            [
+              72.82409387154811,
+              19.416750862750867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00085",
+        "survey_number": "126/5B",
+        "owner_name": "Swati Shantaram Kadam",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434134624712,
+              19.416753828334762
+            ],
+            [
+              72.82453171143105,
+              19.416756109324016
+            ],
+            [
+              72.82452906698654,
+              19.416954785319078
+            ],
+            [
+              72.82433870157166,
+              19.41695250430466
+            ],
+            [
+              72.82434134624712,
+              19.416753828334762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00086",
+        "survey_number": "127/1A",
+        "owner_name": "Priya Narayan Tare",
+        "plot_area_sqm": 420.0,
+        "land_use": "Commercial",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82334808023825,
+              19.416994824136857
+            ],
+            [
+              72.82353844557666,
+              19.416997106194188
+            ],
+            [
+              72.82353592014907,
+              19.41718675133169
+            ],
+            [
+              72.82334555459019,
+              19.41718446925033
+            ],
+            [
+              72.82334808023825,
+              19.416994824136857
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00087",
+        "survey_number": "127/2B",
+        "owner_name": "Sunil Sunil More",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82359555518342,
+              19.416997790772538
+            ],
+            [
+              72.82376688401817,
+              19.41699984439999
+            ],
+            [
+              72.82376411836186,
+              19.41720755101051
+            ],
+            [
+              72.8235927893098,
+              19.417205497359376
+            ],
+            [
+              72.82359555518342,
+              19.416997790772538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00088",
+        "survey_number": "127/3A",
+        "owner_name": "Sandeep Vasant Deshmukh",
+        "plot_area_sqm": 418.0,
+        "land_use": "Mixed-Use",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82384303017393,
+              19.417000757071502
+            ],
+            [
+              72.82402387731103,
+              19.417002924538572
+            ],
+            [
+              72.8240212322132,
+              19.41720160046098
+            ],
+            [
+              72.82384038485668,
+              19.41719943297
+            ],
+            [
+              72.82384303017393,
+              19.417000757071502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00089",
+        "survey_number": "127/4B",
+        "owner_name": "Vandana Vinayak Chavan",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409050520975,
+              19.417003723033744
+            ],
+            [
+              72.82428087065277,
+              19.41700600431404
+            ],
+            [
+              72.82427834608498,
+              19.417195649545235
+            ],
+            [
+              72.82408798042151,
+              19.417193368240916
+            ],
+            [
+              72.82409050520975,
+              19.417003723033744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00090",
+        "survey_number": "127/5A",
+        "owner_name": "Rajesh Mahesh Thakur",
+        "plot_area_sqm": 414.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8243379802909,
+              19.417006688659274
+            ],
+            [
+              72.82450930921978,
+              19.41700874158739
+            ],
+            [
+              72.82450654450517,
+              19.417216448300515
+            ],
+            [
+              72.82433521535897,
+              19.417214395348722
+            ],
+            [
+              72.8243379802909,
+              19.417006688659274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00091",
+        "survey_number": "128/1B",
+        "owner_name": "Nitin Suresh Raut",
+        "plot_area_sqm": 378.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82334471270092,
+              19.417247684287208
+            ],
+            [
+              72.82351604176884,
+              19.417249738176608
+            ],
+            [
+              72.82351351627979,
+              19.417439383306007
+            ],
+            [
+              72.82334218701342,
+              19.417437329394986
+            ],
+            [
+              72.82334471270092,
+              19.417247684287208
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00092",
+        "survey_number": "128/2A",
+        "owner_name": "Archana Bhaskar Gaikwad",
+        "plot_area_sqm": 378.0,
+        "land_use": "Commercial",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82334471270092,
+              19.417247684287208
+            ],
+            [
+              72.82351604176884,
+              19.417249738176608
+            ],
+            [
+              72.82351351627979,
+              19.417439383306007
+            ],
+            [
+              72.82334218701342,
+              19.417437329394986
+            ],
+            [
+              72.82334471270092,
+              19.417247684287208
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00093",
+        "survey_number": "128/3B",
+        "owner_name": "Mahesh Ashok Keni",
+        "plot_area_sqm": 420.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82383966340089,
+              19.417253617305146
+            ],
+            [
+              72.82403002910299,
+              19.41725589887648
+            ],
+            [
+              72.82402750420917,
+              19.41744554407075
+            ],
+            [
+              72.8238371382866,
+              19.417443262475395
+            ],
+            [
+              72.82383966340089,
+              19.417253617305146
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00094",
+        "survey_number": "128/4A",
+        "owner_name": "Kishor Anil Kulkarni",
+        "plot_area_sqm": 378.0,
+        "land_use": "Mixed-Use",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82408713881885,
+              19.417256583309026
+            ],
+            [
+              72.82425846798091,
+              19.41725863649908
+            ],
+            [
+              72.82425594335166,
+              19.417448281722173
+            ],
+            [
+              72.82408461399118,
+              19.417446228510503
+            ],
+            [
+              72.82408713881885,
+              19.417256583309026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00095",
+        "survey_number": "128/5B",
+        "owner_name": "Vijay Prabhakar Shinde",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82433461428212,
+              19.417259548976194
+            ],
+            [
+              72.82451546176472,
+              19.417261715981564
+            ],
+            [
+              72.8245129374331,
+              19.417451361237074
+            ],
+            [
+              72.82433208974106,
+              19.417449194208892
+            ],
+            [
+              72.82433461428212,
+              19.417259548976194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00096",
+        "survey_number": "129/1A",
+        "owner_name": "Deepak Prakash Sawant",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82334134511103,
+              19.41750054442997
+            ],
+            [
+              72.8235221927404,
+              19.41750271245004
+            ],
+            [
+              72.82351966722293,
+              19.417692357574946
+            ],
+            [
+              72.8233388193841,
+              19.417690189532056
+            ],
+            [
+              72.82334134511103,
+              19.41750054442997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00097",
+        "survey_number": "129/2B",
+        "owner_name": "Aniket Dattatray Mhatre",
+        "plot_area_sqm": 440.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82358882082048,
+              19.417503511148947
+            ],
+            [
+              72.82377918678168,
+              19.417505793011337
+            ],
+            [
+              72.82377654131253,
+              19.417704468890353
+            ],
+            [
+              72.82358617512037,
+              19.417702187002796
+            ],
+            [
+              72.82358882082048,
+              19.417503511148947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00098",
+        "survey_number": "129/3A",
+        "owner_name": "Ganesh Gajanan Naik",
+        "plot_area_sqm": 414.0,
+        "land_use": "Commercial",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82383629657527,
+              19.417506477531195
+            ],
+            [
+              72.82400762597052,
+              19.41750853098319
+            ],
+            [
+              72.82400486054176,
+              19.417716237615448
+            ],
+            [
+              72.82383353092919,
+              19.41771418413977
+            ],
+            [
+              72.82383629657527,
+              19.417506477531195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00099",
+        "survey_number": "129/4B",
+        "owner_name": "Amit Manohar Vartak",
+        "plot_area_sqm": 399.0,
+        "land_use": "Residential",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82408377237537,
+              19.41750944357672
+            ],
+            [
+              72.82426462010412,
+              19.417511610858583
+            ],
+            [
+              72.82426209544647,
+              19.417701256077184
+            ],
+            [
+              72.82408124750829,
+              19.417699088772505
+            ],
+            [
+              72.82408377237537,
+              19.41750944357672
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "VVR-12-00100",
+        "survey_number": "129/5A",
+        "owner_name": "Ramesh Ramesh Patil",
+        "plot_area_sqm": 440.0,
+        "land_use": "Mixed-Use",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_cadastral_2026",
+        "source_type": "CADASTRAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8243312482208,
+              19.417512409285518
+            ],
+            [
+              72.82452161428658,
+              19.41751469037084
+            ],
+            [
+              72.82451896971821,
+              19.417713366348
+            ],
+            [
+              72.82432860342146,
+              19.417711085237514
+            ],
+            [
+              72.8243312482208,
+              19.417512409285518
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

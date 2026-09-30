@@ -1,0 +1,23 @@
+{
+  "name": "bhusync-ai-root",
+  "version": "1.0.0",
+  "description": "BhuSync AI — Automated Geospatial Data Harmonization Platform",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend start",
+    "postinstall": "cd frontend && npm install",
+    "backend": "python -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --reload",
+    "test": "pytest backend/tests/ -v"
+  },
+  "keywords": [
+    "geospatial",
+    "gis",
+    "harmonization",
+    "land-records"
+  ]
+}

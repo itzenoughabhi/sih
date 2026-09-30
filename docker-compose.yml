@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  postgres-postgis:
+    image: postgis/postgis:16-3.4
+    container_name: bhusync-postgis
+    environment:
+      POSTGRES_USER: bhusync
+      POSTGRES_PASSWORD: bhusync_secure_password
+      POSTGRES_DB: bhusync_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgis_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bhusync -d bhusync_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: bhusync-backend
+    environment:
+      - DATABASE_URL=postgresql://bhusync:bhusync_secure_password@postgres-postgis:5432/bhusync_db
+      - CORS_ORIGINS=http://localhost:3000
+      - APP_PORT=8000
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres-postgis:
+        condition: service_healthy
+    volumes:
+      - ./backend/data:/app/backend/data
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: bhusync-frontend
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000/api
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  postgis_data:

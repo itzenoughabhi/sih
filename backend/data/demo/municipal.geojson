@@ -1,0 +1,4512 @@
+{
+  "type": "FeatureCollection",
+  "name": "SIMULATED DEMONSTRATION DATA \u2014 NOT AN OFFICIAL LAND RECORD",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0142",
+        "parcel_reference": "VVR-23-00142",
+        "owner_name": "Rajesh P. Patil",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 423.9,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82314700985233,
+              19.417796275801486
+            ],
+            [
+              72.82332214679762,
+              19.417798375578553
+            ],
+            [
+              72.82331937587779,
+              19.418006425669205
+            ],
+            [
+              72.82314423870997,
+              19.418004325867877
+            ],
+            [
+              72.82314700985233,
+              19.417796275801486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0217",
+        "parcel_reference": "VVR-23-00217",
+        "owner_name": "Vijay D. Shinde",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 574.2,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82214892987423,
+              19.418035466042916
+            ],
+            [
+              72.82235357375284,
+              19.418037920723638
+            ],
+            [
+              72.82235036007418,
+              19.418279103755985
+            ],
+            [
+              72.82214571589417,
+              19.41827664904239
+            ],
+            [
+              72.82214892987423,
+              19.418035466042916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0003",
+        "parcel_reference": "VVR-23-00003",
+        "owner_name": "Mahesh M. Joshi",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 417.48,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82235422264998,
+              19.417994508282067
+            ],
+            [
+              72.82254458902607,
+              19.417996791493692
+            ],
+            [
+              72.8225420774657,
+              19.41818529861472
+            ],
+            [
+              72.82235171087048,
+              19.418183015379196
+            ],
+            [
+              72.82235422264998,
+              19.417994508282067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0004",
+        "parcel_reference": "VVR-23-00004",
+        "owner_name": "Kishor R. Bhoir",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 374.98,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82260169894411,
+              19.417997476418325
+            ],
+            [
+              72.82277302871277,
+              19.41799953108464
+            ],
+            [
+              72.8227705224416,
+              19.41818766095112
+            ],
+            [
+              72.82259919247609,
+              19.41818560626335
+            ],
+            [
+              72.82260169894411,
+              19.417997476418325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0005",
+        "parcel_reference": "VVR-23-00005",
+        "owner_name": "Vijay S. Kadam",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 399.0,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8228491752836,
+              19.41800044421786
+            ],
+            [
+              72.8230300234065,
+              19.41800261278149
+            ],
+            [
+              72.82302749724795,
+              19.418192257833734
+            ],
+            [
+              72.82284664891559,
+              19.418190089247275
+            ],
+            [
+              72.8228491752836,
+              19.41800044421786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0006",
+        "parcel_reference": "VVR-23-00006",
+        "owner_name": "Deepak N. Tare",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 398.2,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82185590017191,
+              19.41824143087093
+            ],
+            [
+              72.82203674844152,
+              19.418243600449312
+            ],
+            [
+              72.82203422616442,
+              19.418432865130427
+            ],
+            [
+              72.82185337768578,
+              19.418430695529242
+            ],
+            [
+              72.82185590017191,
+              19.41824143087093
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0007",
+        "parcel_reference": "VVR-23-00007",
+        "owner_name": "Aniket S. More",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 438.24,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82210337675748,
+              19.418244399722337
+            ],
+            [
+              72.82229374339263,
+              19.41824668322505
+            ],
+            [
+              72.8222911065991,
+              19.418444564188395
+            ],
+            [
+              72.82210073973388,
+              19.418442280660592
+            ],
+            [
+              72.82210337675748,
+              19.418244399722337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0008",
+        "parcel_reference": "VVR-23-00008",
+        "owner_name": "Ganesh V. Deshmukh",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 411.52,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82235085338843,
+              19.418247368237008
+            ],
+            [
+              72.82252218339025,
+              19.418249423165285
+            ],
+            [
+              72.82251943253846,
+              19.418455885343246
+            ],
+            [
+              72.82234810232059,
+              19.41845383039141
+            ],
+            [
+              72.82235085338843,
+              19.418247368237008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0009",
+        "parcel_reference": "VVR-23-00009",
+        "owner_name": "Amit V. Chavan",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 395.81,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82259833006471,
+              19.41825033641494
+            ],
+            [
+              72.82277917843375,
+              19.41825250525509
+            ],
+            [
+              72.82277667214846,
+              19.418440634060897
+            ],
+            [
+              72.82259582357165,
+              19.41843846519809
+            ],
+            [
+              72.82259833006471,
+              19.41825033641494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0010",
+        "parcel_reference": "VVR-23-00010",
+        "owner_name": "Ramesh M. Thakur",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 440.0,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82284580678635,
+              19.418253304256133
+            ],
+            [
+              72.82303617352615,
+              19.418255586981754
+            ],
+            [
+              72.82303352704382,
+              19.418454262745954
+            ],
+            [
+              72.82284316007303,
+              19.418451979995154
+            ],
+            [
+              72.82284580678635,
+              19.418253304256133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0011",
+        "parcel_reference": "VVR-23-00011",
+        "owner_name": "N. S. Raut",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 419.16,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82185253009341,
+              19.418494290734923
+            ],
+            [
+              72.82204289698765,
+              19.418496574528724
+            ],
+            [
+              72.82204037466951,
+              19.41868584015595
+            ],
+            [
+              72.82185000755523,
+              19.418683556338152
+            ],
+            [
+              72.82185253009341,
+              19.418494290734923
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0012",
+        "parcel_reference": "VVR-23-00012",
+        "owner_name": "Prakash B. Gaikwad",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 412.34,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82210000706114,
+              19.41849725962801
+            ],
+            [
+              72.82227133729616,
+              19.41849931481827
+            ],
+            [
+              72.82226858060724,
+              19.41870618835508
+            ],
+            [
+              72.82209725015579,
+              19.41870413314122
+            ],
+            [
+              72.82210000706114,
+              19.41849725962801
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0013",
+        "parcel_reference": "VVR-23-00013",
+        "owner_name": "Sanjay A. Keni",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 415.49,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82234748407424,
+              19.418500228184353
+            ],
+            [
+              72.82252833268943,
+              19.418502397301033
+            ],
+            [
+              72.82252570144927,
+              19.418699879987805
+            ],
+            [
+              72.82234485261597,
+              19.418697710847347
+            ],
+            [
+              72.82234748407424,
+              19.418500228184353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0014",
+        "parcel_reference": "VVR-23-00014",
+        "owner_name": "Sachin A. Kulkarni",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 327.6,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8226514556703,
+              19.418558169092307
+            ],
+            [
+              72.82281958331289,
+              19.418560185361525
+            ],
+            [
+              72.82281735198681,
+              19.41872767530306
+            ],
+            [
+              72.82264922417225,
+              19.418725659015095
+            ],
+            [
+              72.8226514556703,
+              19.418558169092307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0015",
+        "parcel_reference": "VVR-23-00015",
+        "owner_name": "Sneha P. Shinde",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 414.0,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82284243823649,
+              19.418506164286804
+            ],
+            [
+              72.8230137685657,
+              19.41850821877767
+            ],
+            [
+              72.8230110017206,
+              19.418715925249447
+            ],
+            [
+              72.82283967117408,
+              19.41871387073489
+            ],
+            [
+              72.82284243823649,
+              19.418506164286804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0016",
+        "parcel_reference": "VVR-23-00016",
+        "owner_name": "Rahul P. Sawant",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 377.24,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8218491599623,
+              19.418747150591322
+            ],
+            [
+              72.82202049043049,
+              19.418749206043557
+            ],
+            [
+              72.8220179680777,
+              19.41893846965588
+            ],
+            [
+              72.82184663741148,
+              19.41893641418204
+            ],
+            [
+              72.8218491599623,
+              19.418747150591322
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0017",
+        "parcel_reference": "VVR-23-00017",
+        "owner_name": "Shweta D. Mhatre",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 397.4,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82209663731221,
+              19.41875011952608
+            ],
+            [
+              72.82227748617352,
+              19.4187522889193
+            ],
+            [
+              72.82227496917069,
+              19.418941173379757
+            ],
+            [
+              72.82209412010076,
+              19.418939003963793
+            ],
+            [
+              72.82209663731221,
+              19.41875011952608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0018",
+        "parcel_reference": "VVR-23-00018",
+        "owner_name": "Pooja G. Naik",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 417.48,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82234411470748,
+              19.4187530881241
+            ],
+            [
+              72.82253448196546,
+              19.41875537143189
+            ],
+            [
+              72.82253197028747,
+              19.41894387853592
+            ],
+            [
+              72.82234160281033,
+              19.41894159520424
+            ],
+            [
+              72.82234411470748,
+              19.4187530881241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0019",
+        "parcel_reference": "VVR-23-00019",
+        "owner_name": "Manoj M. Vartak",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 374.98,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82259159214809,
+              19.418756056385362
+            ],
+            [
+              72.82276292271048,
+              19.418758111138203
+            ],
+            [
+              72.82276041632193,
+              19.418946240987747
+            ],
+            [
+              72.8225890855627,
+              19.418944186213444
+            ],
+            [
+              72.82259159214809,
+              19.418756056385362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0020",
+        "parcel_reference": "VVR-23-00020",
+        "owner_name": "Kavita R. Patil",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 399.0,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82283906963407,
+              19.41875902430988
+            ],
+            [
+              72.82301991859481,
+              19.418761192964837
+            ],
+            [
+              72.82301739231794,
+              19.418950837999994
+            ],
+            [
+              72.82283654314773,
+              19.418948669322212
+            ],
+            [
+              72.82283906963407,
+              19.41875902430988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0021",
+        "parcel_reference": "VVR-23-00021",
+        "owner_name": "Manisha S. Jadhav",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 398.2,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82184578977858,
+              19.419000010440126
+            ],
+            [
+              72.82202663888602,
+              19.419002180109885
+            ],
+            [
+              72.82202411649078,
+              19.419191444773944
+            ],
+            [
+              72.8218432671743,
+              19.41918927508139
+            ],
+            [
+              72.82184578977858,
+              19.419000010440126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0022",
+        "parcel_reference": "VVR-23-00022",
+        "owner_name": "Neha N. Pawar",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 438.24,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82209326751065,
+              19.419002979416568
+            ],
+            [
+              72.82228363502773,
+              19.419005263015446
+            ],
+            [
+              72.8222809981107,
+              19.41920314396096
+            ],
+            [
+              72.82209063036355,
+              19.419200860336993
+            ],
+            [
+              72.82209326751065,
+              19.419002979416568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0023",
+        "parcel_reference": "VVR-23-00023",
+        "owner_name": "Nitin Suresh Chavan",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 322.92,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82239723988731,
+              19.41906092082953
+            ],
+            [
+              72.8225485552043,
+              19.419062735735668
+            ],
+            [
+              72.82254611099738,
+              19.419246177056735
+            ],
+            [
+              72.82239479551085,
+              19.419244362132115
+            ],
+            [
+              72.82239723988731,
+              19.41906092082953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0024",
+        "parcel_reference": "VVR-23-00024",
+        "owner_name": "Sujata V. Bhoir",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 395.81,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8225882231109,
+              19.41900891635919
+            ],
+            [
+              72.82276907231778,
+              19.41901108529068
+            ],
+            [
+              72.8227665659151,
+              19.419199214079526
+            ],
+            [
+              72.82258571650043,
+              19.419197045125387
+            ],
+            [
+              72.8225882231109,
+              19.41900891635919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0025",
+        "parcel_reference": "VVR-23-00025",
+        "owner_name": "Swati V. Kadam",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 440.0,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82283570097906,
+              19.419011884325368
+            ],
+            [
+              72.8230260686008,
+              19.41901416714712
+            ],
+            [
+              72.8230234219945,
+              19.41921284289343
+            ],
+            [
+              72.82283305414177,
+              19.419210560046494
+            ],
+            [
+              72.82283570097906,
+              19.419011884325368
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0026",
+        "parcel_reference": "VVR-23-00026",
+        "owner_name": "Priya M. Tare",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 377.24,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233346097735,
+              19.418006264692707
+            ],
+            [
+              72.82350593963513,
+              19.418008318668605
+            ],
+            [
+              72.82350341910573,
+              19.418197582483884
+            ],
+            [
+              72.82333208904609,
+              19.418195528486397
+            ],
+            [
+              72.8233346097735,
+              19.418006264692707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0027",
+        "parcel_reference": "VVR-23-00027",
+        "owner_name": "Sunil S. More",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 397.4,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82358208624726,
+              19.41800923149498
+            ],
+            [
+              72.82376293446829,
+              19.418011399329846
+            ],
+            [
+              72.82376041928518,
+              19.418200283992824
+            ],
+            [
+              72.82357957085554,
+              19.418198116135233
+            ],
+            [
+              72.82358208624726,
+              19.41800923149498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0028",
+        "parcel_reference": "VVR-23-00028",
+        "owner_name": "Sandeep B. Deshmukh",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 417.48,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82382956276635,
+              19.41801219796051
+            ],
+            [
+              72.82401992935033,
+              19.418014479627942
+            ],
+            [
+              72.82401741948841,
+              19.418202986934077
+            ],
+            [
+              72.82382705268529,
+              19.41820070524277
+            ],
+            [
+              72.82382956276635,
+              19.41801219796051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0029",
+        "parcel_reference": "VVR-23-00029",
+        "owner_name": "Vandana A. Chavan",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 374.98,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82407703933076,
+              19.418015164089315
+            ],
+            [
+              72.82424836928651,
+              19.418017217365843
+            ],
+            [
+              72.82424586471039,
+              19.41820534741705
+            ],
+            [
+              72.82407453455778,
+              19.418203294119078
+            ],
+            [
+              72.82407703933076,
+              19.418015164089315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0030",
+        "parcel_reference": "VVR-23-00030",
+        "owner_name": "Rajesh A. Thakur",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 399.0,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82432451594049,
+              19.41801812988138
+            ],
+            [
+              72.82450536426087,
+              19.418020296978014
+            ],
+            [
+              72.82450283981102,
+              19.418209942216453
+            ],
+            [
+              72.82432199128117,
+              19.418207775097
+            ],
+            [
+              72.82432451594049,
+              19.41801812988138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0031",
+        "parcel_reference": "VVR-23-00031",
+        "owner_name": "Nitin P. Raut",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 398.2,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82333124202587,
+              19.418259124812682
+            ],
+            [
+              72.82351209049304,
+              19.41826129292406
+            ],
+            [
+              72.82350956992123,
+              19.418450557791072
+            ],
+            [
+              72.82332872124502,
+              19.418448389656913
+            ],
+            [
+              72.82333124202587,
+              19.418259124812682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0032",
+        "parcel_reference": "VVR-23-00032",
+        "owner_name": "Archana P. Gaikwad",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 438.24,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82357871888179,
+              19.418262091656604
+            ],
+            [
+              72.82376908572489,
+              19.418264373615095
+            ],
+            [
+              72.82376645071426,
+              19.41846225477278
+            ],
+            [
+              72.82357608364111,
+              19.418459972789226
+            ],
+            [
+              72.82357871888179,
+              19.418262091656604
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0033",
+        "parcel_reference": "VVR-23-00033",
+        "owner_name": "Mahesh D. Keni",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 374.67,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82382619578304,
+              19.418265058163787
+            ],
+            [
+              72.8239891847406,
+              19.41826701172923
+            ],
+            [
+              72.8239865538146,
+              19.418464606120295
+            ],
+            [
+              72.82382356466036,
+              19.418462652533414
+            ],
+            [
+              72.82382619578304,
+              19.418265058163787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0034",
+        "parcel_reference": "VVR-23-00034",
+        "owner_name": "Kishor G. Kulkarni",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 395.81,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82407367272961,
+              19.41826802433423
+            ],
+            [
+              72.82425452129614,
+              19.418270191707364
+            ],
+            [
+              72.82425201670593,
+              19.418458320697894
+            ],
+            [
+              72.82407116793159,
+              19.418456153302117
+            ],
+            [
+              72.82407367272961,
+              19.41826802433423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0035",
+        "parcel_reference": "VVR-23-00035",
+        "owner_name": "Vijay M. Shinde",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 399.0,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82432114972151,
+              19.418270990167926
+            ],
+            [
+              72.82451151666918,
+              19.41827327134932
+            ],
+            [
+              72.82450911841553,
+              19.418453434321666
+            ],
+            [
+              72.82431875125842,
+              19.418451153117456
+            ],
+            [
+              72.82432114972151,
+              19.418270990167926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0036",
+        "parcel_reference": "VVR-23-00036",
+        "owner_name": "D. R. Sawant",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 419.16,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82332787422567,
+              19.418511984925072
+            ],
+            [
+              72.82351824132786,
+              19.41851426717463
+            ],
+            [
+              72.82351572071505,
+              19.418703532987756
+            ],
+            [
+              72.8233253533928,
+              19.418701250714218
+            ],
+            [
+              72.82332787422567,
+              19.418511984925072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0037",
+        "parcel_reference": "VVR-23-00037",
+        "owner_name": "Aniket S. Mhatre",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 412.34,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82357535146375,
+              19.41851495181064
+            ],
+            [
+              72.82374668188591,
+              19.418517005611072
+            ],
+            [
+              72.82374392706097,
+              19.418723879351067
+            ],
+            [
+              72.82357259642237,
+              19.418721825527044
+            ],
+            [
+              72.82357535146375,
+              19.41851495181064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0038",
+        "parcel_reference": "VVR-23-00038",
+        "owner_name": "Ganesh N. Naik",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 415.49,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82382282874715,
+              19.418517918359463
+            ],
+            [
+              72.82400367755986,
+              19.41852008600911
+            ],
+            [
+              72.82400104809905,
+              19.418717568889814
+            ],
+            [
+              72.82382019906824,
+              19.418715401216403
+            ],
+            [
+              72.82382282874715,
+              19.418517918359463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0039",
+        "parcel_reference": "VVR-23-00039",
+        "owner_name": "Amit S. Vartak",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 416.64,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8240703060759,
+              19.418520884571542
+            ],
+            [
+              72.8242606732827,
+              19.418523166043993
+            ],
+            [
+              72.82425816867696,
+              19.418711294079458
+            ],
+            [
+              72.82406780125145,
+              19.41870901258318
+            ],
+            [
+              72.8240703060759,
+              19.418520884571542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0040",
+        "parcel_reference": "VVR-23-00040",
+        "owner_name": "Ramesh V. Patil",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 414.0,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82431778344996,
+              19.418523850446874
+            ],
+            [
+              72.82448911396624,
+              19.418525903547916
+            ],
+            [
+              72.82448634899264,
+              19.41873361022362
+            ],
+            [
+              72.82431501825901,
+              19.418731557098905
+            ],
+            [
+              72.82431778344996,
+              19.418523850446874
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0041",
+        "parcel_reference": "VVR-23-00041",
+        "owner_name": "Nilesh V. Jadhav",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 294.84,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82338100126158,
+              19.418819817522124
+            ],
+            [
+              72.82353231645476,
+              19.4188216315871
+            ],
+            [
+              72.82353008582635,
+              19.418989121603452
+            ],
+            [
+              72.8233787704784,
+              19.418987307521594
+            ],
+            [
+              72.82338100126158,
+              19.418819817522124
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0042",
+        "parcel_reference": "VVR-23-00042",
+        "owner_name": "Prakash M. Pawar",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 397.4,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82357198399313,
+              19.41876781195707
+            ],
+            [
+              72.82375283305198,
+              19.418769979883233
+            ],
+            [
+              72.82375031775106,
+              19.418958864529202
+            ],
+            [
+              72.8235694684836,
+              19.418956696580306
+            ],
+            [
+              72.82357198399313,
+              19.41876781195707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0043",
+        "parcel_reference": "VVR-23-00043",
+        "owner_name": "Sanjay S. Joshi",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 417.48,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82381946165872,
+              19.41877077854754
+            ],
+            [
+              72.82400982912462,
+              19.418773060311064
+            ],
+            [
+              72.82400731914515,
+              19.418961567600213
+            ],
+            [
+              72.82381695146009,
+              19.418959285812814
+            ],
+            [
+              72.82381946165872,
+              19.41877077854754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0044",
+        "parcel_reference": "VVR-23-00044",
+        "owner_name": "Sachin B. Bhoir",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 374.98,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82406693936963,
+              19.41877374480126
+            ],
+            [
+              72.82423827011911,
+              19.418775798164262
+            ],
+            [
+              72.82423576542568,
+              19.418963928198526
+            ],
+            [
+              72.82406443447934,
+              19.418961874814077
+            ],
+            [
+              72.82406693936963,
+              19.41877374480126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0045",
+        "parcel_reference": "VVR-23-00045",
+        "owner_name": "Sneha A. Kadam",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 399.0,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82431441712586,
+              19.41877671071823
+            ],
+            [
+              72.82449526628407,
+              19.41877887790613
+            ],
+            [
+              72.82449274171597,
+              19.418968523127486
+            ],
+            [
+              72.8243118923483,
+              19.418966355916766
+            ],
+            [
+              72.82431441712586,
+              19.41877671071823
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0046",
+        "parcel_reference": "VVR-23-00046",
+        "owner_name": "Rahul A. Tare",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 398.2,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8233211384675,
+              19.41901770512705
+            ],
+            [
+              72.82350198777253,
+              19.419019873329738
+            ],
+            [
+              72.82349946708266,
+              19.419209138179696
+            ],
+            [
+              72.8233186175686,
+              19.41920696995423
+            ],
+            [
+              72.8233211384675,
+              19.41901770512705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0047",
+        "parcel_reference": "VVR-23-00047",
+        "owner_name": "Shweta P. More",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 438.24,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82356861646994,
+              19.419020672095915
+            ],
+            [
+              72.82375898419498,
+              19.419022954150513
+            ],
+            [
+              72.82375634906093,
+              19.419220835290368
+            ],
+            [
+              72.82356598110584,
+              19.419218553210708
+            ],
+            [
+              72.82356861646994,
+              19.419020672095915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0048",
+        "parcel_reference": "VVR-23-00048",
+        "owner_name": "Pooja P. Deshmukh",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 411.52,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82381609451771,
+              19.41902363872803
+            ],
+            [
+              72.8239874255004,
+              19.41902569235299
+            ],
+            [
+              72.8239846763801,
+              19.419232154715093
+            ],
+            [
+              72.82381334518136,
+              19.419230101066596
+            ],
+            [
+              72.82381609451771,
+              19.41902363872803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0049",
+        "parcel_reference": "VVR-23-00049",
+        "owner_name": "Kishor Pandurang Gaikwad",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 311.22,
+        "address": "Ganesh Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82412006785418,
+              19.419081577316895
+            ],
+            [
+              72.82427978978188,
+              19.419083491534433
+            ],
+            [
+              72.82427755988671,
+              19.41925098162943
+            ],
+            [
+              72.82411783779561,
+              19.41924906739409
+            ],
+            [
+              72.82412006785418,
+              19.419081577316895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-23-0050",
+        "parcel_reference": "VVR-23-00050",
+        "owner_name": "Kavita G. Thakur",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 440.0,
+        "address": "Shivaji Nagar, Nalasopara East",
+        "ward": "23",
+        "locality": "Nalasopara East",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8243110507492,
+              19.41902957098199
+            ],
+            [
+              72.82450141857882,
+              19.419031852259454
+            ],
+            [
+              72.82449877376273,
+              19.41923052820082
+            ],
+            [
+              72.82430840570211,
+              19.419228246898193
+            ],
+            [
+              72.8243110507492,
+              19.41902957098199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0051",
+        "parcel_reference": "VVR-21-00051",
+        "owner_name": "Manisha M. Raut",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 544.91,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187948924823,
+              19.4164714116103
+            ],
+            [
+              72.82205081733534,
+              19.41647346680286
+            ],
+            [
+              72.82204717438734,
+              19.4167468515509
+            ],
+            [
+              72.8218758460142,
+              19.416744796327144
+            ],
+            [
+              72.82187948924823,
+              19.4164714116103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0052",
+        "parcel_reference": "VVR-21-00052",
+        "owner_name": "Neha R. Gaikwad",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 397.4,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212696315882,
+              19.416474380169976
+            ],
+            [
+              72.82230780950678,
+              19.416476549289115
+            ],
+            [
+              72.82230529285759,
+              19.41666543380063
+            ],
+            [
+              72.82212444630105,
+              19.416663264658737
+            ],
+            [
+              72.82212696315882,
+              19.416474380169976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0053",
+        "parcel_reference": "VVR-21-00053",
+        "owner_name": "Sunita S. Keni",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 417.48,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82237443711476,
+              19.416477348392945
+            ],
+            [
+              72.82256480172713,
+              19.416479631412265
+            ],
+            [
+              72.82256229040203,
+              19.416668138567257
+            ],
+            [
+              72.82237192557055,
+              19.41666585552404
+            ],
+            [
+              72.82237443711476,
+              19.416477348392945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0054",
+        "parcel_reference": "VVR-21-00054",
+        "owner_name": "Sujata N. Kulkarni",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 374.98,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82262191111606,
+              19.41648031627921
+            ],
+            [
+              72.82279323929738,
+              19.416482370772457
+            ],
+            [
+              72.82279073326097,
+              19.41667050067284
+            ],
+            [
+              72.82261940488284,
+              19.416668446158138
+            ],
+            [
+              72.82262191111606,
+              19.41648031627921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0055",
+        "parcel_reference": "VVR-21-00055",
+        "owner_name": "Swati S. Shinde",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 399.0,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82286938516272,
+              19.41648328382876
+            ],
+            [
+              72.8230502316101,
+              19.416485452209738
+            ],
+            [
+              72.82304770568818,
+              19.41667509729616
+            ],
+            [
+              72.82286685903136,
+              19.416672928892357
+            ],
+            [
+              72.82286938516272,
+              19.41648328382876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0056",
+        "parcel_reference": "VVR-21-00056",
+        "owner_name": "Priya V. Sawant",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 398.2,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187611953802,
+              19.41672427152746
+            ],
+            [
+              72.82205696613207,
+              19.416726440923107
+            ],
+            [
+              72.82205444409124,
+              19.416915705638328
+            ],
+            [
+              72.82187359728817,
+              19.41691353621988
+            ],
+            [
+              72.82187611953802,
+              19.41672427152746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0057",
+        "parcel_reference": "VVR-21-00057",
+        "owner_name": "Sunil V. Mhatre",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 438.24,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212359383072,
+              19.41672724012881
+            ],
+            [
+              72.82231395870214,
+              19.416729523439187
+            ],
+            [
+              72.82231132215558,
+              19.416927404438194
+            ],
+            [
+              72.82212095705414,
+              19.416925121102732
+            ],
+            [
+              72.82212359383072,
+              19.41672724012881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0058",
+        "parcel_reference": "VVR-21-00058",
+        "owner_name": "Sandeep M. Naik",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 368.46,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8223710681688,
+              19.41673020839345
+            ],
+            [
+              72.82253269907116,
+              19.41673214684993
+            ],
+            [
+              72.82253008851707,
+              19.41692809671901
+            ],
+            [
+              72.8223684574213,
+              19.416926158241434
+            ],
+            [
+              72.8223710681688,
+              19.41673020839345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0059",
+        "parcel_reference": "VVR-21-00059",
+        "owner_name": "Vandana S. Vartak",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 395.81,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261854255223,
+              19.416733176321383
+            ],
+            [
+              72.82279938924572,
+              19.416735344978854
+            ],
+            [
+              72.8227968831952,
+              19.41692347381856
+            ],
+            [
+              72.82261603629395,
+              19.416921305138434
+            ],
+            [
+              72.82261854255223,
+              19.416733176321383
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0060",
+        "parcel_reference": "VVR-21-00060",
+        "owner_name": "Rajesh B. Patil",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 440.0,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82286601698101,
+              19.4167361439126
+            ],
+            [
+              72.82305638195707,
+              19.41673842644595
+            ],
+            [
+              72.82305373572264,
+              19.416937102245956
+            ],
+            [
+              72.82286337051562,
+              19.41693481968743
+            ],
+            [
+              72.82286601698101,
+              19.4167361439126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0061",
+        "parcel_reference": "VVR-21-00061",
+        "owner_name": "N. A. Jadhav",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 419.16,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82187274977521,
+              19.416977131437026
+            ],
+            [
+              72.82206311490567,
+              19.416979415038472
+            ],
+            [
+              72.82206059282379,
+              19.417168680699806
+            ],
+            [
+              72.8218702274733,
+              19.417166397074364
+            ],
+            [
+              72.82187274977521,
+              19.416977131437026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0062",
+        "parcel_reference": "VVR-21-00062",
+        "owner_name": "Archana A. Pawar",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 412.34,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82212022445003,
+              19.416980100080053
+            ],
+            [
+              72.82229155309766,
+              19.41698215509721
+            ],
+            [
+              72.82228879666697,
+              19.417189028671306
+            ],
+            [
+              72.82211746780291,
+              19.417186973630542
+            ],
+            [
+              72.82212022445003,
+              19.416980100080053
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0063",
+        "parcel_reference": "VVR-21-00063",
+        "owner_name": "Mahesh P. Joshi",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 590.44,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82236769917024,
+              19.41698306838637
+            ],
+            [
+              72.82254854610984,
+              19.416985237320343
+            ],
+            [
+              72.82254480727639,
+              19.41726587391332
+            ],
+            [
+              72.82236396002686,
+              19.417263704945547
+            ],
+            [
+              72.82236769917024,
+              19.41698306838637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0064",
+        "parcel_reference": "VVR-21-00064",
+        "owner_name": "Kishor P. Bhoir",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 416.64,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261517393579,
+              19.41698603635596
+            ],
+            [
+              72.82280553917091,
+              19.41698831918037
+            ],
+            [
+              72.82280303310488,
+              19.417176447065014
+            ],
+            [
+              72.82261266765104,
+              19.41717416421676
+            ],
+            [
+              72.82261517393579,
+              19.41698603635596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0065",
+        "parcel_reference": "VVR-21-00065",
+        "owner_name": "Vijay D. Kadam",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 414.0,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8228626487467,
+              19.416989003988846
+            ],
+            [
+              72.8230339774885,
+              19.416991058306664
+            ],
+            [
+              72.82303121090258,
+              19.41719876481587
+            ],
+            [
+              72.82285988194346,
+              19.417196710474354
+            ],
+            [
+              72.8228626487467,
+              19.416989003988846
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0066",
+        "parcel_reference": "VVR-21-00066",
+        "owner_name": "Deepak G. Tare",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 294.84,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82192587383446,
+              19.41728496419405
+            ],
+            [
+              72.82207718746037,
+              19.417286779333615
+            ],
+            [
+              72.8220749555319,
+              19.417454269215632
+            ],
+            [
+              72.82192364175124,
+              19.417452454059184
+            ],
+            [
+              72.82192587383446,
+              19.41728496419405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0067",
+        "parcel_reference": "VVR-21-00067",
+        "owner_name": "Aniket M. More",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 397.4,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82211685501674,
+              19.4172329600237
+            ],
+            [
+              72.82229770220245,
+              19.417235129234196
+            ],
+            [
+              72.82229518543538,
+              19.417424013728684
+            ],
+            [
+              72.82211433804108,
+              19.417421844495443
+            ],
+            [
+              72.82211685501674,
+              19.4172329600237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0068",
+        "parcel_reference": "VVR-21-00068",
+        "owner_name": "Ganesh R. Deshmukh",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 417.48,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82236433011909,
+              19.41723592837168
+            ],
+            [
+              72.82255469561328,
+              19.417238211487152
+            ],
+            [
+              72.82255218417056,
+              19.41742671862516
+            ],
+            [
+              72.82236181845721,
+              19.417424435485792
+            ],
+            [
+              72.82236433011909,
+              19.41723592837168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0069",
+        "parcel_reference": "VVR-21-00069",
+        "owner_name": "Amit S. Chavan",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 374.98,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82261180526677,
+              19.417238896382948
+            ],
+            [
+              72.82278313424173,
+              19.41724095096272
+            ],
+            [
+              72.82278062808795,
+              19.41742908084616
+            ],
+            [
+              72.82260929891615,
+              19.417427026244923
+            ],
+            [
+              72.82261180526677,
+              19.417238896382948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0070",
+        "parcel_reference": "VVR-21-00070",
+        "owner_name": "Ramesh N. Thakur",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 399.0,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82285928045981,
+              19.41724186405749
+            ],
+            [
+              72.82304012774493,
+              19.417244032529787
+            ],
+            [
+              72.82303760170468,
+              19.417433677599117
+            ],
+            [
+              72.82285675421012,
+              19.417431509103984
+            ],
+            [
+              72.82285928045981,
+              19.41724186405749
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0071",
+        "parcel_reference": "VVR-21-00071",
+        "owner_name": "Nilesh S. Raut",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 398.2,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82186601009172,
+              19.41748285123337
+            ],
+            [
+              72.82204685752355,
+              19.417485020720388
+            ],
+            [
+              72.82204433536457,
+              19.417674285418556
+            ],
+            [
+              72.82186348772373,
+              19.417672115908744
+            ],
+            [
+              72.82186601009172,
+              19.41748285123337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0072",
+        "parcel_reference": "VVR-21-00072",
+        "owner_name": "Prakash V. Gaikwad",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 438.24,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82211348553083,
+              19.41748581995975
+            ],
+            [
+              72.8223038512841,
+              19.417488103366296
+            ],
+            [
+              72.82230121461406,
+              19.417685984347468
+            ],
+            [
+              72.82211084863074,
+              19.41768370091584
+            ],
+            [
+              72.82211348553083,
+              19.41748581995975
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0073",
+        "parcel_reference": "VVR-21-00073",
+        "owner_name": "Sanjay V. Keni",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 411.52,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82236096101532,
+              19.417488788349406
+            ],
+            [
+              72.82253229022344,
+              19.417490843191143
+            ],
+            [
+              72.8225295395005,
+              19.4176973053877
+            ],
+            [
+              72.82235821007635,
+              19.417695250522407
+            ],
+            [
+              72.82236096101532,
+              19.417488788349406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0074",
+        "parcel_reference": "VVR-21-00074",
+        "owner_name": "S. M. Kulkarni",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 395.81,
+        "address": "Ganesh Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82260843654514,
+              19.417491756402335
+            ],
+            [
+              72.82278928407639,
+              19.41749392515115
+            ],
+            [
+              72.82278677790849,
+              19.4176820539739
+            ],
+            [
+              72.82260593016947,
+              19.417679885202432
+            ],
+            [
+              72.82260843654514,
+              19.417491756402335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-21-0075",
+        "parcel_reference": "VVR-21-00075",
+        "owner_name": "Sneha S. Shinde",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 440.0,
+        "address": "Shivaji Nagar, Achole",
+        "ward": "21",
+        "locality": "Achole",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82285591212033,
+              19.417494724118544
+            ],
+            [
+              72.82304627797824,
+              19.41749700674803
+            ],
+            [
+              72.82304363161987,
+              19.417695682530134
+            ],
+            [
+              72.82285326553098,
+              19.41769339987547
+            ],
+            [
+              72.82285591212033,
+              19.417494724118544
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0076",
+        "parcel_reference": "VVR-12-00076",
+        "owner_name": "Rahul B. Sawant",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 347.76,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335481515516,
+              19.416489103813362
+            ],
+            [
+              72.82351914746245,
+              19.416491073755054
+            ],
+            [
+              72.8235167252047,
+              19.416672974988657
+            ],
+            [
+              72.82335239271487,
+              19.416671005027062
+            ],
+            [
+              72.82335481515516,
+              19.416489103813362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0077",
+        "parcel_reference": "VVR-12-00077",
+        "owner_name": "Shweta A. Mhatre",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 397.4,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82360228933607,
+              19.416492070365745
+            ],
+            [
+              72.82378313588157,
+              19.41649423801802
+            ],
+            [
+              72.82378062093406,
+              19.416683122715035
+            ],
+            [
+              72.82359977417998,
+              19.416680955040032
+            ],
+            [
+              72.82360228933607,
+              19.416492070365745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0078",
+        "parcel_reference": "VVR-12-00078",
+        "owner_name": "Pooja A. Naik",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 396.61,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82384976356234,
+              19.416495036581427
+            ],
+            [
+              72.82404012838259,
+              19.416497318056674
+            ],
+            [
+              72.82403774421377,
+              19.416676401836018
+            ],
+            [
+              72.82384737918532,
+              19.416674120338083
+            ],
+            [
+              72.82384976356234,
+              19.416495036581427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0079",
+        "parcel_reference": "VVR-12-00079",
+        "owner_name": "Manoj P. Vartak",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 374.98,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409723783391,
+              19.416498002460393
+            ],
+            [
+              72.8242685662023,
+              19.416500055563976
+            ],
+            [
+              72.8242660618608,
+              19.416688185649086
+            ],
+            [
+              72.82409473329557,
+              19.416686132524063
+            ],
+            [
+              72.82409723783391,
+              19.416498002460393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0080",
+        "parcel_reference": "VVR-12-00080",
+        "owner_name": "Kavita P. Patil",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 399.0,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434471215079,
+              19.416500968002655
+            ],
+            [
+              72.82452555879564,
+              19.416503134916763
+            ],
+            [
+              72.82452303458224,
+              19.41669278018937
+            ],
+            [
+              72.82434218772796,
+              19.41669061325245
+            ],
+            [
+              72.82434471215079,
+              19.416500968002655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0081",
+        "parcel_reference": "VVR-12-00081",
+        "owner_name": "Manisha D. Jadhav",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 565.87,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82335144772298,
+              19.416741963978904
+            ],
+            [
+              72.8235322945146,
+              19.416744131907667
+            ],
+            [
+              72.8235287129328,
+              19.417013090544252
+            ],
+            [
+              72.82334786584416,
+              19.417010922583113
+            ],
+            [
+              72.82335144772298,
+              19.416741963978904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0082",
+        "parcel_reference": "VVR-12-00082",
+        "owner_name": "Neha G. Pawar",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 438.24,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82359892228602,
+              19.41674493057294
+            ],
+            [
+              72.82378928736537,
+              19.41674721233922
+            ],
+            [
+              72.82378665260158,
+              19.416945093532565
+            ],
+            [
+              72.8235962872922,
+              19.41694281174121
+            ],
+            [
+              72.82359892228602,
+              19.41674493057294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0083",
+        "parcel_reference": "VVR-12-00083",
+        "owner_name": "Sunita M. Joshi",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 322.92,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82390289135162,
+              19.416802869120712
+            ],
+            [
+              72.82405420473093,
+              19.41680468257022
+            ],
+            [
+              72.8240517625201,
+              19.41698812412101
+            ],
+            [
+              72.82390044897127,
+              19.41698631065303
+            ],
+            [
+              72.82390289135162,
+              19.416802869120712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0084",
+        "parcel_reference": "VVR-12-00084",
+        "owner_name": "Sujata R. Bhoir",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 395.81,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409387154811,
+              19.416750862750867
+            ],
+            [
+              72.82427471843909,
+              19.416753029941447
+            ],
+            [
+              72.82427221408346,
+              19.416941158965873
+            ],
+            [
+              72.82409136698472,
+              19.41693899175265
+            ],
+            [
+              72.82409387154811,
+              19.416750862750867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0085",
+        "parcel_reference": "VVR-12-00085",
+        "owner_name": "Swati S. Kadam",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 440.0,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82434134624712,
+              19.416753828334762
+            ],
+            [
+              72.82453171143105,
+              19.416756109324016
+            ],
+            [
+              72.82452906698654,
+              19.416954785319078
+            ],
+            [
+              72.82433870157166,
+              19.41695250430466
+            ],
+            [
+              72.82434134624712,
+              19.416753828334762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0086",
+        "parcel_reference": "VVR-12-00086",
+        "owner_name": "Priya N. Tare",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 419.16,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82334808023825,
+              19.416994824136857
+            ],
+            [
+              72.82353844557666,
+              19.416997106194188
+            ],
+            [
+              72.82353592519996,
+              19.41718637204142
+            ],
+            [
+              72.82334555964151,
+              19.41718408996011
+            ],
+            [
+              72.82334808023825,
+              19.416994824136857
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0087",
+        "parcel_reference": "VVR-12-00087",
+        "owner_name": "Sunil S. More",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 412.34,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82359555518342,
+              19.416997790772538
+            ],
+            [
+              72.82376688401817,
+              19.41699984439999
+            ],
+            [
+              72.82376412945128,
+              19.417206718177255
+            ],
+            [
+              72.82359280040009,
+              19.417204664526214
+            ],
+            [
+              72.82359555518342,
+              19.416997790772538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0088",
+        "parcel_reference": "VVR-12-00088",
+        "owner_name": "Sandeep V. Deshmukh",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 415.49,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82384303017393,
+              19.417000757071502
+            ],
+            [
+              72.82402387731103,
+              19.417002924538572
+            ],
+            [
+              72.82402124809653,
+              19.41720040745486
+            ],
+            [
+              72.82384040074133,
+              19.417198239964023
+            ],
+            [
+              72.82384303017393,
+              19.417000757071502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0089",
+        "parcel_reference": "VVR-12-00089",
+        "owner_name": "Vandana V. Chavan",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 416.64,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82409050520975,
+              19.417003723033744
+            ],
+            [
+              72.82428087065277,
+              19.41700600431404
+            ],
+            [
+              72.82427836628165,
+              19.4171941323834
+            ],
+            [
+              72.82408800061992,
+              19.41719185107928
+            ],
+            [
+              72.82409050520975,
+              19.417003723033744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0090",
+        "parcel_reference": "VVR-12-00090",
+        "owner_name": "Rajesh M. Thakur",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 414.0,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8243379802909,
+              19.417006688659274
+            ],
+            [
+              72.82450930921978,
+              19.41700874158739
+            ],
+            [
+              72.82450654450517,
+              19.417216448300515
+            ],
+            [
+              72.82433521535897,
+              19.417214395348722
+            ],
+            [
+              72.8243379802909,
+              19.417006688659274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0091",
+        "parcel_reference": "VVR-12-00091",
+        "owner_name": "Nitin S. Raut",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 377.24,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82334471270092,
+              19.417247684287208
+            ],
+            [
+              72.82351604176884,
+              19.417249738176608
+            ],
+            [
+              72.82351352135751,
+              19.417439002008933
+            ],
+            [
+              72.82334219209157,
+              19.41743694809795
+            ],
+            [
+              72.82334471270092,
+              19.417247684287208
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0092",
+        "parcel_reference": "VVR-12-00092",
+        "owner_name": "Archana B. Gaikwad",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 376.49,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82359218802824,
+              19.41725065096454
+            ],
+            [
+              72.82377303541148,
+              19.417252818708107
+            ],
+            [
+              72.82377065268213,
+              19.417431764841
+            ],
+            [
+              72.82358980510125,
+              19.417429597075895
+            ],
+            [
+              72.82359218802824,
+              19.41725065096454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0093",
+        "parcel_reference": "VVR-12-00093",
+        "owner_name": "Mahesh A. Keni",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 417.48,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82383966340089,
+              19.417253617305146
+            ],
+            [
+              72.82403002910299,
+              19.41725589887648
+            ],
+            [
+              72.82402751935862,
+              19.4174444061996
+            ],
+            [
+              72.82383715343737,
+              19.417442124604378
+            ],
+            [
+              72.82383966340089,
+              19.417253617305146
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0094",
+        "parcel_reference": "VVR-12-00094",
+        "owner_name": "Kishor A. Kulkarni",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 374.98,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82408713881885,
+              19.417256583309026
+            ],
+            [
+              72.82425846798091,
+              19.41725863649908
+            ],
+            [
+              72.82425596352209,
+              19.417446766567238
+            ],
+            [
+              72.8240846341632,
+              19.417444713355742
+            ],
+            [
+              72.82408713881885,
+              19.417256583309026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0095",
+        "parcel_reference": "VVR-12-00095",
+        "owner_name": "V. P. Shinde",
+        "property_use": "Residential",
+        "tax_zone": "R3",
+        "assessed_area_sqm": 399.0,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82433461428212,
+              19.417259548976194
+            ],
+            [
+              72.82451546176472,
+              19.417261715981564
+            ],
+            [
+              72.8245129374331,
+              19.417451361237074
+            ],
+            [
+              72.82433208974106,
+              19.417449194208892
+            ],
+            [
+              72.82433461428212,
+              19.417259548976194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0096",
+        "parcel_reference": "VVR-12-00096",
+        "owner_name": "Deepak P. Sawant",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 398.2,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82334134511103,
+              19.41750054442997
+            ],
+            [
+              72.8235221927404,
+              19.41750271245004
+            ],
+            [
+              72.82351967228665,
+              19.41769197733411
+            ],
+            [
+              72.82333882444826,
+              19.417689809291254
+            ],
+            [
+              72.82334134511103,
+              19.41750054442997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0097",
+        "parcel_reference": "VVR-12-00097",
+        "owner_name": "Aniket D. Mhatre",
+        "property_use": "Residential",
+        "tax_zone": "R2",
+        "assessed_area_sqm": 343.2,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82364531541637,
+              19.417558483532297
+            ],
+            [
+              72.82381344214248,
+              19.417560498782056
+            ],
+            [
+              72.82381110575872,
+              19.417735964570593
+            ],
+            [
+              72.82364297885245,
+              19.41773394930121
+            ],
+            [
+              72.82364531541637,
+              19.417558483532297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0098",
+        "parcel_reference": "VVR-12-00098",
+        "owner_name": "Ganesh G. Naik",
+        "property_use": "Commercial",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 411.52,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82383629657527,
+              19.417506477531195
+            ],
+            [
+              72.82400762597052,
+              19.41750853098319
+            ],
+            [
+              72.82400487710771,
+              19.417714993382496
+            ],
+            [
+              72.82383354749645,
+              19.417712939906956
+            ],
+            [
+              72.82383629657527,
+              19.417506477531195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0099",
+        "parcel_reference": "VVR-12-00099",
+        "owner_name": "Amit M. Vartak",
+        "property_use": "Residential",
+        "tax_zone": "R1",
+        "assessed_area_sqm": 395.81,
+        "address": "Ganesh Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.82408377237537,
+              19.41750944357672
+            ],
+            [
+              72.82426462010412,
+              19.417511610858583
+            ],
+            [
+              72.8242621156312,
+              19.41769973986605
+            ],
+            [
+              72.82408126769468,
+              19.417697572561554
+            ],
+            [
+              72.82408377237537,
+              19.41750944357672
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "property_id": "VVMC-12-0100",
+        "parcel_reference": "VVR-12-00100",
+        "owner_name": "Ramesh R. Patil",
+        "property_use": "Mixed-Use",
+        "tax_zone": "C1",
+        "assessed_area_sqm": 440.0,
+        "address": "Shivaji Nagar, Navghar",
+        "ward": "12",
+        "locality": "Navghar",
+        "source_dataset": "synthetic_municipal_2026",
+        "source_type": "MUNICIPAL",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8243312482208,
+              19.417512409285518
+            ],
+            [
+              72.82452161428658,
+              19.41751469037084
+            ],
+            [
+              72.82451896971821,
+              19.417713366348
+            ],
+            [
+              72.82432860342146,
+              19.417711085237514
+            ],
+            [
+              72.8243312482208,
+              19.417512409285518
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

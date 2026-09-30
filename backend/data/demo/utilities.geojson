@@ -1,0 +1,262 @@
+{
+  "type": "FeatureCollection",
+  "name": "SIMULATED DEMONSTRATION DATA \u2014 NOT AN OFFICIAL LAND RECORD",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-W-0012",
+        "utility_type": "Water",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82176685537165,
+            19.41777972274417
+          ],
+          [
+            72.82462234896002,
+            19.417813958867573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-W-0013",
+        "utility_type": "Water",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82326203817142,
+            19.416307348344862
+          ],
+          [
+            72.82322234594662,
+            19.419287485402627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-W-0014",
+        "utility_type": "Water",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82185120611962,
+            19.418593628536556
+          ],
+          [
+            72.82451634669746,
+            19.41862558369359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-W-0015",
+        "utility_type": "Water",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82187166662597,
+            19.417058407834915
+          ],
+          [
+            72.82453678221692,
+            19.41709036026846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-S-0001",
+        "utility_type": "Sewer",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82176769789584,
+            19.417716507777534
+          ],
+          [
+            72.82462319038186,
+            19.417750743780786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-S-0002",
+        "utility_type": "Sewer",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82310022834443,
+            19.416305408428716
+          ],
+          [
+            72.82306053317474,
+            19.419285545165497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-S-0003",
+        "utility_type": "Sewer",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82373554468305,
+            19.416493667600644
+          ],
+          [
+            72.82369946861574,
+            19.41920288395131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-E-0001",
+        "utility_type": "Electricity",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82181023430356,
+            19.41809636854967
+          ],
+          [
+            72.82457055010047,
+            19.418129464049713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-E-0002",
+        "utility_type": "Electricity",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82181745581623,
+            19.417554525966267
+          ],
+          [
+            72.82457776247927,
+            19.41758762047075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "utility_id": "UT-E-0003",
+        "utility_type": "Electricity",
+        "status": "Active",
+        "source_dataset": "synthetic_utilities_2026",
+        "source_type": "UTILITIES",
+        "generated_at": "2026-09-18T10:30:00Z",
+        "is_simulated": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.82349758871554,
+            19.416490815326984
+          ],
+          [
+            72.82346150871123,
+            19.419200031248607
+          ]
+        ]
+      }
+    }
+  ]
+}
