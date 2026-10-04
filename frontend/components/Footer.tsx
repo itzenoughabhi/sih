@@ -9,7 +9,7 @@ export default function Footer() {
           
           <div className="flex items-center space-x-2">
             <ShieldCheck className="w-4 h-4 text-emerald-400" />
-            <span className="font-semibold text-slate-300">BhuSync AI</span>
+            <span className="font-semibold text-slate-300">Naksha.ai</span>
             <span className="text-slate-600">|</span>
             <span>Problem Statement ID: 26013 — Urban Land Record Harmonization</span>
           </div>
@@ -34,7 +34,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-3 pt-3 border-t border-slate-800 text-[10px] text-slate-400 text-center md:text-left flex flex-col md:flex-row justify-between">
-          <p>© 2026 BhuSync AI Initiative. Designed for National Hackathon Demonstration.</p>
+          <p>© 2026 Naksha.ai Initiative. Designed for National Hackathon Demonstration.</p>
           <p className="mt-1 md:mt-0 text-slate-400">Decision-Support Prototype. All authoritative record changes require statutory human attestation.</p>
         </div>
       </div>

@@ -100,11 +100,13 @@ export async function fetchConflicts(params?: {
   status?: string;
   severity?: string;
   type?: string;
+  limit?: number;
 }): Promise<ConflictItem[]> {
   const query = new URLSearchParams();
   if (params?.status) query.append("status", params.status);
   if (params?.severity) query.append("severity", params.severity);
   if (params?.type) query.append("type", params.type);
+  if (params?.limit) query.append("limit", params.limit.toString());
 
   const res = await fetch(`${API_BASE}/conflicts?${query.toString()}`, { cache: "no-store" });
   if (!res.ok) throw new Error("Failed to fetch conflicts");
@@ -171,5 +173,27 @@ export async function generateDemoDatasets(seed: number = 42, count: number = 10
     body: JSON.stringify({ seed, parcel_count: count }),
   });
   if (!res.ok) throw new Error("Failed to generate demo datasets");
+  return res.json();
+}
+
+export async function fetchAiDisputeAdvice(conflictId: string): Promise<any> {
+  const res = await fetch(`${API_BASE}/conflicts/${conflictId}/ai-advise`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({}),
+  });
+  if (!res.ok) throw new Error("Failed to generate AI dispute advice");
+  return res.json();
+}
+
+export async function fetchParcelCertificate(parcelId: string): Promise<any> {
+  const res = await fetch(`${API_BASE}/parcels/${parcelId}/certificate`, { cache: "no-store" });
+  if (!res.ok) throw new Error("Failed to fetch parcel certificate");
+  return res.json();
+}
+
+export async function fetchMapBuffers(): Promise<any> {
+  const res = await fetch(`${API_BASE}/map/buffers`, { cache: "no-store" });
+  if (!res.ok) throw new Error("Failed to fetch map buffers & encroachments");
   return res.json();
 }

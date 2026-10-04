@@ -94,6 +94,7 @@ export interface ParcelDetail {
     gnss: Record<string, any>;
   };
   confidence: ConfidenceBreakdown;
+  status?: "HIGH_CONFIDENCE" | "NEEDS_REVIEW" | "CONFLICT";
   explanation: string;
   conflicts: ConflictItem[];
   reviews: ReviewItem[];

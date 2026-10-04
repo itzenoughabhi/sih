@@ -17,23 +17,23 @@ def get_dashboard_stats(db: Session = Depends(get_db)):
     else:
         parcels_count = db.query(Parcel).count()
 
-    # Results
-    results = db.query(HarmonizationResult).all()
-    high_conf = sum(1 for r in results if r.status == "HIGH_CONFIDENCE")
-    needs_rev = sum(1 for r in results if r.status == "NEEDS_REVIEW")
-    conflicts_harm = sum(1 for r in results if r.status == "CONFLICT")
+    # Results - query only status column to avoid loading heavy GeoJSON geometry strings
+    results_status = db.query(HarmonizationResult.status).all()
+    high_conf = sum(1 for (st,) in results_status if st == "HIGH_CONFIDENCE")
+    needs_rev = sum(1 for (st,) in results_status if st == "NEEDS_REVIEW")
+    conflicts_harm = sum(1 for (st,) in results_status if st == "CONFLICT")
 
-    # Distinct open conflicts
-    open_conflicts = db.query(Conflict).filter(Conflict.status == "OPEN").all()
-    conflicts_count = len(open_conflicts) if open_conflicts else conflicts_harm
+    # Distinct open conflicts - query only conflict_type column
+    open_conflicts_types = db.query(Conflict.conflict_type).filter(Conflict.status == "OPEN").all()
+    conflicts_count = len(open_conflicts_types) if open_conflicts_types else conflicts_harm
 
     # Count topology issues specifically
-    topology_count = sum(1 for c in open_conflicts if c.conflict_type == "TOPOLOGY_VIOLATION")
+    topology_count = sum(1 for (ct,) in open_conflicts_types if ct == "TOPOLOGY_VIOLATION")
 
     # Group conflicts by type
     conflicts_by_type = {}
-    for c in open_conflicts:
-        conflicts_by_type[c.conflict_type] = conflicts_by_type.get(c.conflict_type, 0) + 1
+    for (ct,) in open_conflicts_types:
+        conflicts_by_type[ct] = conflicts_by_type.get(ct, 0) + 1
 
     if not conflicts_by_type:
         conflicts_by_type = {
@@ -50,7 +50,7 @@ def get_dashboard_stats(db: Session = Depends(get_db)):
     b_under_70 = conflicts_harm
 
     # If results not yet computed, provide initial default representation
-    if not results and parcels_count > 0:
+    if not results_status and parcels_count > 0:
         b_70_89 = parcels_count
         needs_rev = parcels_count
 

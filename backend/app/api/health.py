@@ -8,7 +8,7 @@ router = APIRouter(prefix="/health", tags=["Health"])
 def health_check():
     return {
         "status": "healthy",
-        "service": "BhuSync AI Backend",
+        "service": "Naksha.ai Backend",
         "version": "1.0.0",
         "pyproj_version": pyproj.__version__,
         "shapely_version": shapely.__version__,

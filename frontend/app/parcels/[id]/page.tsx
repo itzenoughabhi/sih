@@ -551,7 +551,7 @@ export default function ParcelDetailPage() {
             <div className="border-t border-[#E2E8F0] pt-4 flex items-center justify-between text-xs">
               <div className="flex items-center space-x-2 text-[#15803D]">
                 <ShieldCheck className="w-5 h-5" />
-                <span className="font-semibold text-[11px]">Digitally Certified by BhuSync AI Engine</span>
+                <span className="font-semibold text-[11px]">Digitally Certified by Naksha.ai Engine</span>
               </div>
 
               <button

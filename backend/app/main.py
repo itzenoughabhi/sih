@@ -14,8 +14,6 @@ from backend.app.api.dashboard import router as dashboard_router
 from backend.app.api.map import router as map_router
 from backend.app.api.demo import router as demo_router
 
-init_db()
-
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     init_db()
@@ -37,7 +35,7 @@ async def lifespan(app: FastAPI):
     yield
 
 app = FastAPI(
-    title="BhuSync AI API",
+    title="Naksha.ai",
     description="Automated Integration and Intelligent Harmonization of Multi-source Geospatial Data for Urban Land Record Management.",
     version="1.0.0",
     lifespan=lifespan
@@ -66,7 +64,7 @@ app.include_router(demo_router, prefix="/api")
 @app.get("/")
 def root():
     return {
-        "message": "Welcome to BhuSync AI — Geospatial Harmonization Platform",
+        "message": "Welcome to Naksha.ai — Geospatial Harmonization Platform",
         "docs": "/docs",
         "health": "/api/health"
     }

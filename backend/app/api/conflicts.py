@@ -102,3 +102,30 @@ def resolve_conflict(
         "decision": payload.decision.value,
         "reviewer": payload.reviewer
     }
+
+@router.post("/{conflict_id}/ai-advise")
+def get_ai_advice(conflict_id: str, db: Session = Depends(get_db)):
+    from backend.app.ai.advisor import generate_ai_dispute_advice
+    conflict = db.query(Conflict).filter(Conflict.id == conflict_id).first()
+    if not conflict:
+        raise HTTPException(status_code=404, detail="Conflict not found")
+
+    parcel_data = {}
+    if conflict.parcel:
+        parcel_data = {
+            "parcel_id": conflict.parcel.parcel_id,
+            "survey_number": conflict.parcel.survey_number,
+            "owner_name": conflict.parcel.owner_name,
+            "area": conflict.parcel.area
+        }
+
+    advice = generate_ai_dispute_advice(
+        conflict_type=conflict.conflict_type,
+        severity=conflict.severity,
+        description=conflict.description,
+        difference=conflict.difference,
+        source_a=conflict.source_a,
+        source_b=conflict.source_b,
+        parcel_data=parcel_data
+    )
+    return advice

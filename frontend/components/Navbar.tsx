@@ -61,8 +61,8 @@ export default function Navbar() {
               </div>
               <div>
                 <div className="flex items-center space-x-1.5">
-                  <span className="font-bold text-lg text-slate-100 tracking-tight">BhuSync</span>
-                  <span className="text-xs px-1.5 py-0.5 rounded font-semibold bg-blue-500/20 text-blue-400 border border-blue-500/30">AI</span>
+                  <span className="font-bold text-lg text-slate-100 tracking-tight">Naksha</span>
+                  <span className="text-xs px-1.5 py-0.5 rounded font-semibold bg-teal-500/20 text-teal-400 border border-teal-500/30">.ai</span>
                 </div>
                 <p className="text-[10px] text-slate-400 font-mono tracking-wider uppercase">Urban Land Record Harmonization</p>
               </div>

@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import { NavProvider } from "@/components/NavContext";
 
 export const metadata: Metadata = {
-  title: "BhuSync AI — Urban Land Record Harmonization",
+  title: "Naksha.ai — Urban Land Record Harmonization",
   description: "Automated Integration and Intelligent Harmonization of Multi-source Geospatial Data for Urban Land Record Management.",
 };
 

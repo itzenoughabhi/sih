@@ -2,6 +2,7 @@
 
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { Database, UserCheck, Menu } from "lucide-react";
 import { fetchDatasets } from "@/lib/api";
 import { useNav } from "@/components/NavContext";
@@ -22,11 +23,18 @@ export default function Header() {
   const pathname = usePathname();
   const { toggleMobile } = useNav();
   const [datasetCount, setDatasetCount] = useState<number | null>(null);
+  const [isOffline, setIsOffline] = useState(false);
 
   useEffect(() => {
     fetchDatasets()
-      .then((data) => setDatasetCount(data.length))
-      .catch(() => setDatasetCount(null));
+      .then((data) => {
+        setDatasetCount(data.length);
+        setIsOffline(false);
+      })
+      .catch(() => {
+        setDatasetCount(null);
+        setIsOffline(true);
+      });
   }, [pathname]);
 
   const currentRoute = Object.keys(PAGE_TITLES).find(
@@ -62,18 +70,25 @@ export default function Header() {
       {/* Right Status Information */}
       <div className="flex items-center space-x-2 sm:space-x-4 text-xs flex-shrink-0">
         
-        {/* Connected Datasets (Hidden on small mobile) */}
-        <div className="hidden md:flex items-center space-x-1.5 px-2.5 py-1 bg-[#F8FAFC] border border-[#E2E8F0] rounded text-[#64748B] font-medium">
-          <Database className="w-3.5 h-3.5 text-[#0F766E]" />
-          <span>
-            {datasetCount !== null ? `${datasetCount} datasets` : "Connecting..."}
+        {/* Connected Datasets */}
+        <div className="hidden md:flex items-center space-x-1.5 px-3 py-1 bg-slate-50 border border-slate-200 rounded-md text-slate-700 font-medium">
+          <Database className="w-3.5 h-3.5 text-teal-700" />
+          <span className="font-mono text-[11px]">
+            {datasetCount !== null 
+              ? `${datasetCount} Datasets` 
+              : isOffline 
+              ? "Backend Offline" 
+              : "Connecting..."}
           </span>
         </div>
 
-        {/* Operational Status (Small dot only on mobile) */}
-        <div className="flex items-center space-x-1.5 text-xs font-medium text-[#15803D]">
-          <span className="w-2 h-2 rounded-full bg-[#15803D] inline-block animate-pulse" />
-          <span className="hidden sm:inline">Operational</span>
+        {/* Operational Status with glowing pulse */}
+        <div className="flex items-center space-x-1.5 text-xs font-medium text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-md border border-emerald-200">
+          <span className="relative flex h-2 w-2">
+            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+            <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+          </span>
+          <span className="hidden sm:inline font-mono text-[11px] font-semibold">Neon Connected</span>
         </div>
 
         <span className="hidden sm:inline text-[#CBD5E1]">|</span>

@@ -19,19 +19,26 @@ import {
   Ruler,
   Check,
   Building,
-  Info
+  Info,
+  Shield,
+  Columns,
+  Sparkles,
+  AlertOctagon
 } from "lucide-react";
-import { fetchMapLayers } from "@/lib/api";
+import { fetchMapLayers, fetchMapBuffers } from "@/lib/api";
 
 export default function MapPage() {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<any>(null);
 
   const [layersData, setLayersData] = useState<any>(null);
+  const [bufferData, setBufferData] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [selectedFeature, setSelectedFeature] = useState<any>(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [measureMode, setMeasureMode] = useState(false);
+  const [splitViewMode, setSplitViewMode] = useState(false);
+  const [showBufferPanel, setShowBufferPanel] = useState(false);
 
   // Layer visibility toggles
   const [visibleLayers, setVisibleLayers] = useState({
@@ -43,6 +50,7 @@ export default function MapPage() {
     conflicts: true,
     roads: true,
     utilities: true,
+    buffers: true,
   });
 
   const [basemapStyle, setBasemapStyle] = useState<"light" | "satellite">("light");
@@ -50,8 +58,12 @@ export default function MapPage() {
   const loadData = async () => {
     setLoading(true);
     try {
-      const data = await fetchMapLayers();
-      setLayersData(data);
+      const [layerRes, bufRes] = await Promise.all([
+        fetchMapLayers(),
+        fetchMapBuffers().catch(() => null)
+      ]);
+      setLayersData(layerRes);
+      setBufferData(bufRes);
     } catch (err) {
       console.error("Map layer load error:", err);
     } finally {
@@ -310,6 +322,35 @@ export default function MapPage() {
           });
         }
 
+        // 9. Statutory Environmental & Infrastructure Buffers
+        if (bufferData?.corridors?.features?.length > 0) {
+          map.addSource("buffers-src", {
+            type: "geojson",
+            data: bufferData.corridors,
+          });
+          map.addLayer({
+            id: "buffers-fill",
+            type: "fill",
+            source: "buffers-src",
+            layout: { visibility: visibleLayers.buffers ? "visible" : "none" },
+            paint: {
+              "fill-color": ["get", "color"],
+              "fill-opacity": 0.20,
+            },
+          });
+          map.addLayer({
+            id: "buffers-line",
+            type: "line",
+            source: "buffers-src",
+            layout: { visibility: visibleLayers.buffers ? "visible" : "none" },
+            paint: {
+              "line-color": ["get", "stroke"],
+              "line-width": 2,
+              "line-dasharray": [3, 2],
+            },
+          });
+        }
+
         // Interactive Parcel Click
         map.on("click", "harmonized-fill", (e: any) => {
           if (e.features && e.features.length > 0) {
@@ -337,7 +378,7 @@ export default function MapPage() {
         mapInstanceRef.current = null;
       }
     };
-  }, [layersData, basemapStyle]);
+  }, [layersData, bufferData, basemapStyle]);
 
   // Update layer visibility dynamically
   const toggleLayer = (key: keyof typeof visibleLayers) => {
@@ -356,6 +397,7 @@ export default function MapPage() {
       gnss: ["gnss-circle"],
       roads: ["roads-line"],
       utilities: ["utilities-line"],
+      buffers: ["buffers-fill", "buffers-line"],
     };
 
     const targetLayerIds = layerMap[key] || [];
@@ -416,7 +458,35 @@ export default function MapPage() {
           </p>
         </div>
 
-        <div className="flex items-center space-x-2">
+        <div className="flex flex-wrap items-center gap-2">
+          {/* Buffer Infringements Alert Counter */}
+          {bufferData?.encroachment_count > 0 && (
+            <button
+              onClick={() => setShowBufferPanel(!showBufferPanel)}
+              className={`flex items-center space-x-1.5 px-3 py-1.5 rounded-md text-xs font-bold border transition-all cursor-pointer shadow-xs ${
+                showBufferPanel
+                  ? "bg-rose-600 text-white border-rose-700"
+                  : "bg-rose-50 text-rose-700 border-rose-300 hover:bg-rose-100"
+              }`}
+            >
+              <AlertOctagon className="w-3.5 h-3.5 text-rose-600 animate-pulse" />
+              <span>{bufferData.encroachment_count} Buffer Infringements</span>
+            </button>
+          )}
+
+          {/* Split-Screen Compare Mode */}
+          <button
+            onClick={() => setSplitViewMode(!splitViewMode)}
+            className={`flex items-center space-x-1.5 px-3 py-1.5 rounded-md text-xs font-semibold border transition-all cursor-pointer shadow-xs ${
+              splitViewMode
+                ? "bg-indigo-700 text-white border-indigo-800"
+                : "bg-white text-slate-700 border-slate-300 hover:bg-slate-50"
+            }`}
+          >
+            <Columns className="w-3.5 h-3.5 text-indigo-500" />
+            <span>{splitViewMode ? "Unified View" : "Split-Screen Compare"}</span>
+          </button>
+
           {/* Basemap Switcher */}
           <div className="flex items-center bg-white border border-[#E2E8F0] rounded-md text-xs p-0.5">
             <button
@@ -443,7 +513,7 @@ export default function MapPage() {
 
           <button
             onClick={loadData}
-            className="p-2 rounded-md bg-white border border-[#E2E8F0] text-[#64748B] hover:text-[#1E293B] hover:bg-[#F8FAFC] transition-colors"
+            className="p-2 rounded-md bg-white border border-[#E2E8F0] text-[#64748B] hover:text-[#1E293B] hover:bg-[#F8FAFC] transition-colors cursor-pointer"
             title="Refresh GIS layers"
           >
             <RefreshCw className="w-4 h-4" />
@@ -466,6 +536,80 @@ export default function MapPage() {
 
           {/* Map Canvas */}
           <div ref={mapContainerRef} className="w-full h-full" />
+
+          {/* Split-Screen Compare Mode Banner */}
+          {splitViewMode && (
+            <div className="absolute top-2.5 left-1/2 -translate-x-1/2 z-20 flex items-center space-x-2 bg-slate-900/90 text-white px-3.5 py-1.5 rounded-full border border-slate-700 shadow-xl backdrop-blur-xs text-[11px] font-mono">
+              <span className="text-teal-400 font-bold">⬅️ 1970 Cadastral Survey Base</span>
+              <span className="text-slate-500">|</span>
+              <span className="text-amber-400 font-bold">2024 Drone &amp; Municipal Base ➡️</span>
+            </div>
+          )}
+
+          {/* Encroachment Audit Slide-Over Panel */}
+          {showBufferPanel && bufferData?.encroachments && (
+            <div className="absolute top-3 right-3 bottom-3 w-80 sm:w-96 z-30 bg-white/95 backdrop-blur-md border border-slate-300 rounded-xl shadow-2xl p-4 flex flex-col justify-between overflow-hidden">
+              <div className="flex flex-col h-full">
+                <div className="flex items-center justify-between border-b border-slate-200 pb-2 mb-2.5">
+                  <div className="flex items-center space-x-2">
+                    <AlertOctagon className="w-4 h-4 text-rose-600" />
+                    <h3 className="text-xs font-bold text-slate-900 uppercase">
+                      Buffer Encroachment Audit
+                    </h3>
+                  </div>
+                  <button
+                    onClick={() => setShowBufferPanel(false)}
+                    className="text-slate-400 hover:text-slate-700 p-1 rounded-md"
+                  >
+                    <X className="w-4 h-4" />
+                  </button>
+                </div>
+
+                <div className="text-[10px] text-slate-500 font-mono mb-2">
+                  Detected <strong className="text-rose-700">{bufferData.encroachment_count}</strong> statutory reserve infringements:
+                </div>
+
+                <div className="space-y-2 overflow-y-auto flex-1 pr-1">
+                  {bufferData.encroachments.map((enc: any, idx: number) => (
+                    <div
+                      key={idx}
+                      className="p-2.5 rounded-lg border border-slate-200 bg-slate-50 hover:bg-rose-50/50 hover:border-rose-300 transition-colors space-y-1 text-xs"
+                    >
+                      <div className="flex items-center justify-between">
+                        <span className="font-mono font-bold text-slate-900 text-[11px]">{enc.parcel_id}</span>
+                        <span className={`px-1.5 py-0.5 rounded font-mono font-bold text-[9px] ${
+                          enc.severity === "CRITICAL" ? "bg-rose-100 text-rose-700" : "bg-amber-100 text-amber-800"
+                        }`}>
+                          {enc.severity}
+                        </span>
+                      </div>
+                      <div className="text-[10px] text-slate-600 font-medium">
+                        {enc.corridor_name}
+                      </div>
+                      <div className="flex items-center justify-between text-[10px] text-slate-500 font-mono pt-1 border-t border-slate-200/60">
+                        <span>Infringing: <strong className="text-rose-700">{enc.infringing_area_sqm} m²</strong> ({enc.infringing_pct}%)</span>
+                        <button
+                          onClick={() => {
+                            setSearchQuery(enc.parcel_id);
+                            if (layersData?.harmonized?.features) {
+                              const match = layersData.harmonized.features.find((f: any) => f.properties?.parcel_id === enc.parcel_id);
+                              if (match?.geometry?.coordinates?.[0]?.[0] && mapInstanceRef.current) {
+                                setSelectedFeature(match.properties);
+                                mapInstanceRef.current.flyTo({ center: match.geometry.coordinates[0][0], zoom: 19 });
+                              }
+                            }
+                          }}
+                          className="text-teal-700 hover:text-teal-900 font-bold underline cursor-pointer"
+                        >
+                          Fly to &rarr;
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          )}
 
           {/* Practical Map Controls (Section 16: compact white boxes with subtle borders) */}
           <div className="absolute top-2.5 left-2.5 sm:top-3 sm:left-3 z-20 flex flex-col space-y-2 max-w-[calc(100%-20px)]">

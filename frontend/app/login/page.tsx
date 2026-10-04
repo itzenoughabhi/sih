@@ -25,7 +25,7 @@ export default function LoginPage() {
           </div>
           <div>
             <h2 className="text-xl font-bold text-[#1E293B] tracking-tight">
-              BhuSync AI Portal Access
+              Naksha.ai Portal Access
             </h2>
             <div className="text-xs font-medium text-[#0F766E] uppercase tracking-wider mt-0.5">
               Urban Land Intelligence &amp; GIS Records

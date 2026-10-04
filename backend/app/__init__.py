@@ -1,1 +1,1 @@
-# BhuSync AI Backend Package
+# Naksha.ai Backend Package
