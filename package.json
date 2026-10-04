@@ -20,6 +20,9 @@
     "harmonization",
     "land-records"
   ],
+  "dependencies": {
+    "next": "^14.2.5"
+  },
   "devDependencies": {
     "concurrently": "^10.0.5"
   }
